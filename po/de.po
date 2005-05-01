@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-01 21:42+0200\n"
-"PO-Revision-Date: 2005-05-01 00:51+0100\n"
+"PO-Revision-Date: 2005-05-01 21:59+0100\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic@gmx.net>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -59,16 +59,15 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:19
 msgid "Rugnur"
-msgstr ""
+msgstr "Rugnur"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:31
-#, fuzzy
 msgid "Haldric II"
-msgstr "Haldric II fällt in der Schlacht"
+msgstr "Haldric II"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:67
 msgid "Glildur"
-msgstr ""
+msgstr "Glildur"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:85
 msgid "Transport 4 caravans full of silver back to the Dwarvish citadel"
@@ -290,7 +289,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:290
 msgid "Alanin"
-msgstr ""
+msgstr "Alanin"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:295
 msgid "Thats right!"
@@ -444,7 +443,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:31
 msgid "Glindur"
-msgstr ""
+msgstr "Glindur"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:54
 msgid ""
@@ -517,7 +516,7 @@ msgstr "Bedingungslos."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:213
 msgid "Baglur"
-msgstr ""
+msgstr "Baglur"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:215
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:43
@@ -534,37 +533,36 @@ msgstr ""
 "übergaben?!?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:227
-#, fuzzy
 msgid "Not really. This was supposedly a time of peace. Who are you?"
-msgstr "Nicht wirklich. Alle dachten, es sei eine Zeit des Friedens."
+msgstr ""
+"Nicht wirklich. Alle dachten, es sei eine Zeit des Friedens. Wer seid ihr?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:231
-#, fuzzy
 msgid ""
 "Argh! I'm a retired warrior... it looks like I'll have to come out and help "
 "you, or we'll be overrun by the damn elves... argh. Well, listen here. This "
 "entrance to the city can be closed. There's a gate. If we can close it, the "
 "elves will not be able to enter. And you elves; begone from here!"
 msgstr ""
-"Argh! Dann hört mir zu. Dieser Eingang zur Stadt kann verschlossen werden! "
-"Es gibt ein Tor! Wenn wir es schließen, werden die Elfen hier nicht "
-"eindringen können. Elfen: Verschwindet!"
+"Argh! Ich bin ein alter Recke... Sieht so aus, als ob ihr meine Hilfe "
+"braucht. Sonst werden wir noch von den verdammten Elfen überrannt... Argh, "
+"hört mir zu. Dieser Eingang zur Stadt kann verschlossen werden! Es gibt ein "
+"Tor! Wenn wir es schließen, werden die Elfen hier nicht eindringen können. "
+"Elfen: Verschwindet!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:235
-#, fuzzy
 msgid ""
 "Cease your meddling, old dwarf! Rugnur is in charge here, and it is he who "
 "will bargain with us."
 msgstr ""
-"Hört auf, euch einzumischen, alter Zwerg! Rugnur ist euer Kommandant and er "
-"wird sich uns entgegen stellen."
+"Hört auf, euch einzumischen, alter Zwerg! Rugnur ist euer hier zuständig und "
+"er wird sich uns entgegen stellen."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:239
 msgid "Baglur, how do you close the gates?"
 msgstr "Baglur, wie kann ich die Tore verschließen?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:243
-#, fuzzy
 msgid ""
 "Agh, well that's the difficulty. Its a magic gate. Indestructable. But that "
 "means it can only be closed by magic. You need to position a warrior on each "
@@ -584,6 +582,8 @@ msgid ""
 "Argh, well, no. Lately trolls have been more in charge of those caves where "
 "the glyphs are than we dwarves have."
 msgstr ""
+"Nun ja, da gibt es ein kleines Problem. In letzter Zeit waren in den Höhlen "
+"naha den Glyphen mehr Trolle als Zwerge."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:255
 msgid "Well, where are they located?"
@@ -663,9 +663,8 @@ msgid "You would have us be cowards! We do not surrender."
 msgstr "Ihr denkt wohl, wir seien Feiglinge! Wir werden niemals aufgeben."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:448
-#, fuzzy
 msgid "Kill all elves who are in the caves"
-msgstr "Tötet alle Elfen, die nach Schließung der Tore noch in den Höhlen sind"
+msgstr "Tötet alle Elfen in den Stollen"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:479
 msgid ""
@@ -689,19 +688,19 @@ msgstr "Meine Glyphe ist aktiviert."
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:28
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:28
 msgid "Durstorn"
-msgstr ""
+msgstr "Durstorn"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:42
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:42
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:45
 msgid "Neglur"
-msgstr ""
+msgstr "Neglur"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:54
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:54
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:57
 msgid "Glinar"
-msgstr ""
+msgstr "Glinar"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:55
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:55
@@ -713,7 +712,7 @@ msgstr "loyal, schnell"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:66
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:69
 msgid "Noiraran"
-msgstr ""
+msgstr "Noiraran"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:67
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:67
@@ -725,7 +724,7 @@ msgstr "loyal, intelligent"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:78
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:81
 msgid "Kuhnar"
-msgstr ""
+msgstr "Kuhnar"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:79
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:79
@@ -955,7 +954,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:273
 msgid "Krawg"
-msgstr ""
+msgstr "Krawg"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:279
 msgid "Kwill yooo spakkk wit uuus?!?"
@@ -999,9 +998,8 @@ msgstr "Waas... duuu illlst uuuns verrsssteeckennn nuuun? Wiiir köönnn..."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:336
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:490
-#, fuzzy
 msgid "Death of Krawg"
-msgstr "Baglur fällt in der Schlacht"
+msgstr "Krawg fällt in der Schlacht"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:370
 msgid "I see a house in the distance!"
@@ -1104,7 +1102,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:474
 msgid "Move Thursagan to the signpost"
-msgstr ""
+msgstr "Bringt Thursagan zu dem Wegweiser"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:47
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:494
@@ -1275,7 +1273,6 @@ msgid "Death of Rugnar"
 msgstr "Rugnar fällt in der Schlacht"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:74
-#, fuzzy
 msgid ""
 "Well, these are the eastern mines. Krawg, are you sure you want to come with "
 "us? Caves are not exactly your preferred environment!"
@@ -1769,16 +1766,3 @@ msgstr "Klauen"
 #: Sceptre_of_Fire/units/Wolf.cfg:37
 msgid "blade"
 msgstr "Klinge"
-
-#~ msgid ""
-#~ "Alas, no. When you went out to talk to Haldric, they thought a show of "
-#~ "force might be in order, and gathered at the front gate. They did not "
-#~ "anticipate an elvish attack any more than you did."
-#~ msgstr ""
-#~ "Leider nicht. Als ihr herrausgingt um zu Haldric zu sprechen dachten sie, "
-#~ "es wäre sinnvoll, unsere Macht zu demonstrieren. Deshalb sammelten sie "
-#~ "ich am Haupttor. Sie haben genausowenig mit einem Angriff durch die Elfen "
-#~ "gerechnet, wie ihr."
-
-#~ msgid "None"
-#~ msgstr "Nichts"
