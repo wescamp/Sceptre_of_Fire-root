@@ -3,13 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-01 21:42+0200\n"
-"PO-Revision-Date: 2005-04-29 20:50+0200\n"
-"Last-Translator: Susanna  Björverud <susanna.bjorverud@telia.com>\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2005-05-03 23:21+0200\n"
+"Last-Translator: tephlon\n"
+"Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.10\n"
 
 #: Sceptre_of_Fire.cfg:9
 msgid "The Sceptre of Fire"
@@ -46,30 +47,29 @@ msgid ""
 "consquences will be...\n"
 "(Version 0.2.0, 4-06-05)"
 msgstr ""
-"I nordanländerna tror sig en liten stam av dvärgar leva i fred med sina "
-"grannar. Men blott ett par kilometer söderut så marscherar Kungen av "
-"Wesnoth, Haldric II norrut med en mäktig sten - Eldrubinen. Österut så "
-"förbereder alverna en attack på karavanen från Wesnoth för att stjäla "
-"rubinen. Rugnur, en ung dvärgkapten gör en överenskommelse med wesnotherna, "
-"och nu kan ingen veta vad som komma skall....\n"
+"I nordländerna tror sig en liten stam av dvärgar leva i fred med sina "
+"grannar. Men blott ett par kilometer söderut marscherar Kungen av Wesnoth, "
+"Haldric II, norrut med en mäktig sten - Eldrubinen. Österut förbereder "
+"alverna en attack på karavanen från Wesnoth för att stjäla rubinen. Rugnur, "
+"en ung dvärgkapten träffar en överenskommelse med wesnothborna, och nu vet "
+"ingen vad som komma skall...\n"
 "(Version 0.2.0, 2005-04-06)"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:19
 msgid "Rugnur"
-msgstr ""
+msgstr "Rugnur"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:31
-#, fuzzy
 msgid "Haldric II"
-msgstr "Haldric II dör"
+msgstr "Haldric II"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:67
 msgid "Glildur"
-msgstr ""
+msgstr "Glildur"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:85
 msgid "Transport 4 caravans full of silver back to the Dwarvish citadel"
-msgstr "För 4 silverkaravaner tillbaka till dvärgarnas citadell"
+msgstr "För 4 silverkaravaner till dvärgarnas citadell"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:89
 msgid "Bring Alanin, who has the Ruby of Fire, to the Dwarvish citadel"
@@ -100,7 +100,7 @@ msgstr "En fullastad karavan blir tillfångatagen (utplånad)"
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:498
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:105
 msgid "Time runs out"
-msgstr "Rundorna tar slut"
+msgstr "Dragen tar slut"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:179
 msgid "Humans, halt! Don't come any closer, we dwarves don't like company..."
@@ -115,7 +115,7 @@ msgid ""
 "Well, state your business and be done with it. And if we don't like what you "
 "say, you leave!"
 msgstr ""
-"Nå så säg då vad ni vill. Och om vi inte tycker om vad vi hör, så ger ni er "
+"Nå, så säg då vad ni vill. Och om vi inte tycker om vad vi hör, så ger ni er "
 "av."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:191
@@ -125,7 +125,7 @@ msgstr "Har ni hört talas om Eldrubinen?"
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:195
 msgid "Yes... your first king brought it from over the sea, right? You own it."
 msgstr ""
-"Ja..er första kung hade den med sig från andra sidan havet, eller hur?Ni "
+"Ja... Er första kung hade den med sig från andra sidan havet, eller hur?Ni "
 "äger den."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:199
@@ -144,8 +144,8 @@ msgid ""
 "arrogant, almost evil, he became."
 msgstr ""
 "Stenen är omgiven av en magisk aura som får de som är i närheten av den att "
-"bära sig...konstigt åt. Jag märkte det först hos min fader. Ju längre han "
-"var i närheten av stenen, desto mer arrogant, ja nästan ondskefull, blev han."
+"bära sig...konstigt åt. Jag märkte det först hos min far. Ju längre han var "
+"i närheten av stenen, desto mer arrogant, ja nästan ondskefull, blev han."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:211
 msgid ""
@@ -153,9 +153,9 @@ msgid ""
 "advice of my advisors and friends. They told me this, and locked the stone "
 "away from me. I was mad then, but now I agree with their actions."
 msgstr ""
-"Samma sak händer med mig. Ju längre tid jag var i dess närhet, desto  mer "
+"Samma sak hände med mig. Ju längre tid jag var i dess närhet, desto mer "
 "struntade jag i mina vänner och rådgivares råd. De berättade detta för mig, "
-"och tog stenen i från mig och låste in den. Jag blev mycket arg när det "
+"och tog stenen ifrån mig och låste in den. Jag blev mycket arg när det "
 "hände, men nu vet jag att de gjorde rätt."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:215
@@ -190,8 +190,8 @@ msgid ""
 "Well... I think we can make a deal, but I'm not sure. I'll have to ask the "
 "tribal leaders."
 msgstr ""
-"Nå...jag tror vi kan komma till en överenskommelse, men jag är inte säker. "
-"Jag måste rådslå med stammens ledare."
+"Nå... Jag tror att vi kan träffa en överenskommelse av något slag, men jag "
+"är inte säker. Jag måste rådslå med stammens ledare."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:235
 msgid ""
@@ -207,15 +207,15 @@ msgid ""
 "in person, or send a representative."
 msgstr ""
 "De skulle vägra att komma. Du måste komma ner i grottorna, och personligen "
-"gå till staden, eller sända en ställföreträdare."
+"gå till staden, eller skicka en ställföreträdare."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:243
 msgid ""
 "I can always take my offer to another tribe more friendly to its potential "
 "patrons. You are not the only smiths in the Northlands!"
 msgstr ""
-"Jag kan alltid vända mig till en annan stam, en som är mer vänlig gentemot "
-"potentiella kunder. Ni är inte de enda smederna som finns i Nordanländerna!"
+"Jag kan alltid vända mig till en annan stam, en som är mer vänlig mot "
+"potentiella kunder. Ni är inte de enda smederna som finns i nordländerna!"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:247
 msgid ""
@@ -234,8 +234,8 @@ msgid ""
 "You said you wanted a powerful magical artifact, not a child's playtoy! "
 "Twenty thousand, minimum."
 msgstr ""
-"Du sa att ni sökte en kraftfull magisk artefakt, inte en leksak! Inte mindre "
-"än tjugotusen."
+"Du sa att ni ville ha en kraftfull magisk artefakt, inte en leksak! Inte "
+"mindre än tjugotusen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:259
 msgid "Ten thousand."
@@ -256,7 +256,7 @@ msgid ""
 "Fine then. Ten thousand... now, what exactly do you want us to make the ruby "
 "into?"
 msgstr ""
-"OK. Tiotusen...men vad är det nu för någonting ni vill att vi skall göra av "
+"OK. Tiotusen... Men vad är det nu för någonting ni vill att vi skall göra av "
 "rubinen?"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:275
@@ -276,12 +276,12 @@ msgid ""
 "Done. I have the silver here, ready to ship, and I will send a messenger "
 "over with the stone itself."
 msgstr ""
-"Avgjort. Jag har silvret här, färdigt att fraktas iväg, och jag sänder iväg "
-"en budbärare med själva stenen."
+"Avgjort. Jag har silvret här, färdigt att fraktas iväg, och jag skickar en "
+"budbärare med själva stenen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:290
 msgid "Alanin"
-msgstr ""
+msgstr "Alanin"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:295
 msgid "Thats right!"
@@ -293,11 +293,11 @@ msgid ""
 "transport gold and jewels on it without paying a toll."
 msgstr ""
 "Hallå där! Så kan ni inte göra - detta är alvernas väg. Vi låter er inte "
-"frakta guld och juvler på den utan att betala tull."
+"frakta guld och juveler på den utan att betala tull."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:303
 msgid "What are you talking about?! This road has always been open to all."
-msgstr "Vad talar du om?! Denna vägen har alltid varit allmän väg."
+msgstr "Vad talar du om?! Den här vägen har alltid varit allmän väg."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:307
 msgid "Yes, we have allowed people to use it, but it is our road."
@@ -329,9 +329,9 @@ msgid ""
 "I was never among those who agreed to that treaty. Not all of us Elves are "
 "as low as Kalenz, or make deals with those who betrayed us."
 msgstr ""
-"Jag tillhörde inte dem som tyckte att avtalet var den god sak. Inte alla "
-"alver har sjunkit lika lågt som Kalenz, och sluter inte avtal med den som "
-"har förrått oss."
+"Jag tillhör inte dem som tyckte att avtalet var den god sak. Inte alla alver "
+"har sjunkit lika lågt som Kalenz, eller sluter avtal med den som har förrått "
+"oss."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:327
 msgid ""
@@ -339,16 +339,16 @@ msgid ""
 "they will not mind if we forcibly protect ourselves from you while "
 "transporting our caravans. Rugnur, we _will_ proceed with the shipment."
 msgstr ""
-"Åh, en upprorsmakare. Vårt avtal med alverna kan inte gälla dig, så jag är "
+"Åhå, en upprorsmakare. Vårt avtal med alverna kan inte gälla dig, så jag är "
 "säker på att de inte har något emot ifall vi skyddar våra karavaner med våld "
-"mot dig. Rugnur, vi _kommer_ att fortsätta transporten."
+"mot dig. Rugnur, vi fortsätter transporten."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:330
 msgid ""
 "Very well. Glildur, if the high elvish council has made an alliance with the "
 "men, I would advise you to follow it, but not doing so is your choice."
 msgstr ""
-"Nåväl. Glidur, om alvernas högsta råd har slutet en allians med människorna, "
+"Nåväl. Glildur, om alvernas högsta råd har slutit en allians med människorna "
 "så vill jag råda dig att följa detta, men det är ditt val att avstå."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:384
@@ -374,17 +374,17 @@ msgstr "Lasten avlastad."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:486
 msgid "You only need $incominggold more, then you can begin work."
-msgstr "Du behöver endast $incominggold till, sedan kan du börja arbeta."
+msgstr "Du behöver bara $incominggold till, sedan kan du börja arbeta."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:492
 msgid ""
 "You only need $incominggold more, and the stone, then you can begin work."
 msgstr ""
-"Du behöver endast $incominggold till, och stenen, sedan kan du börja arbeta."
+"Du behöver bara $incominggold till, och stenen, sedan kan du börja arbeta."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:506
 msgid "That's the last caravan! We will commence work immediately."
-msgstr "Det var den sista karavanen! Vi påbörjar omedelbart arbetet."
+msgstr "Det var den sista karavanen! Vi påbörjar arbetet omedelbart."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:520
 msgid "We have all of the silver, now all we need is the ruby."
@@ -395,8 +395,7 @@ msgid ""
 "Ha! Our reinforcements have arrived. There is no way you can withstand our "
 "might!"
 msgstr ""
-"Hah! Våra truppförstärkningar har anlänt. Nu kan ni inte göra motstånd "
-"längre!"
+"Ha! Våra truppförstärkningar har anlänt. Nu kan ni inte göra motstånd längre!"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:550
 msgid ""
@@ -412,9 +411,9 @@ msgid ""
 "resistance to the treaty was smaller than this. Hurry up and move those "
 "caravans!"
 msgstr ""
-"Alverna har fått truppförstärkningar! Var kom de i från? Jag trodde inte att "
-"alvernas motstånd mot avtalet var så stort som så här. Skynda er, vi måste "
-"få karavanerna i säkerhet!"
+"Alverna har fått truppförstärkningar! Var kom de ifrån? Jag trodde inte att "
+"alvernas motstånd mot avtalet var så här stort. Skynda er, vi måste få "
+"karavanerna i säkerhet!"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:574
 msgid ""
@@ -426,7 +425,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:31
 msgid "Glindur"
-msgstr ""
+msgstr "Glindur"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:54
 msgid ""
@@ -453,8 +452,7 @@ msgstr "Baglur dör"
 msgid ""
 "These elves are right behind me! We have to go warn the council of this "
 "attack!..."
-msgstr ""
-"De där alverna är i hälarna på mig! Vi måste varna rådet för attacken!..."
+msgstr "De där alverna är i hälarna på mig! Vi måste varna rådet för attacken!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:148
 msgid "I am no good fighting in caves - I'll go warn the council."
@@ -473,9 +471,9 @@ msgid ""
 "help? We have more troops and more provisions, and we are going to enter "
 "those caves and kill you!"
 msgstr ""
-"Jag ser att du har skickat iväg en budbärare till staden. Det var bra tänkt, "
-"men tror du verkligen det hjälper? Vi har fler trupper och är bättre "
-"utrustade, och vi kommer att inta dessa grottor och döda er!"
+"Jag ser att du har skickat en budbärare till staden. Det var bra tänkt, men "
+"tror du verkligen det hjälper? Vi har fler trupper och är bättre utrustade, "
+"och vi kommer att inta grottorna och döda er!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:172
 msgid "*gulp*"
@@ -483,7 +481,7 @@ msgstr "*svälj*"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:176
 msgid "Ha! I thought as much. Well then, surrender!"
-msgstr "Hah! Det var väl det jag trodde. Nå, ge er!"
+msgstr "Ha! Det var väl det jag trodde. Nå, ge er!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:180
 msgid "Um... on what terms?"
@@ -495,7 +493,7 @@ msgstr "Ovillkorligt."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:213
 msgid "Baglur"
-msgstr ""
+msgstr "Baglur"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:215
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:43
@@ -512,23 +510,22 @@ msgstr ""
 "här?!?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:227
-#, fuzzy
 msgid "Not really. This was supposedly a time of peace. Who are you?"
-msgstr "Nej inte egentligen. Detta skulle ju vara fredstider."
+msgstr "Nej inte egentligen. Detta skulle ju vara fredstider. Vem är du?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:231
-#, fuzzy
 msgid ""
 "Argh! I'm a retired warrior... it looks like I'll have to come out and help "
 "you, or we'll be overrun by the damn elves... argh. Well, listen here. This "
 "entrance to the city can be closed. There's a gate. If we can close it, the "
 "elves will not be able to enter. And you elves; begone from here!"
 msgstr ""
-"Argh! Nå, hör på mig nu. Denna ingång till staden kan stängas! Det finns en "
-"port! Om vi kan stänga den, så kommer alverna inte in. Alver: Ge er av!"
+"Argh! Jag är en pensionerad krigare... Det ser ut som att jag måste komma ut "
+"och hjälpa er, eller så blir vi överkörda av de fördömda alverna... Argh.Nå, "
+"hör på mig nu. Den här ingången till staden kan stängas. Det finns en port. "
+"Om vi kan stänga den, så kommer alverna inte in. Och ni alver: Ge er av!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:235
-#, fuzzy
 msgid ""
 "Cease your meddling, old dwarf! Rugnur is in charge here, and it is he who "
 "will bargain with us."
@@ -541,7 +538,6 @@ msgid "Baglur, how do you close the gates?"
 msgstr "Baglur, hur stänger man portarna?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:243
-#, fuzzy
 msgid ""
 "Agh, well that's the difficulty. Its a magic gate. Indestructable. But that "
 "means it can only be closed by magic. You need to position a warrior on each "
@@ -549,7 +545,7 @@ msgid ""
 msgstr ""
 "Tja, det är svårigheten. Det är en magisk port. Oförstörbar. Men det betyder "
 "också att den enbart kan stängas av magi. Du behöver placera en krigare på "
-"var och en av de sex runorna. När alla är bemannade, så öppnas porten."
+"var och en av de sex runorna. När alla är bemannade, så stängs porten."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:247
 msgid "Don't we have troops positioned near these glyphs, to unlock them?"
@@ -562,6 +558,8 @@ msgid ""
 "Argh, well, no. Lately trolls have been more in charge of those caves where "
 "the glyphs are than we dwarves have."
 msgstr ""
+"Argh, nej. På sistone så har trollen haft mer kontroll över grottorna där "
+"runorna finns än vad vi dvärgar har haft."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:255
 msgid "Well, where are they located?"
@@ -579,7 +577,7 @@ msgstr ""
 msgid ""
 "Have you made up your mind yet about surrendering?! If you don't, prepare "
 "for battle!"
-msgstr "Har du bestämt dig än? Ger du upp?! Om inte så förbered dig för strid."
+msgstr "Har du bestämt dig än? Ger du dig?! Om inte så bered dig på strid."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:267
 msgid ""
@@ -587,7 +585,7 @@ msgid ""
 "Dwarf-made stonecraft. We refuse - now let's close these gates!"
 msgstr ""
 "Du är kanske mäktigare än vi är, men jag betvivlar att ens du kan ta dig "
-"igenom stenhantverk av dvärghand. Vi vägrar - låt oss stänga dessa portar nu!"
+"igenom stenhantverk av dvärghand. Vi vägrar - nu stänger vi portarna!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:303
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:323
@@ -604,8 +602,8 @@ msgid ""
 "I think it can be sealed up somehow... Yes, look, activating that glyph "
 "seems to have closed up the gap."
 msgstr ""
-"Jag tror att den kan förseglas på något sätt.. Ja, se, om man aktiverar den "
-"runan så verkar öppningen stängas."
+"Jag tror att den kan förseglas på något sätt... Ja, titta, om man aktiverar "
+"den runan så verkar öppningen stängas."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:371
 msgid "We have everyone positioned on the glyphs! What do we do now?"
@@ -617,7 +615,7 @@ msgid ""
 "unfortunately, our dwarves who are still out there - will become irrelevant."
 msgstr ""
 "Bara vänta och se. Portarna kommer snart att stängas. Då kommer de alver som "
-"är kvar därute, och tyvärr också de dvärgar som inte hunnit in att inte "
+"är kvar därute, och tyvärr också de dvärgar som inte hunnit in, att inte "
 "längre spela någon roll."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:418
@@ -629,24 +627,23 @@ msgid ""
 "There are still some elves left in here. We have to eliminate them, too, "
 "unless they surrender."
 msgstr ""
-"Det finns fortfarande alver kvar här inne. Vi måste elimenera dem också, om "
-"de inte ger upp."
+"Det finns fortfarande alver kvar här inne. Vi måste eliminera dem också, "
+"såvida de inte ger upp."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:443
 msgid "You would have us be cowards! We do not surrender."
-msgstr "Tror ni att vi är fegisar! Vi ger inte upp."
+msgstr "Vi är inga ynkryggar! Vi ger inte upp."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:448
-#, fuzzy
 msgid "Kill all elves who are in the caves"
-msgstr "Döda alla alver som finns i grottorna efter att portarna stängts"
+msgstr "Döda alla alver som finns i grottorna"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:479
 msgid ""
 "That's all of the elves. Now I should go down to the city and report. I'm "
 "late already..."
 msgstr ""
-"Det var all alverna. Nu måste jag ge mig av ner till staden och avlägga "
+"Det var alla alver. Nu måste jag ge mig av ner till staden och avlägga "
 "rapport. Jag är redan försenad..."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:492
@@ -663,19 +660,19 @@ msgstr "Jag har aktiverat min runa."
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:28
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:28
 msgid "Durstorn"
-msgstr ""
+msgstr "Durstorn"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:42
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:42
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:45
 msgid "Neglur"
-msgstr ""
+msgstr "Neglur"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:54
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:54
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:57
 msgid "Glinar"
-msgstr ""
+msgstr "Glinar"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:55
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:55
@@ -687,7 +684,7 @@ msgstr "lojal, snabb"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:66
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:69
 msgid "Noiraran"
-msgstr ""
+msgstr "Noiraran"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:67
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:67
@@ -699,7 +696,7 @@ msgstr "lojal, intelligent"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:78
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:81
 msgid "Kuhnar"
-msgstr ""
+msgstr "Kuhnar"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:79
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:79
@@ -712,7 +709,7 @@ msgid ""
 "Where's that fool Rugnur gotten to? The junior officer's always supposed to "
 "arrive at the meetings early."
 msgstr ""
-"Vad har dumskallen Rugnur blivit av? Underofficerarna skall ju alltid komma "
+"Var har dumskallen Rugnur blivit av? Underofficerarna skall ju alltid komma "
 "i god tid till mötena."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:95
@@ -724,8 +721,8 @@ msgid ""
 "Ha! There hasn't been a border attack since the men came from over the sea, "
 "why would someone attack us now?"
 msgstr ""
-"Fnys! Det har inte förekommit en gränsattack sedan människorna kom över "
-"havet, varför skulle någon vilja anfalla oss nu?"
+"Ha! Det har inte förekommit en gränsattack sedan människorna kom över havet, "
+"varför skulle någon vilja anfalla oss nu?"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:103
 msgid "The elves might want our gold."
@@ -733,7 +730,7 @@ msgstr "Alverna vill kanske ha vårt guld."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:107
 msgid "Good one, Let them try to take it! Ha!"
-msgstr "Den var bra, låt dem försöka ta det! Fnys!"
+msgstr "Den var bra, låt dem försöka ta det! Ha!"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:111
 msgid "Heh..."
@@ -744,8 +741,8 @@ msgid ""
 "(pant) Hey, Durstorn, have we started yet? King Haldric came by just now, "
 "wanted to talk to you..."
 msgstr ""
-"(flämt) Hallå, Durstorn, har vi börjat än? Kung Haldric kom på besök just "
-"nu, han ville prata med er..."
+"(flämt) Hallå, Durstorn, har vi börjat än? Kung Haldric kom just på besök, "
+"han ville prata med er..."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:136
 msgid "Speak properly to your elders, boy! Why are you late?"
@@ -765,12 +762,11 @@ msgid ""
 "doors. Then we had to close the doors, which took considerable time."
 msgstr ""
 "Det är nog bäst om jag får förklara då. Kung Haldric II av Wesnoth kom till "
-"dörrarna. Sedan var vi tvungna att stänga dörrarna, vilket tog en avsevärd "
-"tid."
+"portarna. Sedan var vi tvungna att stänga dem, vilket tog en avsevärd tid."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:152
 msgid "What'd he want? And why'd you have to close the doors?"
-msgstr "Vad ville han? Och varför var du tvungen att stänga dörrarna?"
+msgstr "Vad ville han? Och varför var du tvungen att stänga portarna?"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:156
 msgid ""
@@ -780,9 +776,9 @@ msgid ""
 "attacking us."
 msgstr ""
 "Han ville ingå ett avtal med oss. Han gav oss en magisk sten, som kallas "
-"'Eldrubinen', och bad att vi skulle göra en spira till den, för att binda "
-"den onda magin, eller något sådant. Vi stängde dörrarna för att alverna "
-"attackerade oss."
+"Eldrubinen, och bad att vi skulle göra en spira till den, för att binda den "
+"onda magin, eller något sådant. Vi stängde portarna för att alverna anföll "
+"oss."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:160
 msgid "What is he going to give us for it, eh?"
@@ -802,14 +798,14 @@ msgid ""
 "the elders! We could have gotten much more than ten thousand silver out of "
 "him!"
 msgstr ""
-"Vad?!? Du har redan slutit avtal med honom? Dåraktiga pojke, du skulle ha "
+"Vad?!? Har du redan slutit avtal med honom? Dåraktiga pojke, du skulle ha "
 "hämtat en av de äldste! Vi kunde ha fått mycket mer än tiotusen silver av "
 "honom!"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:172
 msgid "Sorry, lord, but he said he would move on to another tribe if I left."
 msgstr ""
-"Jag är ledsen, furste, men han sa att han skulle ge sig av till en annan "
+"Jag är ledsen, ers nåd, men han sa att han skulle ge sig av till en annan "
 "stam om jag gav mig av."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:176
@@ -843,7 +839,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:188
 msgid "You mean the insane dwarf who lives in the far north?!"
-msgstr "Du menar den vansinnige dvärgen som bor i den fjärran nord?!"
+msgstr "Du menar den vansinnige dvärgen som bor i fjärran norden?!"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:192
 msgid ""
@@ -867,7 +863,7 @@ msgid ""
 "somewhere in those hills."
 msgstr ""
 "Gå till den nordligaste ingången till grottorna, och fortsätt norrut "
-"därifrån. Han finns någonstans bland de kullarna."
+"därifrån. Han finns någonstans bland kullarna där."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:220
 msgid "What did I miss, eh?"
@@ -877,15 +873,14 @@ msgstr "Vad har jag missat, då?"
 msgid ""
 "Who the devil are you? Well, you seem to be with Rugnur... follow him north."
 msgstr ""
-"Vem i hela friden är du? Nå, du verkar vara tillsammans med Rugnur...följ "
-"efter honom norrut."
+"Vem i hela friden är du? Nå, du verkar vara tillsammans med Rugnur... Följ "
+"med honom norrut."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:80
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:320
 msgid "Find Thursagan and convince him to come back to the dwarvish city"
 msgstr ""
-"Hitta Thursagan och övertyga honom om att följa med tillbaka till "
-"dvärgstaden."
+"Hitta Thursagan och övertyga honom om att följa med tillbaka till dvärgstaden"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:39
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:88
@@ -896,7 +891,7 @@ msgstr "Alanin dör"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:139
 msgid "Now where are we going, anyway?"
-msgstr "Men vart är vi på väg egentligen?"
+msgstr "Vart är vi på väg egentligen?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:143
 msgid ""
@@ -916,7 +911,7 @@ msgid ""
 "live this far north!"
 msgstr ""
 "Det finns nog inte några andra hus än hans här uppe. Ingen annan är galen "
-"nog att bo så här långt norr ut!"
+"nog att bo så här långt norrut!"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:155
 msgid "Except for trolls and ogres, right?"
@@ -928,7 +923,7 @@ msgstr "Just det. Vi kommer troligen att behöva kämpa oss fram till hans hus."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:273
 msgid "Krawg"
-msgstr ""
+msgstr "Krawg"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:279
 msgid "Kwill yooo spakkk wit uuus?!?"
@@ -936,11 +931,11 @@ msgstr "Kvill dooo taaala mit ooos?!?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:283
 msgid "Aah! What is that?!?"
-msgstr "Ooh! Vad är det?!?"
+msgstr "Aah! Vad är det?!?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:287
 msgid "Is that... is that a gryphon?"
-msgstr "Är det...är det en grip?"
+msgstr "Är det... Är det en grip?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:291
 msgid "Kwes! Yooo spakkk wit uuus nuu?"
@@ -960,37 +955,36 @@ msgstr "Nja, jo. Hur så, kan du hjälpa oss?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:307
 msgid "Ess... if yooo ills ka rolls aan ogras, us'll elp yoo!"
-msgstr "aaa...om dooo ööda roll oook ettar, jeelpa viii dooo!"
+msgstr "Aaa... Om dooo ööda roll oook ettar, jeelpa viii dooo!"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:311
 msgid "Sure, we'll help you fight trolls and ogres."
-msgstr "Självklart, vi hjälper er slåss mot troll och jättar."
+msgstr "Självklart, vi hjälper er att slåss mot troll och jättar."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:315
 msgid "Kwe... yoo ants to ide uuus, nooa? Kwe, uus kan..."
-msgstr "KVaa...dooo ill ömma oos, nooo= KVaa, viii kaan..."
+msgstr "Kvaa... Dooo ill ömma oos, nooo? Kvaa, viii kaan..."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:336
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:490
-#, fuzzy
 msgid "Death of Krawg"
-msgstr "Baglur dör"
+msgstr "Krawg dör"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:370
 msgid "I see a house in the distance!"
-msgstr "Jag ser ett hus i fjärran!"
+msgstr "Jag ser ett hus där borta!"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:384
 msgid "Go away, you pesky birds!"
-msgstr "Ge dig av, era räliga fåglar!"
+msgstr "Ge dig av, era dumma fåglar!"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:388
 msgid ""
 "He doesn't want to talk to the gryphons! I think we'll have to get someone "
 "there he will talk to..."
 msgstr ""
-"Han vill inte tala med griparna! Jag tror vi måste få någon som han kan "
-"tänka sig att tala med dit fram..."
+"Han vill inte tala med griparna! Jag tror vi måste skicka någon som han kan "
+"tänka sig att tala med..."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:410
 msgid "What do you people want!? Leave me alone!"
@@ -1009,8 +1003,8 @@ msgid ""
 "Ha! That fool thinks he can order me around. Why does he want me to go back, "
 "anyway?"
 msgstr ""
-"Fnys! Den dåren tror att han kan ge mig order. Varför vill han att jag skall "
-"komma tillbaka?"
+"Ha! Den dåren tror att han kan ge mig order. Och varför vill han att jag "
+"skall komma tillbaka?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:422
 msgid ""
@@ -1047,7 +1041,7 @@ msgid ""
 "powerful as those of arch mages."
 msgstr ""
 "Det är en juvel från Wesnoth, så mycket är sant, men den är också den mest "
-"kraftfulla artefact som någonsin skådats. Till och med en otränad hand kan "
+"mäktiga artefakt som någonsin skådats. Till och med en otränad hand kan "
 "använda den för att slunga iväg eldblixtar lika kraftfulla som de en "
 "ärkemagiker kan skapa."
 
@@ -1064,21 +1058,21 @@ msgid ""
 "I see. Fine then, I will help you craft this sceptre... into the most "
 "powerful magic artifact ever seen. This will be a true test of my skill."
 msgstr ""
-"Jag förstår. Nå, bra så, jag skall hjälpa till och göra denna spira...till "
-"den kraftfullaste magiska artefact som någonsin skådats. Detta är ett "
-"uppgift värdig min skicklighet."
+"Jag förstår. Nå, jag skall hjälpa till och göra denna spira...till den "
+"mäktigaste magiska artefakt som någonsin skådats. Detta är en uppgift värdig "
+"min skicklighet."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:454
 msgid ""
 "Good. Now, there are still wild animals here... we have to get back into the "
 "caves."
 msgstr ""
-"Bra. Nu så finns det ju fortfarande vilda djur här...vi måste tillbaka in i "
+"Bra. Nu så finns det ju fortfarande vilda djur här... Vi måste tillbaka in i "
 "grottorna."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:474
 msgid "Move Thursagan to the signpost"
-msgstr ""
+msgstr "Flytta Thursagan till vägskylten"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:47
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:494
@@ -1107,7 +1101,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:109
 msgid "Yes, we did. And that is Krawg, who helped us in the northlands."
-msgstr "Ja, vi lyckades. Och det är Krawg, som hjälpte oss i nordanländerna."
+msgstr "Ja, vi lyckades. Och det är Krawg, som hjälpte oss i nordländerna."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:113
 msgid "Yaa! Mee Krawg!"
@@ -1115,8 +1109,7 @@ msgstr "Jaaa! Meeeg Krawg!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:117
 msgid "Now, where is this ruby that I am to work with, eh Durstorn?"
-msgstr ""
-"Så var finns nu den där rubinen som jag skall arbeta med nu då Durstorn?"
+msgstr "Så var finns nu den där rubinen som jag skall arbeta med då, Durstorn?"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:121
 msgid ""
@@ -1148,7 +1141,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:137
 msgid "The ruby is mine, and don't touch it!"
-msgstr "Rubinen är min och rör den inte!"
+msgstr "Rubinen är min och du rör den inte!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:141
 msgid ""
@@ -1165,7 +1158,7 @@ msgstr "Nåja. *mutter mutter*"
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:175
 msgid "Hm... a most interesting jewel. I can feel its magical power."
 msgstr ""
-"Hm...verkligen en mycket intressant juvel, jag kan känna dess magiska kraft."
+"Hm... En synnerligen intressant juvel. Jag kan känna dess magiska kraft."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:210
 msgid "Now, I will need certain materials to make this sceptre."
@@ -1183,7 +1176,7 @@ msgid ""
 "the plans done."
 msgstr ""
 "Jag skulle uppskatta att jag behöver cirka 10 markpund av guld av "
-"artefaktskvalitet, och cirka tjugo markpund av den bästa sortens kol. Jag "
+"artefaktkvalitet, och cirka tjugo markpund av den bästa sortens kol. Jag "
 "kommer också att behöva en juvelerare som kan slipa rubinen när jag har "
 "gjort färdigt ritningarna."
 
@@ -1201,7 +1194,7 @@ msgid ""
 "have to give me something or I can't make the sceptre!"
 msgstr ""
 "Du frestar mitt tålamod, Durstorn. Du vet att ditt inte är bra nog, men du "
-"måste ge mig någonting, eller så kan jag inte göra spiran!"
+"måste ge mig någonting, annars kan jag inte göra spiran!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:230
 msgid ""
@@ -1209,13 +1202,13 @@ msgid ""
 "eastern mines. Trolls have overrun them, but earlier they were the source of "
 "the finest smithing materials."
 msgstr ""
-"Vänta lite nu. Guld och kol...jag tror att vi kan finna det in de övergivna "
+"Vänta lite nu. Guld och kol... Jag tror att vi kan finna det i de övergivna "
 "östliga gruvorna. De har tagits över av trollen, men de brukade ge det allra "
 "bästa smidesmaterialet."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:234
 msgid "So, we will go to the eastern mines!"
-msgstr "Nå då ger vi oss av till de östliga gruvorna!"
+msgstr "Nå, då ger vi oss av till de östliga gruvorna!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:238
 msgid ""
@@ -1223,11 +1216,11 @@ msgid ""
 "runecrafters-in-training from the school to help fight these enemies."
 msgstr ""
 "Ja, Durstorn, sänd några gruvarbetare med oss, så tar jag med mig några "
-"rungesäller från skolan. De kan hjälpa oss att kämpa mot dessa fiender."
+"rungesäller från skolan. De kan hjälpa oss mot trollen."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:243
 msgid "Well then, lets go! To the eastern mines, eh?"
-msgstr "Då så, nu ger vi oss av! Till de östliga gruvorna, eller hur?"
+msgstr "Då så, nu ger vi oss av! Till de östliga gruvorna, va?"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:3
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:11
@@ -1247,7 +1240,6 @@ msgid "Death of Rugnar"
 msgstr "Rugnar dör"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:74
-#, fuzzy
 msgid ""
 "Well, these are the eastern mines. Krawg, are you sure you want to come with "
 "us? Caves are not exactly your preferred environment!"
@@ -1261,7 +1253,7 @@ msgstr "Krawg kåmer med eeer! Kjaa!"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:82
 msgid "Very well. Now, Thursagan, what exactly are we looking for down here?"
-msgstr "Då så. Thursagan, vad letar vi exact efter här nere?"
+msgstr "Då så. Thursagan, exakt vad är det vi letar efter här nere?"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:86
 msgid ""
@@ -1276,23 +1268,23 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:90
 msgid "Also, the only coal that will melt this gold is also here."
 msgstr ""
-"Dessutom så finns den enda sortens kol som kan smälta den sortens guld också "
-"här."
+"Dessutom så finns den enda sortens kol som kan smälta den sortens guld här "
+"också."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:95
 msgid ""
 "So we're down here to, what, mine this gold and coal? That should be easy "
 "enough."
 msgstr ""
-"Så vi är här nere för att, vad, bryta detta guld och kol? Det kan väl inte "
-"vara så svårt."
+"Så vi är här nere för att, vad, bryta guld och kol? Det kan väl inte vara så "
+"svårt."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:99
 msgid ""
 "Yes, although we will have to hire the miners - they don't work for free. "
 "But beware, there are trolls and such down here..."
 msgstr ""
-"Ja, men vi måste anställa gruvarbetare - de arbetar inte gratis.Men se upp, "
+"Ja, men vi måste anställa gruvarbetare - de arbetar inte gratis. Men se upp, "
 "det finns troll och sådant här nere..."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:139
@@ -1306,7 +1298,7 @@ msgstr "Det var den sista lasten kol vi behövde."
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:191
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:226
 msgid "That's all of the materials! Time to go back to the forge."
-msgstr "Det är alla råämnen vi behöver! Dags att gå tillbaka till smedjan."
+msgstr "Vi har alla råämnen vi behöver! Dags att gå tillbaka till smedjan."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:216
 msgid "Here's the gold."
@@ -1316,7 +1308,7 @@ msgstr "Här är guldet."
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:487
 msgid "Here is some of the coal that we need! Bring the miners to take it!"
 msgstr ""
-"Här finns lite av det kol vi behöver! Hämta gruvarbetarna att hämta det!"
+"Här finns lite av det kol vi behöver! Hämta gruvarbetarna för att bryta det!"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:317
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:501
@@ -1325,7 +1317,7 @@ msgstr "Jag har så mycket kol som jag kan bära..."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:396
 msgid "Here is the mine of precious gold! Send the miners this way."
-msgstr "Här finns guldgruvan! Skicka hit gruvarbetarna."
+msgstr "Här är guldgruvan! Skicka hit gruvarbetarna."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:410
 msgid "I have all the gold I can carry..."
@@ -1336,14 +1328,17 @@ msgid ""
 "So, you have returned. I assume you have obtained the required materials? So "
 "now go to the forge and make your sceptre. What do you need to annoy me for?"
 msgstr ""
+"Så du har kommit tillbaka. Jag antar att du har skaffat de råämnen som du "
+"behöver? Så gå nu till smedjan och gör din spira. Varför stör du mig?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:105
 msgid "We don't. Not everything is about you. We need to talk to Theganli."
 msgstr ""
+"Det gör vi inte. Allt rör sig inte runt dig. Vi behöver tala med Theganli."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:109
 msgid "And why would you need to do that?"
-msgstr ""
+msgstr "Och varför skulle ni behöva tala med honom?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:113
 msgid ""
@@ -1351,138 +1346,165 @@ msgid ""
 "sceptre, and have him cut the ruby to match them. I expect it will be "
 "difficult work, and I wouldn't want just anyone to do it."
 msgstr ""
+"Han är den bäste juveleraren häromkring. Jag behöver visa honom mina "
+"ritningar över spiran, och få honom att slipa rubinen enligt dem. Jag "
+"förutsätter att det kommer att blir svårt, och jag skulle inte vilja att "
+"precis vem som helst gör det."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:117
 msgid "You're going to cut the jewel!? Are you insane?"
-msgstr ""
+msgstr "Tänker du slipa juvelen? Är du helt från vettet?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:121
 msgid ""
 "What are you talking about, sir? You knew all along the jewel would have to "
 "be cut to make the sceptre out of."
 msgstr ""
+"Vad talar du om, ers nåd? Du har väl vetat hela tiden att juvelen måste "
+"slipas om man skall kunna göra en spira av den."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:125
 msgid "Oh... right, right. Fine. Theganli?"
-msgstr ""
+msgstr "Åh... Ja, ja. Visst. Theganli?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:129
 msgid "He's in his shop, in the southern tunnel."
-msgstr ""
+msgstr "Han är i sin verkstad i den södra tunneln."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:133
 msgid "Whatever. Kuhnar, go, summon him here."
-msgstr ""
+msgstr "Ja, ja. Kuhnar, gå och hämta hit honom."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:163
 msgid ""
 "Theganli! Come out of there, Durstorn orders you to come to the citadel."
 msgstr ""
+"Theganli! Kom ut därifrån, Durstorn befaller att du kommer till citadellet."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:170
 msgid "Theganli"
-msgstr ""
+msgstr "Theganli"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:174
 msgid "I'm coming... coming... stop pounding on the door..."
-msgstr ""
+msgstr "Jag kommer... Jag kommer... Sluta banka på dörren..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:178
 msgid ""
 "He doesn't need to come here, I'll take the jewel to his shop. He'll need "
 "his tools anyway."
 msgstr ""
+"Han behöver inte komma hit; jag tar med mig juvelen till hans verkstad. Han "
+"behöver ju sina verktyg i vilket fall som helst."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:239
 msgid "Well, Theganli, what do you think of this jewel?"
-msgstr ""
+msgstr "Nå, Theganli, vad tycker du om den här juvelen?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:243
 msgid "Uh, um, yes, yes, very impressive jewel, impressive, yes... "
-msgstr ""
+msgstr "Äh, um, ja, ja, ja, en mycket imponerande juvel, imponerande ja..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:247
 msgid "Do you think you could cut it in the manner my plans specify?"
-msgstr ""
+msgstr "Tror du att du kan slipa till den in enlighet med mina ritningar?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:251
 msgid "Well, uh, um, maybe... maybe... it will be hard... let me see..."
 msgstr ""
+"Nå, äh, um, kanske...kanske...det kommer att bli svårt... Låt mig få se på "
+"den..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:255
 msgid "Very well. See what you can do."
-msgstr ""
+msgstr "Nåväl. Se vad du kan göra åt saken."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:260
 msgid "Well, do you have anything yet?!"
-msgstr ""
+msgstr "Nå, har du gjort något ännu?!"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:264
 msgid ""
 "Ah, well, uh, no... no, not yet... unfortunately... it seems... it can't be "
 "cut... or scratched... or damaged at all... at least not by my tools..."
 msgstr ""
+"Ah, nå, äh, nej, nej, inte än... Tyvärr... Det verkar som...den inte kan "
+"slipas...eller rispas...eller skadas på något sätt... Åtminstone inte av de "
+"verktyg som jag har..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:268
 msgid ""
 "So what do you propose we do? We need this jewel cut in a very specific way "
 "to make sure... well, it doesn't matter why."
 msgstr ""
+"Så vad föreslår du att vi skall göra? Vi måste få den här juvelen slipad på "
+"ett mycket speciellt sätt för att garantera... Nå, det kvittar varför."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:272
 msgid ""
 "Well... maybe... the shorbear clan? They have good tools... yes, yes, they "
 "do..."
 msgstr ""
+"Nå...kanske...shorbear-klanen? De har bra verktyg... Ja, ja, det har de..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:276
 msgid "Who are they?"
-msgstr ""
+msgstr "Vilka är de?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:280
 msgid ""
 "Another group... of dwarves... live south of here... above ground... yes... "
 "best jewelers I know of... have special tools... tools, yes..."
 msgstr ""
+"En annan grupp...dvärgar... Bor söderut...ovan jord... Ja...de bästa "
+"juvelerare jag känner till... Har speciella verktyg... Verktyg, ja..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:283
 msgid ""
 "Well, Rugnur, what are you waiting for? Go down and get these tools from "
 "them, and carve the jewel!"
 msgstr ""
+"Nå, Rugnur, vad väntar du på? Gå och hämta de där verktygen från dem och "
+"skär till juvelen!"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:287
 msgid ""
 "We can't just go in there and take their property. We'll have to buy, or "
 "rent, it from them."
 msgstr ""
+"Men vi kan ju inte bara gå dit och ta deras egendom. Vi måste köpa eller "
+"hyra dem från dem."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:291
 msgid "Fine. Go rent it from them."
-msgstr ""
+msgstr "Bra. Gå och hyr verktygen av dem."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:295
 msgid "Very well. We'll go south now."
-msgstr ""
+msgstr "Då så. Vi går söderut nu."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:299
 msgid ""
 "Wait! Last time you made a bargain by yourself you lost us five thousand "
 "pieces of silver. I'm going with you this time!"
 msgstr ""
+"Vänta! Sista gången som du förhandlade själv, så förlorade vi femtusen "
+"silver. Den här gången går jag med dig!"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:303
 msgid "Are you sure that is wise, lord?"
-msgstr ""
+msgstr "Är det så klokt, ers nåd?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:307
 msgid ""
 "Of course! To be safe, though, you and Noiraran are going to come with us."
 msgstr ""
+"Det är väl klart. För att garantera säkerheten så kommer både du och "
+"Noiraran med oss."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:310
 msgid "Yes sir... *sigh*"
-msgstr ""
+msgstr "Ja, ers nåd... *suck*"
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
 msgid "Gahahh..."
@@ -1681,7 +1703,7 @@ msgid ""
 msgstr ""
 "Med undantag av de som har närmast övernaturlig skicklighet, så är den "
 "högsta nivå en runsmed kan nå att bli runmästare. De utdelar slag nästan "
-"lika starka som deras bästa krigare, även utan sin runkunskap så skulle de "
+"lika starka som deras bästa krigare. Även utan sin runkunskap så skulle de "
 "vara skräckinjagande, men med denna kunskap så är de i det närmaste "
 "oövervinnerliga, eftersom deras runor får fienden att göra mindre skada än "
 "man kunde vänta sig."
@@ -1735,16 +1757,3 @@ msgstr "klor"
 #: Sceptre_of_Fire/units/Wolf.cfg:37
 msgid "blade"
 msgstr "hugg"
-
-#~ msgid ""
-#~ "Alas, no. When you went out to talk to Haldric, they thought a show of "
-#~ "force might be in order, and gathered at the front gate. They did not "
-#~ "anticipate an elvish attack any more than you did."
-#~ msgstr ""
-#~ "Tyvärr inte. När du gick ut för att tala med Haldric, så trodde de att en "
-#~ "styrkedemonstration skulle vara lämplig, därför samlades de vid "
-#~ "huvudporten. De förväntade sig inte en attack från alverna, lika lite som "
-#~ "du gjorde det."
-
-#~ msgid "None"
-#~ msgstr "Ingen"
