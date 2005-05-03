@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-01 21:42+0200\n"
-"PO-Revision-Date: 2005-05-01 21:59+0100\n"
+"PO-Revision-Date: 2005-05-03 12:47+0100\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic@gmx.net>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1365,14 +1365,17 @@ msgid ""
 "So, you have returned. I assume you have obtained the required materials? So "
 "now go to the forge and make your sceptre. What do you need to annoy me for?"
 msgstr ""
+"Also seid ihr zurückgekehrt. Ich hoffe ihr konntet die benötigten "
+"Materialien besorgen? Also geht nun in die Schmiede und fertigt euer Zepter "
+"an. Warum müsst ihr mich dafür belästigen?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:105
 msgid "We don't. Not everything is about you. We need to talk to Theganli."
-msgstr ""
+msgstr "Nicht alles dreht sich um euch. Wir müssen mit Theganli sprechen."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:109
 msgid "And why would you need to do that?"
-msgstr ""
+msgstr "Wieso müsst ihr dies?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:113
 msgid ""
@@ -1380,138 +1383,167 @@ msgid ""
 "sceptre, and have him cut the ruby to match them. I expect it will be "
 "difficult work, and I wouldn't want just anyone to do it."
 msgstr ""
+"Er ist der beste Juwelier den ich kenne. Ich muss ihm meine Pläne für das "
+"Zepter zeigen, so dass er den Rubin zurechtschneiden kann. Ich gehe davon "
+"aus, dass dies eine sehr schwierige Arbeit sein wird und ich möchte dass "
+"nicht irgendjemand sie ausführt."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:117
 msgid "You're going to cut the jewel!? Are you insane?"
-msgstr ""
+msgstr "Ihr wollt den Rubin zurechtschneiden? Seid ihr des Wahnsinns?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:121
 msgid ""
 "What are you talking about, sir? You knew all along the jewel would have to "
 "be cut to make the sceptre out of."
 msgstr ""
+"Wovon sprecht ihr, Herr? Ihr wusstet doch, dass das Juwel zurechtgeschnitten "
+"werden muss, um das Zepter zu erschaffen."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:125
 msgid "Oh... right, right. Fine. Theganli?"
-msgstr ""
+msgstr "Oh... Ja, ja. Gut. Theganli?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:129
 msgid "He's in his shop, in the southern tunnel."
-msgstr ""
+msgstr "Er ist in seinem Geschäft in den südlichen Stollen."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:133
 msgid "Whatever. Kuhnar, go, summon him here."
-msgstr ""
+msgstr "Wie auch immer. Kuhnar, geht und bestellt ihn her."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:163
 msgid ""
 "Theganli! Come out of there, Durstorn orders you to come to the citadel."
-msgstr ""
+msgstr "Theganli! Kommt her, Durnstorm verlang euch zu sehen."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:170
 msgid "Theganli"
-msgstr ""
+msgstr "Theganli"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:174
 msgid "I'm coming... coming... stop pounding on the door..."
-msgstr ""
+msgstr "Ich komme schon... Wollt ihr etwa meine Tür einschlagen?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:178
 msgid ""
 "He doesn't need to come here, I'll take the jewel to his shop. He'll need "
 "his tools anyway."
 msgstr ""
+"Er muss nicht herkommen. Ich werde den Edelstein in seinen Laden bringen. Er "
+"wird eh seine Werkzeuge brauchen."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:239
 msgid "Well, Theganli, what do you think of this jewel?"
-msgstr ""
+msgstr "Nun, Theganli, was meinst du zu diesem Juwel?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:243
 msgid "Uh, um, yes, yes, very impressive jewel, impressive, yes... "
-msgstr ""
+msgstr "Ähm, ähm, ja, ja, beeindruckend, wirklich beeindruckend...."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:247
 msgid "Do you think you could cut it in the manner my plans specify?"
-msgstr ""
+msgstr "Meinst du, du schaffst es, ihn nach meinen Plänen zurechtzuschneiden?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:251
 msgid "Well, uh, um, maybe... maybe... it will be hard... let me see..."
 msgstr ""
+"Nun ja, ähm, äh, vielleicht... vielleicht... es wird schwierig... lasst mich "
+"sehen..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:255
 msgid "Very well. See what you can do."
-msgstr ""
+msgstr "Sehr gut. Gebt euer Bestes."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:260
 msgid "Well, do you have anything yet?!"
-msgstr ""
+msgstr "Habt ihr schon etwas fertig?!"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:264
 msgid ""
 "Ah, well, uh, no... no, not yet... unfortunately... it seems... it can't be "
 "cut... or scratched... or damaged at all... at least not by my tools..."
 msgstr ""
+"Nun, ähm, ja, eigentlich eher nein... unglücklicherweise nein... er kann "
+"nicht geschnitten werden... oder verkratzt... oder überhaupt irgendwie "
+"beschädigt... zumindest nicht mit meinen Werkzeugen..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:268
 msgid ""
 "So what do you propose we do? We need this jewel cut in a very specific way "
 "to make sure... well, it doesn't matter why."
 msgstr ""
+"Also, was meint ihr, was mir machen sollten? Der Edelstein muss auf eine "
+"ganz bestimmte Art beschnitten sein, um sicher zu gehen, dass... naja, das "
+"spielt keine Rolle."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:272
 msgid ""
 "Well... maybe... the shorbear clan? They have good tools... yes, yes, they "
 "do..."
 msgstr ""
+"Naja... vielleicht... der Shorbear Klan? Sie haben sehr gute Werkzeuge... ja,"
+"ja, die haben sie..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:276
 msgid "Who are they?"
-msgstr ""
+msgstr "Wer ist das?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:280
 msgid ""
 "Another group... of dwarves... live south of here... above ground... yes... "
 "best jewelers I know of... have special tools... tools, yes..."
 msgstr ""
+"Eine andere Gruppe... von Zwergen... leben südlich von hier... "
+"überirdisch... ja... die besten Juweliere, die ich kenne... haben "
+"Spezialwerkzeuge... Werkzeuge, ja..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:283
 msgid ""
 "Well, Rugnur, what are you waiting for? Go down and get these tools from "
 "them, and carve the jewel!"
 msgstr ""
+"Nun, Rugnur, worauf wartet ihr? Geht, holt euch von ihnen die Werkzeuge und "
+"schneidet das Juwel!"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:287
 msgid ""
 "We can't just go in there and take their property. We'll have to buy, or "
 "rent, it from them."
 msgstr ""
+"Wir können da nicht einfach hingehen und ihr Eigentum an uns nehmen. Wir "
+"müssen es von ihnen kaufen oder mieten."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:291
 msgid "Fine. Go rent it from them."
-msgstr ""
+msgstr "Gut. Geht und mietet es von ihnen."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:295
 msgid "Very well. We'll go south now."
-msgstr ""
+msgstr "Nun denn, wir machen uns auf gen Süden."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:299
 msgid ""
 "Wait! Last time you made a bargain by yourself you lost us five thousand "
 "pieces of silver. I'm going with you this time!"
 msgstr ""
+"Wartet! Als ihr das letzte mal versucht habt zu handeln, hat es uns "
+"fünftausend Silberlinge gekostet. Diesmal begleite ich euch besser!"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:303
 msgid "Are you sure that is wise, lord?"
-msgstr ""
+msgstr "Meint ihr wirklich, dass das eine weise Entscheidung ist, Herr?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:307
 msgid ""
 "Of course! To be safe, though, you and Noiraran are going to come with us."
 msgstr ""
+"Aber sicher doch! Aber um wirklich sicher zu sein kommen ihr und Noiraran "
+"mit uns."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:310
 msgid "Yes sir... *sigh*"
-msgstr ""
+msgstr "Ja Herr... *stöhn*"
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
 msgid "Gahahh..."
