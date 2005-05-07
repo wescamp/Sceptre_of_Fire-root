@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-01 21:42+0200\n"
+"POT-Creation-Date: 2005-05-07 10:47+0200\n"
 "PO-Revision-Date: 2005-05-03 23:21+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -36,24 +36,18 @@ msgstr "(svårast)"
 msgid "Lord"
 msgstr "Furste"
 
-#: Sceptre_of_Fire.cfg:17
+#: Sceptre_of_Fire.cfg:25
 msgid ""
-"In the northlands, a small dwarvish tribe believes itself to be at peace "
-"with the surrounding peoples. However, a few miles south, the King of "
-"Wesnoth, Haldric II, marches north with a great stone of power- the ruby of "
-"fire. East of this, rebel elves prepare to attack the Wesnothian caravan and "
-"steal the ruby. After Rugnur, the young captain of the dwarves, foolishly "
-"makes a bargain with the Wesnothians, there is no telling what the "
-"consquences will be...\n"
-"(Version 0.2.0, 4-06-05)"
+"The land of Wesnoth's banner bold\n"
+"Comes not from that great land;\n"
+"It comes from Dwarfdom, grim and old\n"
+"Made by a runesmith's hand.\n"
+"\n"
+"This tale then tells from where it came -\n"
+"The great Sceptre of Fire -\n"
+"And how a dwarvish clan much famed\n"
+"Did draw the Elf-lord's ire...\n"
 msgstr ""
-"I nordländerna tror sig en liten stam av dvärgar leva i fred med sina "
-"grannar. Men blott ett par kilometer söderut marscherar Kungen av Wesnoth, "
-"Haldric II, norrut med en mäktig sten - Eldrubinen. Österut förbereder "
-"alverna en attack på karavanen från Wesnoth för att stjäla rubinen. Rugnur, "
-"en ung dvärgkapten träffar en överenskommelse med wesnothborna, och nu vet "
-"ingen vad som komma skall...\n"
-"(Version 0.2.0, 2005-04-06)"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:19
 msgid "Rugnur"
@@ -77,6 +71,12 @@ msgstr "För Alanin och Eldrubinen som han bär till dvärgarnas citadell"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:62
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:452
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:66
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:324
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:454
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:515
+#: Sceptre_of_Fire/scenarios/template.cfg:42
+#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:35
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:84
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:324
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:478
@@ -94,6 +94,11 @@ msgstr "En fullastad karavan blir tillfångatagen (utplånad)"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:70
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:460
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:90
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:348
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:478
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:539
+#: Sceptre_of_Fire/scenarios/template.cfg:46
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:51
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:96
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:340
@@ -181,6 +186,7 @@ msgid "And you want us to contain it? By making an artifact of some kind."
 msgstr ""
 "Och du vill att vi skall begränsa den? Genom att göra någon sorts artefakt."
 
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:154
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:227
 msgid "Exactly."
 msgstr "Precis."
@@ -441,6 +447,10 @@ msgstr "Döda alla alver som finns i grottorna efter att portarna stängts"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:66
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:456
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:74
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:332
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:462
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:523
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:43
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:92
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:332
@@ -497,7 +507,7 @@ msgstr "Baglur"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:215
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:43
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:43
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:45
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:46
 msgid "loyal,resilient"
 msgstr "lojal,stryktålig"
@@ -657,49 +667,52 @@ msgid "My glyph is on."
 msgstr "Jag har aktiverat min runa."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:28
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:28
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:103
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:29
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:28
 msgid "Durstorn"
 msgstr "Durstorn"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:42
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:42
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:44
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:45
 msgid "Neglur"
 msgstr "Neglur"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:54
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:54
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:56
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:57
 msgid "Glinar"
 msgstr "Glinar"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:55
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:55
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:57
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:58
 msgid "loyal,quick"
 msgstr "lojal, snabb"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:66
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:66
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:110
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:68
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:69
 msgid "Noiraran"
 msgstr "Noiraran"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:67
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:67
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:69
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:70
 msgid "loyal,intelligent"
 msgstr "lojal, intelligent"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:78
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:78
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:122
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:80
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:81
 msgid "Kuhnar"
 msgstr "Kuhnar"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:79
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:79
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:81
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:82
 msgid "loyal,strong"
 msgstr "lojal, stark"
@@ -882,6 +895,10 @@ msgid "Find Thursagan and convince him to come back to the dwarvish city"
 msgstr ""
 "Hitta Thursagan och övertyga honom om att följa med tillbaka till dvärgstaden"
 
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:70
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:328
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:458
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:519
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:39
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:88
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:328
@@ -965,6 +982,10 @@ msgstr "Självklart, vi hjälper er att slåss mot troll och jättar."
 msgid "Kwe... yoo ants to ide uuus, nooa? Kwe, uus kan..."
 msgstr "Kvaa... Dooo ill ömma oos, nooo? Kvaa, viii kaan..."
 
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:78
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:336
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:466
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:527
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:336
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:490
 msgid "Death of Krawg"
@@ -1074,6 +1095,10 @@ msgstr ""
 msgid "Move Thursagan to the signpost"
 msgstr "Flytta Thursagan till vägskylten"
 
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:82
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:340
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:470
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:531
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:47
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:494
 msgid "Death of Thursagan"
@@ -1235,10 +1260,6 @@ msgstr "Samla in det guld och det kol som behövs för att skapa spiran"
 msgid "1 load of gold and 2 loads of coal are needed"
 msgstr "Det behövs en last guld och två laster kol."
 
-#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:35
-msgid "Death of Rugnar"
-msgstr "Rugnar dör"
-
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:74
 msgid ""
 "Well, these are the eastern mines. Krawg, are you sure you want to come with "
@@ -1323,7 +1344,7 @@ msgstr "Här är guldgruvan! Skicka hit gruvarbetarna."
 msgid "I have all the gold I can carry..."
 msgstr "Jag har så mycket guld som jag kan bära..."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:101
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:103
 msgid ""
 "So, you have returned. I assume you have obtained the required materials? So "
 "now go to the forge and make your sceptre. What do you need to annoy me for?"
@@ -1331,16 +1352,16 @@ msgstr ""
 "Så du har kommit tillbaka. Jag antar att du har skaffat de råämnen som du "
 "behöver? Så gå nu till smedjan och gör din spira. Varför stör du mig?"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:105
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:107
 msgid "We don't. Not everything is about you. We need to talk to Theganli."
 msgstr ""
 "Det gör vi inte. Allt rör sig inte runt dig. Vi behöver tala med Theganli."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:109
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:111
 msgid "And why would you need to do that?"
 msgstr "Och varför skulle ni behöva tala med honom?"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:113
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:115
 msgid ""
 "He's the best jeweler in these parts. I need to show him my plans for the "
 "sceptre, and have him cut the ruby to match them. I expect it will be "
@@ -1351,11 +1372,11 @@ msgstr ""
 "förutsätter att det kommer att blir svårt, och jag skulle inte vilja att "
 "precis vem som helst gör det."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:117
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:119
 msgid "You're going to cut the jewel!? Are you insane?"
 msgstr "Tänker du slipa juvelen? Är du helt från vettet?"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:121
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:123
 msgid ""
 "What are you talking about, sir? You knew all along the jewel would have to "
 "be cut to make the sceptre out of."
@@ -1363,33 +1384,33 @@ msgstr ""
 "Vad talar du om, ers nåd? Du har väl vetat hela tiden att juvelen måste "
 "slipas om man skall kunna göra en spira av den."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:125
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:127
 msgid "Oh... right, right. Fine. Theganli?"
 msgstr "Åh... Ja, ja. Visst. Theganli?"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:129
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:131
 msgid "He's in his shop, in the southern tunnel."
 msgstr "Han är i sin verkstad i den södra tunneln."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:133
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:135
 msgid "Whatever. Kuhnar, go, summon him here."
 msgstr "Ja, ja. Kuhnar, gå och hämta hit honom."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:163
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:165
 msgid ""
 "Theganli! Come out of there, Durstorn orders you to come to the citadel."
 msgstr ""
 "Theganli! Kom ut därifrån, Durstorn befaller att du kommer till citadellet."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:170
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:172
 msgid "Theganli"
 msgstr "Theganli"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:174
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:176
 msgid "I'm coming... coming... stop pounding on the door..."
 msgstr "Jag kommer... Jag kommer... Sluta banka på dörren..."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:178
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:180
 msgid ""
 "He doesn't need to come here, I'll take the jewel to his shop. He'll need "
 "his tools anyway."
@@ -1397,33 +1418,33 @@ msgstr ""
 "Han behöver inte komma hit; jag tar med mig juvelen till hans verkstad. Han "
 "behöver ju sina verktyg i vilket fall som helst."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:239
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:241
 msgid "Well, Theganli, what do you think of this jewel?"
 msgstr "Nå, Theganli, vad tycker du om den här juvelen?"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:243
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:245
 msgid "Uh, um, yes, yes, very impressive jewel, impressive, yes... "
 msgstr "Äh, um, ja, ja, ja, en mycket imponerande juvel, imponerande ja..."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:247
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:249
 msgid "Do you think you could cut it in the manner my plans specify?"
 msgstr "Tror du att du kan slipa till den in enlighet med mina ritningar?"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:251
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:253
 msgid "Well, uh, um, maybe... maybe... it will be hard... let me see..."
 msgstr ""
 "Nå, äh, um, kanske...kanske...det kommer att bli svårt... Låt mig få se på "
 "den..."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:255
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:257
 msgid "Very well. See what you can do."
 msgstr "Nåväl. Se vad du kan göra åt saken."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:260
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:262
 msgid "Well, do you have anything yet?!"
 msgstr "Nå, har du gjort något ännu?!"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:264
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:266
 msgid ""
 "Ah, well, uh, no... no, not yet... unfortunately... it seems... it can't be "
 "cut... or scratched... or damaged at all... at least not by my tools..."
@@ -1432,7 +1453,7 @@ msgstr ""
 "slipas...eller rispas...eller skadas på något sätt... Åtminstone inte av de "
 "verktyg som jag har..."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:268
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:270
 msgid ""
 "So what do you propose we do? We need this jewel cut in a very specific way "
 "to make sure... well, it doesn't matter why."
@@ -1440,18 +1461,18 @@ msgstr ""
 "Så vad föreslår du att vi skall göra? Vi måste få den här juvelen slipad på "
 "ett mycket speciellt sätt för att garantera... Nå, det kvittar varför."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:272
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:274
 msgid ""
 "Well... maybe... the shorbear clan? They have good tools... yes, yes, they "
 "do..."
 msgstr ""
 "Nå...kanske...shorbear-klanen? De har bra verktyg... Ja, ja, det har de..."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:276
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:278
 msgid "Who are they?"
 msgstr "Vilka är de?"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:280
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:282
 msgid ""
 "Another group... of dwarves... live south of here... above ground... yes... "
 "best jewelers I know of... have special tools... tools, yes..."
@@ -1459,7 +1480,7 @@ msgstr ""
 "En annan grupp...dvärgar... Bor söderut...ovan jord... Ja...de bästa "
 "juvelerare jag känner till... Har speciella verktyg... Verktyg, ja..."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:283
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:286
 msgid ""
 "Well, Rugnur, what are you waiting for? Go down and get these tools from "
 "them, and carve the jewel!"
@@ -1467,7 +1488,7 @@ msgstr ""
 "Nå, Rugnur, vad väntar du på? Gå och hämta de där verktygen från dem och "
 "skär till juvelen!"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:287
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:290
 msgid ""
 "We can't just go in there and take their property. We'll have to buy, or "
 "rent, it from them."
@@ -1475,15 +1496,15 @@ msgstr ""
 "Men vi kan ju inte bara gå dit och ta deras egendom. Vi måste köpa eller "
 "hyra dem från dem."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:291
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:294
 msgid "Fine. Go rent it from them."
 msgstr "Bra. Gå och hyr verktygen av dem."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:295
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:298
 msgid "Very well. We'll go south now."
 msgstr "Då så. Vi går söderut nu."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:299
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:302
 msgid ""
 "Wait! Last time you made a bargain by yourself you lost us five thousand "
 "pieces of silver. I'm going with you this time!"
@@ -1491,20 +1512,316 @@ msgstr ""
 "Vänta! Sista gången som du förhandlade själv, så förlorade vi femtusen "
 "silver. Den här gången går jag med dig!"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:303
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:306
 msgid "Are you sure that is wise, lord?"
 msgstr "Är det så klokt, ers nåd?"
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:307
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:310
 msgid ""
 "Of course! To be safe, though, you and Noiraran are going to come with us."
 msgstr ""
 "Det är väl klart. För att garantera säkerheten så kommer både du och "
 "Noiraran med oss."
 
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:310
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:314
 msgid "Yes sir... *sigh*"
 msgstr "Ja, ers nåd... *suck*"
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:27
+#, fuzzy
+msgid "Glonoin"
+msgstr "Alanin"
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:62
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:86
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:344
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:474
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:535
+#, fuzzy
+msgid "Death of Durstorn"
+msgstr "Thursagan dör"
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:111
+#, fuzzy
+msgid "loyal, intelligent"
+msgstr "lojal, intelligent"
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:123
+#, fuzzy
+msgid "loyal, strong"
+msgstr "lojal, stark"
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:146
+msgid ""
+"Here we are; the hills of the Shorbear clan. What are we here for, anyway?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:150
+msgid ""
+"If I understand it correctly, we're here to bargain with the Shorbears, and "
+"arrange for us to use their tools to cut the ruby."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:158
+msgid ""
+"And I'll be doing the talking; I remember what happened last time you "
+"negotiated a deal! We lost five thousand pieces of silver."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:162
+msgid "Ay, its some of them cave-dwarves. What business do you have here?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:166
+msgid ""
+"I'm Lord Durstorn, king of my tribe. I have been told you are great jeweler-"
+"workers, and so we come to rent some of your tools for a short time."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:170
+msgid ""
+"You're a king?! Must be a pretty small kingdom for you to come yourself to "
+"bargain with us!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:174
+msgid "You insult me! Do you want my business, or not?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:178
+msgid "Well, fine, I'll hear your offer."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:182
+msgid ""
+"We'd like to rent your best tools for a short period of time. We'll only be "
+"cutting one jewel with it. My starting offer is two hundred silver."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:186
+msgid ""
+"It must be worth a lot for you to come this way and offer that much! How "
+"much are you going to sell it for, eh?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:190
+msgid "That's none of your concern!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:194
+msgid "I'll take twenty-five hundred, minimum."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:198
+msgid "(whispered) Durstorn, that would be a quarter of all our profits!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:202
+msgid "I know that. Uh, Glonoin, how about five hundred?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:206
+msgid ""
+"Twenty-three hundred is my lowest offer. I can tell I don't need the money "
+"as much as you need the jewel cut!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:210
+msgid "You must be mad! I'll offer one thousand, but no higher!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:214
+msgid "Two thousand, and I'll go no lower!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:218
+msgid "(whispered) What are we going to do? We can't go much higher!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:222
+msgid ""
+"(whispered) Offer him fifteen hundred,  but don't go up, even if he refuses."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:226
+msgid ""
+"(whispered) Bah! Getting this cut isn't worth that much; what with Rugnur's "
+"mistake earlier, and all the other expenses, if we pay more than a thousand "
+"we'll barely even make a profit!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:230
+msgid "(whispered) So you what are you going to do?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:234
+msgid "(whispered) Fight him, and take the tools by force."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:238
+msgid "Are you mad?!?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:242
+msgid ""
+"Of course not! Now, Glonoin; one thousand was my final offer. If you won't "
+"accept it, we will take the tools from you by force!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:246
+msgid "I'd like to see you try!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:250
+msgid "You're making a mistake, Durstorn!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:254
+msgid "Shut up, all of you! Attack them!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:269
+msgid "Lyndar"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:275
+msgid "Aha! I've found you! Dwarves, prepare to die!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:279
+msgid "Who the devil are you?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:283
+msgid ""
+"I thought we left the elves behind at the gates! It seems we have two "
+"enemies now."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:287
+msgid ""
+"So, elves, are you against these dwarves too? They're attacking my clan for "
+"absolutely no reason!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:291
+msgid "I see. So you don't have the ruby?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:295
+msgid ""
+"No, they do. They wanted to rent my tools to cut it, but they didn't offer "
+"me nearly enough!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:299
+msgid ""
+"How about this - I help you defeat them, and you let me keep the ruby when "
+"we have?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:303
+msgid "Deal!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:307
+msgid "Ah, they don't scare me! We can take both of them!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:311
+msgid ""
+"Don't be a fool! We can't take the elves, and it was a mistake to attack "
+"these dwarves, but if we have to fight we should retreat once we get what we "
+"came for, the tools!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:316
+msgid "Defeat Glonoin, the Shorbear clan leader"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:320
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:450
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:511
+msgid "Have all heroes in the Shorbear caves while no enemies are in the caves"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:366
+msgid "Don't kill me if you want to know where the tools are! I've hid them!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:370
+msgid "Where?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:374
+msgid "Promise you'll set me free first!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:378
+#, fuzzy
+msgid "Done."
+msgstr "ingen"
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:382
+msgid "One of my men, named Onin, is carrying them."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:387
+#, fuzzy
+msgid "Onin"
+msgstr "Alanin"
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:393
+msgid "He's right, here they are."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:397
+msgid ""
+"Good. Thursagan, you take those. Now throw Glonoin and Onin into prison!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:401
+msgid "What?!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:405
+msgid "I'm not killing you, that should be enough!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:441
+msgid ""
+"Well, back to the battle - we are all in the caves, but there are still "
+"enemies in here also!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:445
+msgid "Indeed. Kill them! And make sure no more enter."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:486
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:582
+msgid ""
+"We have driven all of the dwarves and elves out of these caves. They are not "
+"ours, though, and we can't stay here forever."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:490
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:586
+msgid "True. I suspect these elves will try to besiege us here."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:502
+msgid ""
+"Well, back to the battle - we need everyone to get into the SHorbear caves. "
+"And then stop any enemies from coming in here."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:506
+msgid "Indeed. Everyone to the caves, and kill those still inside!"
+msgstr ""
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
 msgid "Gahahh..."
@@ -1529,46 +1846,6 @@ msgstr "Kraa..."
 #: Sceptre_of_Fire/scenarios/deaths.cfg:74
 msgid "Ayahahh..."
 msgstr "Aaaajjjj...."
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:28
-msgid "strong"
-msgstr "stark"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:45
-msgid "quick"
-msgstr "snabb"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:61
-msgid "intelligent"
-msgstr "intelligent"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:72
-msgid "resilient"
-msgstr "stryktålig"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:103
-msgid "quick,resilient"
-msgstr "snabb, stryktålig"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:104
-msgid "strong,resilient"
-msgstr "stark, stryktålig"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:105
-msgid "intelligent,resilient"
-msgstr "intelligent, stryktålig"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:106
-msgid "strong,quick"
-msgstr "stark, snabb"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:107
-msgid "strong,intelligent"
-msgstr "stark, intelligent"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:108
-msgid "quick,intelligent"
-msgstr "snabb, intelligent"
 
 #: Sceptre_of_Fire/units/Caravan.cfg:4
 msgid "Empty Caravan"
@@ -1757,3 +2034,54 @@ msgstr "klor"
 #: Sceptre_of_Fire/units/Wolf.cfg:37
 msgid "blade"
 msgstr "hugg"
+
+#~ msgid ""
+#~ "In the northlands, a small dwarvish tribe believes itself to be at peace "
+#~ "with the surrounding peoples. However, a few miles south, the King of "
+#~ "Wesnoth, Haldric II, marches north with a great stone of power- the ruby "
+#~ "of fire. East of this, rebel elves prepare to attack the Wesnothian "
+#~ "caravan and steal the ruby. After Rugnur, the young captain of the "
+#~ "dwarves, foolishly makes a bargain with the Wesnothians, there is no "
+#~ "telling what the consquences will be...\n"
+#~ "(Version 0.2.0, 4-06-05)"
+#~ msgstr ""
+#~ "I nordländerna tror sig en liten stam av dvärgar leva i fred med sina "
+#~ "grannar. Men blott ett par kilometer söderut marscherar Kungen av "
+#~ "Wesnoth, Haldric II, norrut med en mäktig sten - Eldrubinen. Österut "
+#~ "förbereder alverna en attack på karavanen från Wesnoth för att stjäla "
+#~ "rubinen. Rugnur, en ung dvärgkapten träffar en överenskommelse med "
+#~ "wesnothborna, och nu vet ingen vad som komma skall...\n"
+#~ "(Version 0.2.0, 2005-04-06)"
+
+#~ msgid "Death of Rugnar"
+#~ msgstr "Rugnar dör"
+
+#~ msgid "strong"
+#~ msgstr "stark"
+
+#~ msgid "quick"
+#~ msgstr "snabb"
+
+#~ msgid "intelligent"
+#~ msgstr "intelligent"
+
+#~ msgid "resilient"
+#~ msgstr "stryktålig"
+
+#~ msgid "quick,resilient"
+#~ msgstr "snabb, stryktålig"
+
+#~ msgid "strong,resilient"
+#~ msgstr "stark, stryktålig"
+
+#~ msgid "intelligent,resilient"
+#~ msgstr "intelligent, stryktålig"
+
+#~ msgid "strong,quick"
+#~ msgstr "stark, snabb"
+
+#~ msgid "strong,intelligent"
+#~ msgstr "stark, intelligent"
+
+#~ msgid "quick,intelligent"
+#~ msgstr "snabb, intelligent"
