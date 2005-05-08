@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-07 10:47+0200\n"
-"PO-Revision-Date: 2005-05-03 12:47+0100\n"
+"PO-Revision-Date: 2005-05-07 19:06+0100\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic@gmx.net>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -48,6 +48,15 @@ msgid ""
 "And how a dwarvish clan much famed\n"
 "Did draw the Elf-lord's ire...\n"
 msgstr ""
+"Wesnoth ist gar glorreich nun,\n"
+"war einst ein schwaches Land,\n"
+"ist's gefestigt durch der Zwergen tun,\n"
+"geschaffen von des Schmiedes Hand.\n"
+"\n"
+"Und hiervon handelt dies Geschicht,\n"
+"von Zwergen die nicht nur auf Ruhm erpicht,\n"
+"Macht die ein feur'ges Zepter birgt\n"
+"und des Elfen Zorn bewirkt...\n"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:19
 msgid "Rugnur"
@@ -1565,29 +1574,25 @@ msgid "Yes sir... *sigh*"
 msgstr "Ja Herr... *stöhn*"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:27
-#, fuzzy
 msgid "Glonoin"
-msgstr "Alanin"
+msgstr "Glonoin"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:62
 msgid "Defeat enemy leader"
-msgstr ""
+msgstr "Besiegt den gegnerischen Anführer"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:86
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:344
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:474
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:535
-#, fuzzy
 msgid "Death of Durstorn"
-msgstr "Thursagan fällt in der Schlacht"
+msgstr "Durstorn fällt in der Schlacht"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:111
-#, fuzzy
 msgid "loyal, intelligent"
 msgstr "loyal, intelligent"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:123
-#, fuzzy
 msgid "loyal, strong"
 msgstr "loyal, kräftig"
 
@@ -1595,93 +1600,117 @@ msgstr "loyal, kräftig"
 msgid ""
 "Here we are; the hills of the Shorbear clan. What are we here for, anyway?"
 msgstr ""
+"Wir sind am Ziel, die Hügel des Shorbear Klans. Was wollen wir hier "
+"überhaupt?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:150
 msgid ""
 "If I understand it correctly, we're here to bargain with the Shorbears, and "
 "arrange for us to use their tools to cut the ruby."
 msgstr ""
+"Wenn ich alles richtig verstanden habe sind wir hier, um mit den Shorbears "
+"zu handeln und uns mit ihnen auf die Benutzung ihrer Werkzeuge zu einigen, "
+"um den Rubin zurechtzuschneiden."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:158
 msgid ""
 "And I'll be doing the talking; I remember what happened last time you "
 "negotiated a deal! We lost five thousand pieces of silver."
 msgstr ""
+"Und ich führe die Verhandlungen; Ich erinnere mich noch zu gut daran, was "
+"das letzte mal passiert ist, als du einen Handel geschlossen hast! Wir haben "
+"fünftausend Silberlinge verloren."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:162
 msgid "Ay, its some of them cave-dwarves. What business do you have here?"
-msgstr ""
+msgstr "Uhi, es sind einige Höhlenzwerge. Was führt euch hier her?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:166
 msgid ""
 "I'm Lord Durstorn, king of my tribe. I have been told you are great jeweler-"
 "workers, and so we come to rent some of your tools for a short time."
 msgstr ""
+"Ich bin der Herrscher Durnstorn, König meines Stammes. Man hat mir gesagt, "
+"ihr seid sehr gut in der Juwelenverarbeitung. Wir sind hier um einige eurer "
+"Werkzeuge für kurze Zeit zu mieten."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:170
 msgid ""
 "You're a king?! Must be a pretty small kingdom for you to come yourself to "
 "bargain with us!"
 msgstr ""
+"Ihr wollt ein König sein?!? Es muss ein winziges Reich sein, dass ihr "
+"persönlich kommt, um mit uns zu handeln!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:174
 msgid "You insult me! Do you want my business, or not?"
 msgstr ""
+"Ihr beleidigt mich! Wollt ihr mit mir ein Geschäft schließen, oder nicht?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:178
 msgid "Well, fine, I'll hear your offer."
-msgstr ""
+msgstr "Nun ja, ich warte auf euer Angebot."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:182
 msgid ""
 "We'd like to rent your best tools for a short period of time. We'll only be "
 "cutting one jewel with it. My starting offer is two hundred silver."
 msgstr ""
+"Wir würden gerne eure besten Werkzeuge für kurze Zeit mieten. Wir wollen nur "
+"einen einzigen Juwel damit zurechtschneiden. Mein Angebot liegt bei "
+"zweihundert Silberlingen."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:186
 msgid ""
 "It must be worth a lot for you to come this way and offer that much! How "
 "much are you going to sell it for, eh?"
 msgstr ""
+"Es muss euch eine Menge Wert sein, dass ihr solch einen weiten Weg dafür in "
+"kauf genommen habt! Für wieviel wollt ihr es verkaufen, heh?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:190
 msgid "That's none of your concern!"
-msgstr ""
+msgstr "Das geht euch nichts an!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:194
 msgid "I'll take twenty-five hundred, minimum."
-msgstr ""
+msgstr "Das kostet euch mindesten fünfundzwanzighundert."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:198
 msgid "(whispered) Durstorn, that would be a quarter of all our profits!"
-msgstr ""
+msgstr "(geflüstert) Das wäre ein viertel unserer Einnahme, Durnstorn!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:202
 msgid "I know that. Uh, Glonoin, how about five hundred?"
-msgstr ""
+msgstr "Das ist mir klar. Wie sieht es mit fünfhundert aus, Glonoin?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:206
 msgid ""
 "Twenty-three hundred is my lowest offer. I can tell I don't need the money "
 "as much as you need the jewel cut!"
 msgstr ""
+"Dreiundzwanzighundert ist mein niedrigstes Angebot. Ich brauche das Geld "
+"nicht so dringend, wie ihr den Juwel!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:210
 msgid "You must be mad! I'll offer one thousand, but no higher!"
 msgstr ""
+"Ihr müsst verrückt sein! Ich beite tausend, doch keinen Silberling mehr!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:214
 msgid "Two thousand, and I'll go no lower!"
-msgstr ""
+msgstr "Zweitausend, mein letztes Angebot!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:218
 msgid "(whispered) What are we going to do? We can't go much higher!"
-msgstr ""
+msgstr "(geflüstert) Was sollen wir machen? Wir können nicht mehr bieten!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:222
 msgid ""
 "(whispered) Offer him fifteen hundred,  but don't go up, even if he refuses."
 msgstr ""
+"(geflüstert) Bietet ihm fünfzehnhundert, aber nicht mehr, selbst wenn er "
+"ablehnt."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:226
 msgid ""
@@ -1689,84 +1718,98 @@ msgid ""
 "mistake earlier, and all the other expenses, if we pay more than a thousand "
 "we'll barely even make a profit!"
 msgstr ""
+"(geflüstert) Ach! Diesen Juwel geschnitten zu bekommen ist so viel Geld "
+"nicht wert. Wegen Rugnur's Fehler und den ganzen anderen Kosten werden wir "
+"wohl gar keinen Profit machen, wenn wir mehr als tausend zahlen."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:230
 msgid "(whispered) So you what are you going to do?"
-msgstr ""
+msgstr "(geflüstert) Also was wollt ihr machen?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:234
 msgid "(whispered) Fight him, and take the tools by force."
-msgstr ""
+msgstr "(geflüstert) Ihn bekämpfen und ihm dann die Werkzeuge abnehmen."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:238
 msgid "Are you mad?!?"
-msgstr ""
+msgstr "Seid ihr wahnsinnig?!?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:242
 msgid ""
 "Of course not! Now, Glonoin; one thousand was my final offer. If you won't "
 "accept it, we will take the tools from you by force!"
 msgstr ""
+"Oh nein! Nun Glonoin, tausend war mein letztes Angebot. Wenn ihr nicht "
+"annehmt werden wir gewalt anwenden, um euch die Werkzeuge abzunehmen!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:246
 msgid "I'd like to see you try!"
-msgstr ""
+msgstr "Das will ich erst sehen!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:250
 msgid "You're making a mistake, Durstorn!"
-msgstr ""
+msgstr "Ihr macht einen Fehler, Durnstorn!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:254
 msgid "Shut up, all of you! Attack them!"
-msgstr ""
+msgstr "Schweigt, alle! Greift sie an!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:269
 msgid "Lyndar"
-msgstr ""
+msgstr "Lyndar"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:275
 msgid "Aha! I've found you! Dwarves, prepare to die!"
-msgstr ""
+msgstr "Aha, ich habe euch gefunden! Stellt euch drauf ein zu sterben, Zwerge!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:279
 msgid "Who the devil are you?"
-msgstr ""
+msgstr "Wer zum Teufel seid ihr?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:283
 msgid ""
 "I thought we left the elves behind at the gates! It seems we have two "
 "enemies now."
 msgstr ""
+"Ich dachte wir hätten die Elfen an den Toren abgehängt! Anscheinend haben "
+"wir nun zwei Feinde."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:287
 msgid ""
 "So, elves, are you against these dwarves too? They're attacking my clan for "
 "absolutely no reason!"
 msgstr ""
+"So, Elfen, ihr seid also auch gegen diese Zwerge? Sie greifen meinen Stamm "
+"an ohne irgendeinen Grund!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:291
 msgid "I see. So you don't have the ruby?"
-msgstr ""
+msgstr "Ich sehe. Also habt ihr den Rubin nicht?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:295
 msgid ""
 "No, they do. They wanted to rent my tools to cut it, but they didn't offer "
 "me nearly enough!"
 msgstr ""
+"Nein, sie haben ihn. Sie wollten meine Werkzeuge mieten, um ihn "
+"zurechtzuschneiden, doch haben sie mir nicht anähernd genug geboten!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:299
 msgid ""
 "How about this - I help you defeat them, and you let me keep the ruby when "
 "we have?"
 msgstr ""
+"Wie klingt das: Ich helfe euch sie zu besiegen, und ihr überlasst mir den "
+"Rubin, wenn es erledigt ist?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:303
 msgid "Deal!"
-msgstr ""
+msgstr "Abgemacht!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:307
 msgid "Ah, they don't scare me! We can take both of them!"
 msgstr ""
+"Ha, ich fürchte mich nicht vor ihnen! Wir können es mit beiden aufnehmen!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:311
 msgid ""
@@ -1774,69 +1817,77 @@ msgid ""
 "these dwarves, but if we have to fight we should retreat once we get what we "
 "came for, the tools!"
 msgstr ""
+"Seid kein Narr! Wir können es nicht mit den Elfen aufnehmen, und es war ein "
+"Fehler, sich mit den Zwergen anzulegen, doch wir müssen kämpfen. Wir sollten "
+"uns zurückziehen, wenn wir erstmal haben, wesgegen wir herkamen."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:316
 msgid "Defeat Glonoin, the Shorbear clan leader"
-msgstr ""
+msgstr "Besiegt Glonoin, Oberhaupt des Shorbear Klans"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:320
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:450
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:511
 msgid "Have all heroes in the Shorbear caves while no enemies are in the caves"
 msgstr ""
+"Gleitet alle Helden in die Shorbear Höhlen und vertreibt alle Feinde aus "
+"ihnen"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:366
 msgid "Don't kill me if you want to know where the tools are! I've hid them!"
 msgstr ""
+"Tötet mich nicht, wenn ihr die Werkzeuge haben wollt! Ich habe sie versteckt!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:370
 msgid "Where?"
-msgstr ""
+msgstr "Wo?"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:374
 msgid "Promise you'll set me free first!"
-msgstr ""
+msgstr "Versprecht zuerst, dass ihr mich freilasst!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:378
-#, fuzzy
 msgid "Done."
-msgstr "keine"
+msgstr "Erledigt."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:382
 msgid "One of my men, named Onin, is carrying them."
-msgstr ""
+msgstr "Einer meiner Männer namens Onin, trägt sie bei sich."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:387
-#, fuzzy
 msgid "Onin"
-msgstr "Alanin"
+msgstr "Onin"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:393
 msgid "He's right, here they are."
-msgstr ""
+msgstr "Er hat recht, sie sind hier."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:397
 msgid ""
 "Good. Thursagan, you take those. Now throw Glonoin and Onin into prison!"
 msgstr ""
+"Gut. Ihr nehmt sie, Thursagan. Und nun werft Glonoin und Onin in den Kerker!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:401
 msgid "What?!"
-msgstr ""
+msgstr "Was?!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:405
 msgid "I'm not killing you, that should be enough!"
-msgstr ""
+msgstr "Ich töte euch nicht, das sollte reichen!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:441
 msgid ""
 "Well, back to the battle - we are all in the caves, but there are still "
 "enemies in here also!"
 msgstr ""
+"Und nun zurück zum Kampf. Wir sind alle in den Höhlen, doch es sind "
+"immernoch einige Feinde hier drin!"
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:445
 msgid "Indeed. Kill them! And make sure no more enter."
 msgstr ""
+"Genau. Tötet sie! Und stellt sicher, dass keine weiteren hier eindringen."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:486
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:582
@@ -1844,21 +1895,27 @@ msgid ""
 "We have driven all of the dwarves and elves out of these caves. They are not "
 "ours, though, and we can't stay here forever."
 msgstr ""
+"Wir haben alle Elfen und feindlichen Zwerge aus den Höhlen vertrieben. "
+"Dennoch sind es nicht unsere. Wir können nicht ewig hier ausharren."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:490
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:586
 msgid "True. I suspect these elves will try to besiege us here."
 msgstr ""
+"Das ist ein wahres Wort. Ich vermute die Elfen werden versuchen uns hier zu "
+"belagern."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:502
 msgid ""
 "Well, back to the battle - we need everyone to get into the SHorbear caves. "
 "And then stop any enemies from coming in here."
 msgstr ""
+"Und nun zurück zum Kampf. Wir müssen alle in die Shorbear Höhlen lotsen. Und "
+"wir müssen verhindern, dass noch mehr Feinde hier eindringen."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:506
 msgid "Indeed. Everyone to the caves, and kill those still inside!"
-msgstr ""
+msgstr "Für wahr. Alle in die Höhlen, und tötet jene die sie beherbergen!"
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
 msgid "Gahahh..."
@@ -2073,56 +2130,3 @@ msgstr "Klauen"
 #: Sceptre_of_Fire/units/Wolf.cfg:37
 msgid "blade"
 msgstr "Klinge"
-
-#~ msgid ""
-#~ "In the northlands, a small dwarvish tribe believes itself to be at peace "
-#~ "with the surrounding peoples. However, a few miles south, the King of "
-#~ "Wesnoth, Haldric II, marches north with a great stone of power- the ruby "
-#~ "of fire. East of this, rebel elves prepare to attack the Wesnothian "
-#~ "caravan and steal the ruby. After Rugnur, the young captain of the "
-#~ "dwarves, foolishly makes a bargain with the Wesnothians, there is no "
-#~ "telling what the consquences will be...\n"
-#~ "(Version 0.2.0, 4-06-05)"
-#~ msgstr ""
-#~ "In den Nordlanden glaubt ein kleiner Stamm der Zwerge mit seinen Nachbarn "
-#~ "im Frieden zu leben. Doch nur wenige Kilometer südlich von ihnen befindet "
-#~ "sich der König von Wesnoth, Haldric II, der nordwärts marschiert mit "
-#~ "einem Edelstein der ungeahnte Macht verspricht, dem Rubin des Feuers. "
-#~ "Östlich von ihm planen einige rebellische Elfen seinen Zug zu überfallen "
-#~ "um den Rubin an sich zu bringen. Doch Rugnur, ein aufstrebender Anführer "
-#~ "der Zwerge, schließt einen törichten Handel mit dem Volk von Wesnoth, "
-#~ "dessen Konsequenzen nicht absehbar sind....\n"
-#~ "(Version 0.2.0, 4-06-05)"
-
-#~ msgid "Death of Rugnar"
-#~ msgstr "Rugnar fällt in der Schlacht"
-
-#~ msgid "strong"
-#~ msgstr "kräftig"
-
-#~ msgid "quick"
-#~ msgstr "schnell"
-
-#~ msgid "intelligent"
-#~ msgstr "intelligent"
-
-#~ msgid "resilient"
-#~ msgstr "robust"
-
-#~ msgid "quick,resilient"
-#~ msgstr "schnell, robust"
-
-#~ msgid "strong,resilient"
-#~ msgstr "kräftig, robust"
-
-#~ msgid "intelligent,resilient"
-#~ msgstr "intelligent, robust"
-
-#~ msgid "strong,quick"
-#~ msgstr "kräftig, schnell"
-
-#~ msgid "strong,intelligent"
-#~ msgstr "kräftig, intelligent"
-
-#~ msgid "quick,intelligent"
-#~ msgstr "schnell, intelligent"
