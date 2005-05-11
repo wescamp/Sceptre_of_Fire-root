@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-07 10:47+0200\n"
+"POT-Creation-Date: 2005-05-11 22:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,17 +34,18 @@ msgstr ""
 msgid "Lord"
 msgstr ""
 
-#: ./Sceptre_of_Fire.cfg:25
+#: ./Sceptre_of_Fire.cfg:26
 msgid ""
 "The land of Wesnoth's banner bold\n"
-"Comes not from that great land;\n"
+"Comes not from its own land;\n"
 "It comes from Dwarfdom, grim and old\n"
 "Made by a runesmith's hand.\n"
-"\n"
-"This tale then tells from where it came -\n"
-"The great Sceptre of Fire -\n"
-"And how a dwarvish clan much famed\n"
-"Did draw the Elf-lord's ire...\n"
+"-\n"
+"So now I tell from whence it came -\n"
+"The Fire-sceptre great -\n"
+"And of the makers of the same,\n"
+"Their tale I now relate...\n"
+"-\n"
 ""
 msgstr ""
 
@@ -1245,7 +1246,7 @@ msgid "True. I suspect these elves will try to besiege us here."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:502
-msgid "Well, back to the battle - we need everyone to get into the SHorbear caves. And then stop any enemies from coming in here."
+msgid "Well, back to the battle - we need everyone to get into the Shorbear caves. And then stop any enemies from coming in here."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:506
