@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-11 22:32+0200\n"
-"PO-Revision-Date: 2005-05-12 01:09+0200\n"
+"PO-Revision-Date: 2005-05-13 00:21+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -511,7 +511,7 @@ msgstr "Baglur"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:45
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:46
 msgid "loyal,resilient"
-msgstr "lojal,stryktålig"
+msgstr "lojal, tålig"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:223
 msgid ""
