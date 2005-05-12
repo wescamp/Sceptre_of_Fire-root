@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-11 22:32+0200\n"
-"PO-Revision-Date: 2005-05-09 12:18+0200\n"
+"PO-Revision-Date: 2005-05-12 01:09+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1846,13 +1846,12 @@ msgid "True. I suspect these elves will try to besiege us here."
 msgstr "Sant. Jag misstänker att alverna kommer att försöka belägra oss."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:502
-#, fuzzy
 msgid ""
 "Well, back to the battle - we need everyone to get into the Shorbear caves. "
 "And then stop any enemies from coming in here."
 msgstr ""
 "Nå, tillbaka till striden. Vi måste få in alla i Shorbear-grottorna. Och "
-"sedan måste vi hindra andra från att komma in hit."
+"sedan måste vi hålla alla fiender utanför."
 
 #: Sceptre_of_Fire/scenarios/5_The_Hills_of_the_Shorbear_Clan.cfg:506
 msgid "Indeed. Everyone to the caves, and kill those still inside!"
