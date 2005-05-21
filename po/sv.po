@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-21 17:08+0200\n"
-"PO-Revision-Date: 2005-05-14 13:45+0200\n"
+"PO-Revision-Date: 2005-05-21 18:31+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1892,33 +1892,28 @@ msgid "Ayahahh..."
 msgstr "Aaaajjjj...."
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:47
-#, fuzzy
 msgid "quick, resilient"
-msgstr "lojal, tålig"
+msgstr "snabb, tålig"
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:48
-#, fuzzy
 msgid "strong, resilient"
-msgstr "lojal, tålig"
+msgstr "stark, tålig"
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:49
-#, fuzzy
 msgid "intelligent, resilient"
-msgstr "lojal, tålig"
+msgstr "intelligent, tålig"
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:50
 msgid "strong, quick"
-msgstr ""
+msgstr "stark, snabb"
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:51
-#, fuzzy
 msgid "strong, intelligent"
-msgstr "lojal, intelligent"
+msgstr "stark, intelligent"
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:52
-#, fuzzy
 msgid "quick, intelligent"
-msgstr "lojal, intelligent"
+msgstr "snabb, intelligent"
 
 #: Sceptre_of_Fire/units/Caravan.cfg:4
 msgid "Empty Caravan"
