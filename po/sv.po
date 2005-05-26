@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-25 20:50+0200\n"
-"PO-Revision-Date: 2005-05-21 18:31+0200\n"
+"PO-Revision-Date: 2005-05-26 00:37+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1004,9 +1004,8 @@ msgid "Death of Krawg"
 msgstr "Krawg dör"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:352
-#, fuzzy
 msgid "Kawn"
-msgstr "Krawg"
+msgstr "Kawn"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:372
 msgid "I see a house in the distance!"
@@ -1025,9 +1024,8 @@ msgstr ""
 "tänka sig att tala med..."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:408
-#, fuzzy
 msgid "Thursagan"
-msgstr "Thursagan dör"
+msgstr "Thursagan"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:413
 msgid "What do you people want!? Leave me alone!"
@@ -1258,25 +1256,24 @@ msgid "So, we will go to the eastern mines!"
 msgstr "Nå, då ger vi oss av till de östliga gruvorna!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:238
-#, fuzzy
 msgid ""
 "Yes. Durstorn, send some miners along with us, and I will bring some "
 "runecrafters-in-training from the academy to help fight these enemies."
 msgstr ""
-"Ja, Durstorn, sänd några gruvarbetare med oss, så tar jag med mig några "
-"rungesäller från skolan. De kan hjälpa oss mot trollen."
+"Ja. Durstorn, sänd några gruvarbetare med oss, så tar jag med mig några "
+"rungesäller från akademin. De kan hjälpa oss mot trollen."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:245
 msgid "Kinan"
-msgstr ""
+msgstr "Kinan"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:251
 msgid "Rynan"
-msgstr ""
+msgstr "Rynan"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:255
 msgid "Two runesmiths from the academy have joined you!"
-msgstr ""
+msgstr "Två runsmeder från akademin har förenat sig med dina styrkor!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:259
 msgid "Well then, lets go! To the eastern mines, eh?"
@@ -1353,9 +1350,8 @@ msgstr "Det var den sista lasten kol vi behövde."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:208
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:243
-#, fuzzy
 msgid "That's all of the materials! Time to go back to the citadel."
-msgstr "Vi har alla råämnen vi behöver! Dags att gå tillbaka till smedjan."
+msgstr "Nu har vi alla råämnen! Dags att gå tillbaka till smedjan."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:233
 msgid "Here's the gold."
@@ -1922,9 +1918,8 @@ msgid "Ayahahh..."
 msgstr "Aaaajjjj...."
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:48
-#, fuzzy
 msgid "Ahhgg..."
-msgstr "Aaaajjjj...."
+msgstr "Ahhgg..."
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:128
 msgid "quick, resilient"
