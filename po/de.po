@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-29 17:57+0200\n"
-"PO-Revision-Date: 2005-05-25 23:43+0100\n"
+"PO-Revision-Date: 2005-05-31 20:40+0100\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic@gmx.net>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1770,9 +1770,8 @@ msgid "I'd like to see you try!"
 msgstr "Das will ich erst sehen!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:295
-#, fuzzy
 msgid "You're making a mistake, Durstorn."
-msgstr "Ihr macht einen Fehler, Durnstorn!"
+msgstr "Ihr macht einen Fehler, Durnstorn."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:299
 msgid "Shut up, all of you! Attack them!"
@@ -1860,12 +1859,16 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:416
 msgid "Ha! Now we can get those tools easily, and go back to our own caves."
 msgstr ""
+"Ha! Nun können wir uns die Werkzeuge einfach nehmen und in unsere Stollen "
+"zurückkehren."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:420
 msgid ""
 "And how do you plan on doing that? There are elves swarming these hills, "
 "trying to kill us."
 msgstr ""
+"Und wie wollt ihr das schaffen? Die Elfen halten die Hügel besetzt und "
+"versuchen uns zu töten."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:424
 msgid ""
@@ -1873,14 +1876,19 @@ msgid ""
 "castle somewhere. We WILL find it, although it may take a while. We should "
 "barricade ourselves in the Shorbear citadel, and collapse the gates."
 msgstr ""
+"Ihr habt recht... Der Shorbear Klan wird irgendwo einen versteckten "
+"Höhlenzugang in ihrer Festung haben. Wir WERDEN ihn finden, auch wenn es uns "
+"viel Zeit kosten wird. In der Zwischenzeit sollten wir uns hier drinnen "
+"verschanzen und die Tore verschütten."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:428
 msgid "But what if there isn't a cave entrance? We'll all die!"
 msgstr ""
+"Doch was, wenn es keinen geheimen Zugang gibt? Dann werden wir sterben!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:432
 msgid "Don't worry about that, boy, there WILL be a tunnel."
-msgstr ""
+msgstr "Mach dir darüber keine Sorge, mein Junge. Es wird einen Tunnel geben."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:468
 msgid ""
@@ -1891,19 +1899,19 @@ msgstr ""
 "immernoch einige Feinde hier drin!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:472
-#, fuzzy
 msgid ""
 "Indeed. Kill them! And make sure no more enter. Then we can close the gates."
 msgstr ""
-"Genau. Tötet sie! Und stellt sicher, dass keine weiteren hier eindringen."
+"Genau. Tötet sie! Und stellt sicher, dass keine weiteren hier eindringen. "
+"Dann können wir die Tore verschließen."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:513
 msgid ""
 "We have driven all of the dwarves and elves out of these caves. They are not "
 "ours, though, and we can't stay here forever."
 msgstr ""
-"Wir haben alle Elfen und feindlichen Zwerge aus den Höhlen vertrieben. "
-"Dennoch sind es nicht unsere. Wir können nicht ewig hier ausharren."
+"Wir haben alle Elfen und Zwerge aus den Höhlen vertrieben. Dennoch gehören "
+"sie nicht uns. Wir können nicht ewig hier ausharren."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:517
 msgid "True. I suspect these elves will try to besiege us here."
@@ -1924,13 +1932,12 @@ msgid "Indeed. Everyone to the caves, and kill those still inside!"
 msgstr "Für wahr. Alle in die Höhlen, und tötet jene die sie beherbergen!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:609
-#, fuzzy
 msgid ""
 "We have driven all of the dwarves and elves out of these caves! Now, "
 "collapse them, and start searching for a tunnel entrance!"
 msgstr ""
-"Wir haben alle Elfen und feindlichen Zwerge aus den Höhlen vertrieben. "
-"Dennoch sind es nicht unsere. Wir können nicht ewig hier ausharren."
+"Wir haben alle Elfen und Zwerge aus den Höhlen vertrieben! Nun verschüttet "
+"die Tore und beginnt, nach einem Fluchttunnel zu suchen!"
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:48
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:629
@@ -1939,21 +1946,24 @@ msgid "Gaanngh..."
 msgstr "Gaanngh..."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:47
-#, fuzzy
 msgid "Well, have we found any tunnels yet?"
-msgstr "Habt ihr schon etwas fertig?!"
+msgstr "Nun, haben wir schon einen Tunnel entdeckt?"
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:51
 msgid ""
 "No. I doubt we're going to. The Shorbears weren't cave-dwarves like us, they "
 "didn't use tunnels like we do."
 msgstr ""
+"Nein, ich bezweifle, dass wir fündig werden. Die Shorbears waren keine "
+"Höhlenzwerge wie wir. Sie nutzen Tunnel nicht so gerne, wie wir."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:55
 msgid ""
 "That's just stupid, Rugnur. There ARE tunnels here, and we're going to find "
 "them! If we don't, the elves kill us."
 msgstr ""
+"Das ist einfach nur dumm Rugnur. Es GIBT hier Tunnel, und wir werden sie "
+"finden, falls uns die Elfen nicht vorher töten."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:59
 msgid ""
@@ -1962,19 +1972,25 @@ msgid ""
 "Earlier, we might have been able to make a break for it through the eastern "
 "gate, but now..."
 msgstr ""
+"Warum sucht ihr nicht selbst, Durnstorn? Wir sind nun seit einer Woche hier "
+"und haben noch immer nichts gefunden. Die Elfen haben uns nun mit Sicherheit "
+"komplett umstellt. Hätten wir es früher versucht, dann wäre da noch eine "
+"kleine Chance gewesen, am Osttor durchzubrechen, doch nun..."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:63
 msgid "THERE ARE TUNNELS HERE! There have to be! Keep looking!"
-msgstr ""
+msgstr "ES GIBT HIER TUNNEL! Es muss Tunnel geben! Sucht weiter!"
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:67
 msgid "(whispered) I think he's gone mad."
-msgstr ""
+msgstr "(geflüstert) Er ist durchgedreht."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:71
 msgid ""
 "I heard that! I hear everything! Keep looking for the tunnels! Look, look..."
 msgstr ""
+"Ich habe das gehört! Ich höre alles! Sucht weiter nach Stollen! Sucht, "
+"sucht..."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:75
 msgid ""
@@ -1982,21 +1998,28 @@ msgid ""
 "were adequate. Now all we have to do is get to a hto a decent forge to make "
 "the sceptre."
 msgstr ""
+"Lasst uns von etwas anderem sprechen. Die Werkzeuge der Shorbears waren "
+"geeignet um den Rubin zurechtzuschneiden. Nun müssen wir nur noch zu einer "
+"vernünftigen Schmiede um das Zepter fertigzustellen."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:79
 msgid ""
 "What? You've been messing with that jewel while we're trapped in these "
 "caves? Give it to me!"
 msgstr ""
+"Was? Ihr habt Zeit mit diesem Juwel verschwendet, während wir in diesen "
+"Höhlen gefangen waren? Gebt ihn mir!"
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:83
 msgid "Its safer in Thursagan's hands than in yours, Durstorn."
-msgstr ""
+msgstr "Es ist sicherer in Thursagan's Händen, als in euren, Durnstorn."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:87
 msgid ""
 "Shut up! Agh, you're all useless. Don't look for a tunnel, see if I care."
 msgstr ""
+"Schweigt still! Agh, ihr seid nutzlos. Sucht nicht nach einem Tunnel und "
+"seht, ob es mich kümmert."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:91
 msgid ""
@@ -2004,12 +2027,17 @@ msgid ""
 "The elves won't be able to catch us if we can get to, say, that cave to our "
 "northeast."
 msgstr ""
+"Na gut, wir werden nicht mehr danach suchen. Ich werde ein Tor öffnen und "
+"prüfen, ob wir fliehen können. Die Elfen werden uns nicht fangen können, "
+"wenn wir, sagen wir, die Höhle im Nordosten erreichen können."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:95
 msgid ""
 "No! Keep looking! Especially you, Rugnur! Its your fault we're here in the "
 "first place!"
 msgstr ""
+"Nein! Sucht weiter! Insbesondere du, Rugnur! Es ist deine einzig deine "
+"Schuld, dass wir hier sind!"
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:99
 msgid ""
@@ -2017,34 +2045,38 @@ msgid ""
 "might have been able to get them to help us fight the elves, and it would be "
 "them trapped, not us!"
 msgstr ""
+"Was?! Nein, es ist einzig eure Schuld! Hättet ihr nicht befohlen, die "
+"Shorbears anzugreifen, hätten sie uns vielleicht gegen die Elfen geholfenzu "
+"kämpfen. Nun wären die Elfen in der Falle, nicht wir!"
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:103
 msgid "I'm in charge here, and I say its your fault!"
-msgstr ""
+msgstr "Ich bin hier zuständig, und ich sage es ist eure Schuld!"
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:107
 msgid "*BUMP*"
-msgstr ""
+msgstr "*BUMP*"
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:111
 msgid "What happened?"
-msgstr ""
+msgstr "Was ist geschehen?"
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:115
 msgid "Rugnur hit him. I think he's dead."
-msgstr ""
+msgstr "Rugnur hat ihn geschlagen. Ich glaube er ist tot."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:119
 msgid "Ah, good riddance. Now we can actually try to get out of here."
-msgstr ""
+msgstr "Ah, wir sind erlöst. Nun können wir versuchen von hier zu entkommen."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:123
 msgid "Yes, uh, lets go..."
-msgstr ""
+msgstr "Ja, lasst uns aufbrechen..."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:127
 msgid "The best route looks like what you said, towards that northeast cave."
 msgstr ""
+"Der beste Weg ist, wie ihr vorschlagt, in Richtung der Höhle im Nordosten."
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
 #: Sceptre_of_Fire/scenarios/utils.cfg:22
@@ -2288,39 +2320,3 @@ msgstr "Klauen"
 #: Sceptre_of_Fire/units/Wolf.cfg:37
 msgid "blade"
 msgstr "Klinge"
-
-#~ msgid ""
-#~ "Don't kill me if you want to know where the tools are! I've hid them!"
-#~ msgstr ""
-#~ "Tötet mich nicht, wenn ihr die Werkzeuge haben wollt! Ich habe sie "
-#~ "versteckt!"
-
-#~ msgid "Where?"
-#~ msgstr "Wo?"
-
-#~ msgid "Promise you'll set me free first!"
-#~ msgstr "Versprecht zuerst, dass ihr mich freilasst!"
-
-#~ msgid "Done."
-#~ msgstr "Erledigt."
-
-#~ msgid "One of my men, named Onin, is carrying them."
-#~ msgstr "Einer meiner Männer namens Onin, trägt sie bei sich."
-
-#~ msgid "Onin"
-#~ msgstr "Onin"
-
-#~ msgid "He's right, here they are."
-#~ msgstr "Er hat recht, sie sind hier."
-
-#~ msgid ""
-#~ "Good. Thursagan, you take those. Now throw Glonoin and Onin into prison!"
-#~ msgstr ""
-#~ "Gut. Ihr nehmt sie, Thursagan. Und nun werft Glonoin und Onin in den "
-#~ "Kerker!"
-
-#~ msgid "What?!"
-#~ msgstr "Was?!"
-
-#~ msgid "I'm not killing you, that should be enough!"
-#~ msgstr "Ich töte euch nicht, das sollte reichen!"
