@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-29 17:57+0200\n"
-"PO-Revision-Date: 2005-05-30 14:18+0200\n"
+"PO-Revision-Date: 2005-06-03 01:04+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -484,7 +484,7 @@ msgid ""
 "Yes, that sounds good. I'll stay here and try to defend the gates... "
 "somehow..."
 msgstr ""
-"Ja, det blir bra. Jag stannar här och försvarar portarna...på något sätt..."
+"Ja, det blir bra. Jag stannar här och försvarar portarna... På något sätt..."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:164
 msgid ""
@@ -506,7 +506,7 @@ msgstr "Ha! Det var väl det jag trodde. Nå, ge er!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:176
 msgid "Um... on what terms?"
-msgstr "Äh...på vilka villkor?"
+msgstr "Äh... På vilka villkor?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:180
 msgid "Unconditional."
@@ -542,9 +542,10 @@ msgid ""
 "elves will not be able to enter. And you elves; begone from here!"
 msgstr ""
 "Argh! Jag är en pensionerad krigare... Det ser ut som att jag måste komma ut "
-"och hjälpa er, eller så blir vi överkörda av de fördömda alverna... Argh.Nå, "
-"hör på mig nu. Den här ingången till staden kan stängas. Det finns en port. "
-"Om vi kan stänga den, så kommer alverna inte in. Och ni alver: Ge er av!"
+"och hjälpa er, eller så blir vi överkörda av de fördömda alverna... Argh. "
+"Nå, hör på mig nu. Den här ingången till staden kan stängas. Det finns en "
+"port. Om vi kan stänga den, så kommer alverna inte in. Och ni alver: Ge er "
+"av!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:231
 msgid ""
@@ -1465,7 +1466,7 @@ msgstr "Tror du att du kan slipa till den in enlighet med mina ritningar?"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:222
 msgid "Well, uh, um, maybe... maybe... it will be hard... let me see..."
 msgstr ""
-"Nå, äh, um, kanske...kanske...det kommer att bli svårt... Låt mig få se på "
+"Nå, äh, um, kanske...kanske... Det kommer att bli svårt... Låt mig få se på "
 "den..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:226
@@ -1481,9 +1482,9 @@ msgid ""
 "Ah, well, uh, no... no, not yet... unfortunately... it seems... it can't be "
 "cut... or scratched... or damaged at all... at least not by my tools..."
 msgstr ""
-"Ah, nå, äh, nej, nej, inte än... Tyvärr... Det verkar som...den inte kan "
-"slipas...eller rispas...eller skadas på något sätt... Åtminstone inte av de "
-"verktyg som jag har..."
+"Ah, nå, äh, nej, nej, inte än... Tyvärr... Det verkar som... den inte kan "
+"slipas... eller rispas... eller skadas på något sätt... Åtminstone inte av "
+"de verktyg som jag har..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:239
 msgid ""
@@ -1498,7 +1499,7 @@ msgid ""
 "Well... maybe... the shorbear clan? They have good tools... yes, yes, they "
 "do..."
 msgstr ""
-"Nå...kanske...shorbear-klanen? De har bra verktyg... Ja, ja, det har de..."
+"Nå...kanske... Shorbear-klanen? De har bra verktyg... Ja, ja, det har de..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:247
 msgid "Who are they?"
@@ -1509,7 +1510,7 @@ msgid ""
 "Another group... of dwarves... live south of here... above ground... yes... "
 "best jewelers I know of... have special tools... tools, yes..."
 msgstr ""
-"En annan grupp...dvärgar... Bor söderut...ovan jord... Ja...de bästa "
+"En annan grupp...dvärgar... Bor söderut... Ovan jord... Ja... De bästa "
 "juvelerare jag känner till... Har speciella verktyg... Verktyg, ja..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:255
