@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-09 17:50+0200\n"
-"PO-Revision-Date: 2005-06-03 01:04+0200\n"
+"PO-Revision-Date: 2005-06-09 18:08+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1954,7 +1954,6 @@ msgstr ""
 "Jag hörde det där! Jag hör allt! Fortsätt leta efter tunnlarna! Leta, leta..."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:75
-#, fuzzy
 msgid ""
 "Well, on a different subject, about the ruby, the Shorbear's cutting tools "
 "were adequate. Now all we have to do is get to a decent forge to make the "
@@ -2019,29 +2018,26 @@ msgid "*BUMP*"
 msgstr "*BUMP*"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:28
-#, fuzzy
 msgid "Gaenlar"
-msgstr "Glinar"
+msgstr "Gaenlar"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:39
-#, fuzzy
 msgid "Glinan"
-msgstr "Glinar"
+msgstr "Glinan"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:51
-#, fuzzy
 msgid "Kalnar"
-msgstr "Kuhnar"
+msgstr "Kalnar"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:77
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:208
 msgid "Move Rugnur to the northeast cave entrance"
-msgstr ""
+msgstr "För Rugnur till den nordöstra grottöppningen"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:81
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:285
 msgid "Move Alanin to the southern border east of the river"
-msgstr ""
+msgstr "För Alanin till den södra gränsen öster om floden"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:116
 msgid "What happened?"
@@ -2056,23 +2052,24 @@ msgid "Ah, good riddance. Now we can actually try to get out of here."
 msgstr "Aha, adjöss med den. Nu kan vi faktiskt försöka ta oss härifrån."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:128
-#, fuzzy
 msgid "Yes, uh, lets go... where to?"
-msgstr "Ja, hm, sätt igång..."
+msgstr "Ja, hm, då går vi... Varthän?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:132
 msgid "Well, we are going to try to get out of here. What is our plan?"
-msgstr ""
+msgstr "Då skall vi försöka ta oss härifrån, då. Vad är planen?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:136
 msgid ""
 "There is a cave to the northeast of here. That is the area with the least "
 "elvish guards, too. I think we should try to get there."
 msgstr ""
+"Det finns en grotta nordost härifrån. Det finns inte så många alvvakter där. "
+"Jag tycker att vi skall försöka ta oss dit."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:143
 msgid "Not much of a plan, is it? But its better than nothing."
-msgstr ""
+msgstr "Inte så värst mycket till plan, vad? Men bättre än inget."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:147
 msgid ""
@@ -2080,18 +2077,26 @@ msgid ""
 "succeed either. Even if it does, what will it accomplish? We will be "
 "cornered there, after losing many warriors during the journey."
 msgstr ""
+"Det kan inte vara mycket värre än att stanna här och bli dödade, men det är "
+"inte så troligt att vi lyckas heller. Och även om vi gör det, vad har vi "
+"åstadkommit då? Vi blir instängda där, efter stora förluster på vägen."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:151
 msgid ""
 "I don't know if we will be cornered. That cave looks like it goes deep, and "
 "we can lose the elves in the caves, they move so slow there."
 msgstr ""
+"Jag vet inte om vi kommer att vara instängda. Grottan ser ut att gå djupt "
+"in, och vi kan nog villa bort alverna på vägen, eftersom de rör sig så "
+"långsamt i grottor."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:155
 msgid ""
 "That's fine for you, you can run fast in caves, but I can't! What am I "
 "supposed to do?"
 msgstr ""
+"Det fungerar ju för er, ni kan röra er snabbt här nere, men det kan inte "
+"jag! Vad skall jag göra?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:159
 msgid ""
@@ -2099,52 +2104,66 @@ msgid ""
 "if you can run past those elves to our southeast, and then ride south until "
 "you reach one of your outposts."
 msgstr ""
+"Du tillhör den wesnothiska armén. Varför går du inte tillbaka till dem? Du "
+"kan nog ta dig förbi alverna i sydöst, och sedan rida söderut tills du når "
+"en av era utposter."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:166
 msgid "I'm not going to do that, its suicide!"
-msgstr ""
+msgstr "Det tänker jag inte alls göra! Det är självmord!"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:170
 msgid ""
 "It has more of a success for you than staying here or going to the caves! "
 "Its your only option, unless you have a better idea."
 msgstr ""
+"Det är troligare att du lyckas med det än om du stannar här eller följer med "
+"till grottorna! Det är din enda chans, såvida du inte har en bättre idé."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:174
 msgid "I suppose..."
-msgstr ""
+msgstr "Ja, så kan det väl vara..."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:178
 msgid "Come out, dwarves, and surrender! Or die in that cave, you're choice."
-msgstr ""
+msgstr "Kom ut, dvärgar, och ge upp! Eller dö i er grotta, det är upp till er."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:196
 msgid ""
 "Alanin, ride as fast as you can south. Tell Haldric we are going into a "
 "cave, and if we don't get news to him otherwise, we are dead!"
 msgstr ""
+"Alanin, rid söderut så snabbt du kan. Berätta för Haldric att vi är på väg "
+"in i en grotta, och om det inte kommer fler bud från oss, så har vi "
+"misslyckats!"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:236
 msgid ""
 "I have made it past those elves, but they will chase me, and elvish horses "
 "are faster than mine."
 msgstr ""
+"Jag lyckades ta mig förbi alverna, men de kommer att jaga mig, och deras "
+"hästar är snabbare än min."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:266
 msgid "Rugnur, I am going south. What should I tell Haldric?"
-msgstr ""
+msgstr "Rugnur, jag ger mig av söderut. Vad skall jag säga till Haldric?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:270
 msgid ""
 "Tell him we are dead, unless we get news to you otherwise. We are going into "
 "the caves."
 msgstr ""
+"Berätta att vi är döda, såvida vi inte lyckas sända bud till dig. Vi går in "
+"i grottorna."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:301
 msgid ""
 "I don't know what is in these caves, but it can't be worse than being "
 "attacked by hundreds of elves."
 msgstr ""
+"Jag vet inte vad som finns i grottorna, men det kan inte vara värre än att "
+"bli anfallna av hundratals alver."
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
 #: Sceptre_of_Fire/scenarios/utils.cfg:22
@@ -2386,9 +2405,3 @@ msgstr "klor"
 #: Sceptre_of_Fire/units/Wolf.cfg:37
 msgid "blade"
 msgstr "hugg"
-
-#~ msgid ""
-#~ "The best route looks like what you said, towards that northeast cave."
-#~ msgstr ""
-#~ "Den bästa vägen verkar vara mot den där nordöstra grottan, precis som du "
-#~ "sa."
