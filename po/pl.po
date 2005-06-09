@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-29 17:57+0200\n"
+"POT-Creation-Date: 2005-06-09 17:50+0200\n"
 "PO-Revision-Date: 2005-04-29 20:50+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -78,6 +78,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:542
 #: Sceptre_of_Fire/scenarios/template.cfg:42
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:36
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:85
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:212
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:84
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:325
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:481
@@ -101,6 +103,9 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:566
 #: Sceptre_of_Fire/scenarios/template.cfg:46
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:56
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:105
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:228
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:293
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:96
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:341
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:501
@@ -386,6 +391,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:489
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:550
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:44
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:93
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:216
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:92
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:333
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:489
@@ -761,6 +768,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:485
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:546
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:40
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:89
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:289
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:88
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:329
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:485
@@ -844,6 +853,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:493
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:554
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:48
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:97
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:220
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:337
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:493
 msgid "Death of Krawg"
@@ -945,6 +956,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:497
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:558
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:52
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:101
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:224
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:497
 msgid "Death of Thursagan"
 msgstr ""
@@ -1640,8 +1653,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:75
 msgid ""
 "Well, on a different subject, about the ruby, the Shorbear's cutting tools "
-"were adequate. Now all we have to do is get to a hto a decent forge to make "
-"the sceptre."
+"were adequate. Now all we have to do is get to a decent forge to make the "
+"sceptre."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:79
@@ -1687,24 +1700,128 @@ msgstr ""
 msgid "*BUMP*"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:111
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:28
+msgid "Gaenlar"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:39
+msgid "Glinan"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:51
+msgid "Kalnar"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:77
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:208
+msgid "Move Rugnur to the northeast cave entrance"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:81
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:285
+msgid "Move Alanin to the southern border east of the river"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:116
 msgid "What happened?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:115
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:120
 msgid "Rugnur hit him. I think he's dead."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:119
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:124
 msgid "Ah, good riddance. Now we can actually try to get out of here."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:123
-msgid "Yes, uh, lets go..."
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:128
+msgid "Yes, uh, lets go... where to?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:127
-msgid "The best route looks like what you said, towards that northeast cave."
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:132
+msgid "Well, we are going to try to get out of here. What is our plan?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:136
+msgid ""
+"There is a cave to the northeast of here. That is the area with the least "
+"elvish guards, too. I think we should try to get there."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:143
+msgid "Not much of a plan, is it? But its better than nothing."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:147
+msgid ""
+"It can't be worse than staying here to get killed, but it isn't likely to "
+"succeed either. Even if it does, what will it accomplish? We will be "
+"cornered there, after losing many warriors during the journey."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:151
+msgid ""
+"I don't know if we will be cornered. That cave looks like it goes deep, and "
+"we can lose the elves in the caves, they move so slow there."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:155
+msgid ""
+"That's fine for you, you can run fast in caves, but I can't! What am I "
+"supposed to do?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:159
+msgid ""
+"Well, you are a member of the Wesnothian army. Why don't you rejoin it? See "
+"if you can run past those elves to our southeast, and then ride south until "
+"you reach one of your outposts."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:166
+msgid "I'm not going to do that, its suicide!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:170
+msgid ""
+"It has more of a success for you than staying here or going to the caves! "
+"Its your only option, unless you have a better idea."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:174
+msgid "I suppose..."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:178
+msgid "Come out, dwarves, and surrender! Or die in that cave, you're choice."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:196
+msgid ""
+"Alanin, ride as fast as you can south. Tell Haldric we are going into a "
+"cave, and if we don't get news to him otherwise, we are dead!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:236
+msgid ""
+"I have made it past those elves, but they will chase me, and elvish horses "
+"are faster than mine."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:266
+msgid "Rugnur, I am going south. What should I tell Haldric?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:270
+msgid ""
+"Tell him we are dead, unless we get news to you otherwise. We are going into "
+"the caves."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:301
+msgid ""
+"I don't know what is in these caves, but it can't be worse than being "
+"attacked by hundreds of elves."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
