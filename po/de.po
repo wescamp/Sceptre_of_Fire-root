@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-06-09 17:50+0200\n"
+"POT-Creation-Date: 2005-06-11 11:08+0200\n"
 "PO-Revision-Date: 2005-05-31 20:40+0100\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic@gmx.net>\n"
 "Language-Team: none\n"
@@ -89,7 +89,7 @@ msgstr "Geleitet Alanin, Träger des Rubins des Feuers, zur Festung der Zwerge"
 #: Sceptre_of_Fire/scenarios/template.cfg:42
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:36
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:85
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:212
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:216
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:84
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:325
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:481
@@ -107,6 +107,7 @@ msgstr "Ihr verliert einen beladenen Wagen an den Feind"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:70
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:456
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:66
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:135
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:393
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:505
@@ -114,8 +115,8 @@ msgstr "Ihr verliert einen beladenen Wagen an den Feind"
 #: Sceptre_of_Fire/scenarios/template.cfg:46
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:56
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:105
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:228
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:293
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:232
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:313
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:96
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:341
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:501
@@ -485,7 +486,7 @@ msgstr "Tötet alle Elfen, die nach Schließung der Tore noch in den Höhlen sin
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:550
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:44
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:93
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:216
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:220
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:92
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:333
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:489
@@ -941,13 +942,14 @@ msgid "Find Thursagan and convince him to come back to the dwarvish city"
 msgstr ""
 "Findet Thursagan und überzeugt ihn zurückzukommen in die Stadt der Zwerge"
 
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:62
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:115
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:373
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:485
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:546
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:40
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:89
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:289
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:309
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:88
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:329
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:485
@@ -1037,7 +1039,7 @@ msgstr "Waas... duuu illlst uuuns verrsssteeckennn nuuun? Wiiir köönnn..."
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:554
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:48
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:97
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:220
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:224
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:337
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:493
 msgid "Death of Krawg"
@@ -1160,7 +1162,7 @@ msgstr "Bringt Thursagan zu dem Wegweiser"
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:558
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:52
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:101
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:224
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:228
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:497
 msgid "Death of Thursagan"
 msgstr "Thursagan fällt in der Schlacht"
@@ -2087,12 +2089,12 @@ msgid "Kalnar"
 msgstr "Kuhnar"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:77
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:208
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:212
 msgid "Move Rugnur to the northeast cave entrance"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:81
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:285
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:305
 msgid "Move Alanin to the southern border east of the river"
 msgstr ""
 
@@ -2177,26 +2179,139 @@ msgid ""
 "cave, and if we don't get news to him otherwise, we are dead!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:236
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:240
 msgid ""
 "I have made it past those elves, but they will chase me, and elvish horses "
 "are faster than mine."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:266
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:270
 msgid "Rugnur, I am going south. What should I tell Haldric?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:270
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:274
 msgid ""
 "Tell him we are dead, unless we get news to you otherwise. We are going into "
 "the caves."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:301
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:321
 msgid ""
 "I don't know what is in these caves, but it can't be worse than being "
 "attacked by hundreds of elves."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:58
+msgid "Reach the Wesnothian outpost in the south"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:85
+msgid ""
+"Well, the elves are behind me for now, but they will send riders to catch "
+"me, and elvish riders are faster than me."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:89
+msgid ""
+"My only hope is to convince the peasants to stop the elves from passing "
+"through their land, so I can get ahead of them."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:98
+msgid "Lord Asaeri"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:101
+#, fuzzy
+msgid "strong, dexterous"
+msgstr "stark, schnell"
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:110
+#, fuzzy
+msgid "Gaelir"
+msgstr "Glinar"
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:113
+msgid "quick, dexterous"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:122
+msgid "Salira"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:125
+#: Sceptre_of_Fire/scenarios/utils.cfg:131
+msgid "strong, quick"
+msgstr "stark, schnell"
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:134
+#, fuzzy
+msgid "Losnin"
+msgstr "Glonoin"
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:137
+#: Sceptre_of_Fire/scenarios/utils.cfg:129
+msgid "strong, resilient"
+msgstr "stark, robust"
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:146
+msgid "Ealin"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:149
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:179
+#: Sceptre_of_Fire/scenarios/utils.cfg:128
+msgid "quick, resilient"
+msgstr "schnell, robust"
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:163
+msgid ""
+"You cannot outride us, horseman of Wesnoth! Whatever message you are "
+"carrying, it will not be delivered!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:167
+msgid "We shall see about that!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:176
+msgid "Raesil"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:194
+msgid ""
+"The villagers here are loyal to Wesnoth. They should be willing to help me "
+"escape these elves!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:199
+msgid "Rolin"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:204
+msgid "We will certainly help any warrior of Wesnoth who needs our help!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:231
+msgid "Hadlin"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:236
+#, fuzzy
+msgid "Who goes there?"
+msgstr "Wer ist das?"
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:240
+msgid ""
+"I'm a dragoon, with Haldric II's personal bodyguard. I was sent on a mission "
+"in the northlands, and now elvish horsemen are chasing me. I barely evaded "
+"them."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:244
+msgid ""
+"I see. Well, come on in. I doubt they would be able to capture this fort, "
+"even if they did want to start a war., which I doubt."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
@@ -2227,21 +2342,9 @@ msgstr "Ayahahh..."
 msgid "Ahhgg..."
 msgstr "Ahhgg..."
 
-#: Sceptre_of_Fire/scenarios/utils.cfg:128
-msgid "quick, resilient"
-msgstr "schnell, robust"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:129
-msgid "strong, resilient"
-msgstr "stark, robust"
-
 #: Sceptre_of_Fire/scenarios/utils.cfg:130
 msgid "intelligent, resilient"
 msgstr "intelligent, robust"
-
-#: Sceptre_of_Fire/scenarios/utils.cfg:131
-msgid "strong, quick"
-msgstr "stark, schnell"
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:132
 msgid "strong, intelligent"
