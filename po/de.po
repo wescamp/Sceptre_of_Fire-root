@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-11 11:08+0200\n"
-"PO-Revision-Date: 2005-06-19 20:03+0100\n"
+"PO-Revision-Date: 2005-06-20 17:20+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -2087,12 +2087,12 @@ msgstr "Kalnar"
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:77
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:212
 msgid "Move Rugnur to the northeast cave entrance"
-msgstr ""
+msgstr "Führt Rugnur zum nordöstlichen Höhleneingang"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:81
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:305
 msgid "Move Alanin to the southern border east of the river"
-msgstr ""
+msgstr "Führt Alanin zur südlichen Grenze, östlich des Flusses"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:116
 msgid "What happened?"
@@ -2112,17 +2112,19 @@ msgstr "Ja, lasst uns aufbrechen... wohin?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:132
 msgid "Well, we are going to try to get out of here. What is our plan?"
-msgstr ""
+msgstr "Nun, wir werden versuchen von hier zu entkommen. Was ist der Plan?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:136
 msgid ""
 "There is a cave to the northeast of here. That is the area with the least "
 "elvish guards, too. I think we should try to get there."
 msgstr ""
+"Nordöstlich von hier ist eine Höhle. Außerdem bewachen die Elfen diese "
+"Gegend nicht so gut. Wir sollten versuchen, uns dorthin durchzuschlagen."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:143
 msgid "Not much of a plan, is it? But its better than nothing."
-msgstr ""
+msgstr "Nicht gerade ein guter Plan, oder? Aber immer noch besser als nichts."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:147
 msgid ""
@@ -2130,18 +2132,27 @@ msgid ""
 "succeed either. Even if it does, what will it accomplish? We will be "
 "cornered there, after losing many warriors during the journey."
 msgstr ""
+"Besser, als hier zu bleiben um zu sterben, auch wenn unsere Chancen "
+"durchzukommen nicht gerade gut sind. Selbst wenn wir uns durchschlagen "
+"können, so werden wir in der anderen Höhle eingeschlossen sein. Außerdem "
+"werden wir auf dem Weg noch viele Gefährten verlieren."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:151
 msgid ""
 "I don't know if we will be cornered. That cave looks like it goes deep, and "
 "we can lose the elves in the caves, they move so slow there."
 msgstr ""
+"Ich weiß nicht, ob wir dort eingeschlossen sind. Doch es scheint, als sei "
+"die Höhle tief in den Fels geschlagen. Dort können wir die Elfen abhängen, "
+"da sie in den Stollen nicht so gut vorankommen."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:155
 msgid ""
 "That's fine for you, you can run fast in caves, but I can't! What am I "
 "supposed to do?"
 msgstr ""
+"Das ist gut für euch, da ihr in diesen Stollen gut zurecht kommt. Doch was "
+"ist mit mir? Was soll ich machen?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:159
 msgid ""
@@ -2149,77 +2160,96 @@ msgid ""
 "if you can run past those elves to our southeast, and then ride south until "
 "you reach one of your outposts."
 msgstr ""
+"Nun, ihr seid ein Mitglied der Armee von Wesnoth. Warum schließt ihr euch "
+"nicht wieder den Euren an? Versucht im Südosten durchzubrechen und reitet "
+"dann südwärts, bis ihr einen eurer Außenposten erreicht."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:166
 msgid "I'm not going to do that, its suicide!"
-msgstr ""
+msgstr "Das werde ich nicht machen. Das ist doch Selbstmord."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:170
 msgid ""
 "It has more of a success for you than staying here or going to the caves! "
 "Its your only option, unless you have a better idea."
 msgstr ""
+"Es ist erfolgversprechender für euch, als hier zu bleiben oder in die Höhlen "
+"zu gehen! Ihr habt keine andere Wahl oder habt ihr eine bessere Idee?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:174
 msgid "I suppose..."
-msgstr ""
+msgstr "Ich glaube..."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:178
 msgid "Come out, dwarves, and surrender! Or die in that cave, you're choice."
 msgstr ""
+"Kommt heraus, Zwerge und ergebt euch! Oder sterbt in der Höhle, ihr habt die "
+"Wahl."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:196
 msgid ""
 "Alanin, ride as fast as you can south. Tell Haldric we are going into a "
 "cave, and if we don't get news to him otherwise, we are dead!"
 msgstr ""
+"Reitet schnell gen Süden, Alanin. Sagt Haldric, dass wir uns in diese Höhle "
+"begeben. Sollte er von uns keine anders lautende Nachricht erhalten, sind "
+"wir tot."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:240
 msgid ""
 "I have made it past those elves, but they will chase me, and elvish horses "
 "are faster than mine."
 msgstr ""
+"Ich bin an den Elfen vorbeigekommen, doch sie werden mich verfolgen und "
+"elfische Pferde sind schneller als meines."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:270
 msgid "Rugnur, I am going south. What should I tell Haldric?"
-msgstr ""
+msgstr "Ich mache mich auf gen Süden, Rugnur. Was soll ich Haldric berichten?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:274
 msgid ""
 "Tell him we are dead, unless we get news to you otherwise. We are going into "
 "the caves."
 msgstr ""
+"Sagt ihm wir seien tot, außer wir benachrichtigen euch, dass wir es "
+"geschafft haben. Wir gehen in diese Höhlen."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:321
 msgid ""
 "I don't know what is in these caves, but it can't be worse than being "
 "attacked by hundreds of elves."
 msgstr ""
+"Ich weiß nicht, was wir in diesen Höhlen finden werden, doch kann es nicht "
+"schlimmer sein als einem Angriff von hunderten Elfen ausgesetzt zu sein."
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:58
 msgid "Reach the Wesnothian outpost in the south"
-msgstr ""
+msgstr "Erreicht den Außenposten von Wesnoth im Süden"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:85
 msgid ""
 "Well, the elves are behind me for now, but they will send riders to catch "
 "me, and elvish riders are faster than me."
 msgstr ""
+"Nun, an den Elfen bin ich vorbei, doch sie werden Reiter entsenden um mich "
+"zu fangen. Leider sind die elfischen Reiter schneller als ich."
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:89
 msgid ""
 "My only hope is to convince the peasants to stop the elves from passing "
 "through their land, so I can get ahead of them."
 msgstr ""
+"Meine einzige Chance ist es, die Bauern dazu zu bringen, die Elfen ihr Land "
+"nicht durchqueren zu lassen, so dass ich Abstand gewinnen kann."
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:98
 msgid "Lord Asaeri"
-msgstr ""
+msgstr "Fürst Asaeri"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:101
-#, fuzzy
 msgid "strong, dexterous"
-msgstr "stark, schnell"
+msgstr "stark, treffsicher"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:110
 msgid "Gaelir"
@@ -2227,11 +2257,11 @@ msgstr "Gaelir"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:113
 msgid "quick, dexterous"
-msgstr ""
+msgstr "schnell, treffsicher"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:122
 msgid "Salira"
-msgstr ""
+msgstr "Salira"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:125
 #: Sceptre_of_Fire/scenarios/utils.cfg:131
@@ -2249,7 +2279,7 @@ msgstr "stark, robust"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:146
 msgid "Ealin"
-msgstr ""
+msgstr "Ealin"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:149
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:179
@@ -2262,37 +2292,41 @@ msgid ""
 "You cannot outride us, horseman of Wesnoth! Whatever message you are "
 "carrying, it will not be delivered!"
 msgstr ""
+"Ihr könnt uns nicht abhängen, Reiter aus Wesnoth! Egal was die Nachricht, "
+"die ihr überbringen wollt, besagt, ihr werdet sie mit ins Grab nehmen!"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:167
 msgid "We shall see about that!"
-msgstr ""
+msgstr "Das werden wir noch sehen!"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:176
 msgid "Raesil"
-msgstr ""
+msgstr "Raesil"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:194
 msgid ""
 "The villagers here are loyal to Wesnoth. They should be willing to help me "
 "escape these elves!"
 msgstr ""
+"Die Dorfbewohner sind Wesnoth treu ergeben. Sie werden mir wohl helfen, "
+"diesen Elfen zu entkommen!"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:199
 msgid "Rolin"
-msgstr ""
+msgstr "Rolin"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:204
 msgid "We will certainly help any warrior of Wesnoth who needs our help!"
 msgstr ""
+"Wir werden jedem Streiter von Wesnoth unterstützen, der unserer Hilfe bedarf!"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:231
 msgid "Hadlin"
-msgstr ""
+msgstr "Hadlin"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:236
-#, fuzzy
 msgid "Who goes there?"
-msgstr "Wer ist das?"
+msgstr "Wer ist da?"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:240
 msgid ""
@@ -2300,12 +2334,17 @@ msgid ""
 "in the northlands, and now elvish horsemen are chasing me. I barely evaded "
 "them."
 msgstr ""
+"Ich bin ein Dragoner aus der Leibwache von Haldric II. Ich wurde ausgesandt "
+"auf eine Mission in den Nordlanden und werde nun von elfischen Reitern "
+"verfolgt. Ich konnte ihnen nur knapp entkommen."
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:244
 msgid ""
 "I see. Well, come on in. I doubt they would be able to capture this fort, "
 "even if they did want to start a war., which I doubt."
 msgstr ""
+"Ich sehe. Gut, kommt herein. Ich bezweifle, dass sie diese Festung erobern "
+"können, selbst wenn sie gewillt sind einen Krieg zu beginnen."
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
 #: Sceptre_of_Fire/scenarios/utils.cfg:22
