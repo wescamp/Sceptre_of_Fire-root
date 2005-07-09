@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-07-10 00:15+0200\n"
+"POT-Creation-Date: 2005-07-10 00:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1574,11 +1574,11 @@ msgid "Well, we have two choices. We may either stand and fight, and assuredly d
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:222
-msgid "Why don't we just surrender? All they want is that magic stone!"
+msgid "Why don't we just surrender? All they want is that magic sceptre!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:226
-msgid "If we give them the stone, then what? They'll probably kill us anyway. And, that stone has the power to do great things, evil things. We can't let it fall in the wrong hands."
+msgid "If we give them the sceptre, then what? They'll probably kill us anyway. And, that sceptre has the power to do great things, evil things. We can't let it fall in the wrong hands."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:230
@@ -1614,19 +1614,19 @@ msgid "What's this? A dwarf fighting against us with the elves?!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:278
-msgid "It must be one of those Surghan mercenaries. I'll bet those elves have hired more of them. That's bad news for us, they'll go as fast in caves as we do."
+msgid "It must be one of those Surghan mercenaries. I'll bet those elves have hired more of them. That's bad news for us, for they'll go as fast in caves as we do."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:294
-msgid "Look, I've found something here. I think its a forge... heated by the lava itself."
+msgid "Look, I've found something here. It looks like a forge, with a dragon's tooth on top of it. Its probably one of Khrakrahs'. It looks magic, perhaps it can be used in the Sceptre."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:298
-msgid "That pretty metal rock is mine! Get away from it!"
+msgid "That pretty metal rock is mine, and so is that tooth! Get away from them!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:302
-msgid "The lava should provide enough heat to melt the gold... maybe I can forge the sceptre there."
+msgid "I think the tooth will do a fine job of restraining the magic of the stone. It will work like a magnet, drawing the evil energy towards it."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:307
@@ -1634,7 +1634,7 @@ msgid "Move Thursagan to the forge"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:311
-msgid "Defend him until he makes the sceptre"
+msgid "Defend him until he incorporates the tooth into the sceptre"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:351
@@ -1654,7 +1654,7 @@ msgid "Ayahahh..."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:422
-msgid "I have completed the Sceptre of Fire."
+msgid "I have completed my changes. Now it is truly the Sceptre of Fire, a powerful magical artifact."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:426
@@ -1662,7 +1662,7 @@ msgid "Good. Now, let's get out of this cave, before the elves, dwarves or bats 
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:438
-msgid "In $turnsleft more hours I will have completed the sceptre."
+msgid "In $turnsleft more hours I will have completed my changes."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/deaths.cfg:9 ./Sceptre_of_Fire/scenarios/utils.cfg:22
