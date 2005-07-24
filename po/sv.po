@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-20 18:05+0200\n"
-"PO-Revision-Date: 2005-07-17 23:30+0200\n"
+"PO-Revision-Date: 2005-07-24 16:43+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -815,13 +815,12 @@ msgid "What is he going to give us for it, eh?"
 msgstr "Och vad hade han tänkt sig att ge oss för det, då?"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:161
-#, fuzzy
 msgid ""
 "He paid us five thousand silver in advance, and he'll give us five thousand "
 "more when we deliver the finished sceptre in less than 10 years."
 msgstr ""
 "Han betalade femtusen silver i förskott, och han kommer att ge oss femtusen "
-"till när vi levererar den färdiga spiran."
+"till när vi levererar den färdiga spiran, om vi gör det inom 10 år."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:165
 msgid ""
@@ -1206,7 +1205,7 @@ msgid ""
 "You don't dictate what I am to do, Durstorn! I will do as I please, and "
 "don't stop me if you want me to make this sceptre."
 msgstr ""
-"Du bestämmer inte vad jag gör, Durstron! Jag gör som jag behagar, och lägg "
+"Du bestämmer inte vad jag gör, Durstorn! Jag gör som jag behagar, och lägg "
 "dig inte i om du vill att jag skall göra spiran."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:138
@@ -1231,9 +1230,8 @@ msgstr ""
 "Hm... En synnerligen intressant juvel. Jag kan känna dess magiska kraft."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:180
-#, fuzzy
 msgid "The Ruby of Fire"
-msgstr "Eldspiran"
+msgstr "Eldrubinen"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:211
 msgid "Now, I will need certain materials to make this sceptre."
@@ -1245,16 +1243,15 @@ msgstr "Åhå, vilka då?"
 
 # kan komma närmare.
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:219
-#, fuzzy
 msgid ""
 "I would say probably ten stone of artifact-quality gold and twenty stone of "
 "the finest coal, and many of the finest jewels in the land. I'll also need "
 "to have the jeweler cut the ruby once I have the plans done."
 msgstr ""
-"Jag skulle uppskatta att jag behöver cirka 10 markpund guld av "
-"artefaktkvalitet, och cirka tjugo markpund av den bästa sortens kol. Jag "
-"kommer också att behöva en juvelerare som kan slipa rubinen när jag har "
-"gjort färdigt ritningarna."
+"Jag uppskattar att jag behöver 10 markpund guld av artefaktkvalitet, tjugo "
+"markpund av den bästa sortens kol, och många av de finaste juvelerna i "
+"landet. Jag kommer också att behöva en juvelerare som kan slipa rubinen när "
+"jag har gjort färdigt ritningarna."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:223
 msgid ""
@@ -1292,16 +1289,19 @@ msgid ""
 "cost quite a bit of our payment, but it can't be helped. Our people do not "
 "mine jewels."
 msgstr ""
+"Nåväl. Vad gäller juvelerna, så behöver jag få tag på folk som kan få tag på "
+"dem. Det kommer att kosta lite, men det kan inte hjälpas. Vårt folk gräver "
+"inte efter juveler."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:243
-#, fuzzy
 msgid ""
 "That is acceptable. Durstorn, send some miners along with us to the Eastern "
 "Mines, and I will bring some runecrafters-in-training from the academy to "
 "help fight these enemies."
 msgstr ""
-"Ja. Durstorn, sänd några gruvarbetare med oss, så tar jag med mig några "
-"rungesäller från akademin. De kan hjälpa oss mot trollen."
+"Det kan vi stå ut med. Durstorn, skicka några gruvarbetare med oss till de "
+"östra gruvorna, så tar jag med mig några rungesäller från akademin. De kan "
+"hjälpa oss mot trollen."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:250
 msgid "Kinan"
@@ -1417,15 +1417,16 @@ msgid "I have all the gold I can carry..."
 msgstr "Jag har så mycket guld som jag kan bära..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:104
-#, fuzzy
 msgid ""
 "So, you have returned. I assume you have obtained the required materials? My "
 "jeweler Theganli has spent the last two years buying jewels from some of the "
 "northern clans. So now go to the forge and make your sceptre. What do you "
 "need to annoy me for?"
 msgstr ""
-"Så du har kommit tillbaka. Jag antar att du har skaffat de råämnen som du "
-"behöver? Så gå nu till smedjan och gör din spira. Varför stör du mig?"
+"Så, du har kommit tillbaka. Jag antar att du har skaffat de råämnen som du "
+"behöver? Min juvelerare Theganli har köpt juveler från några av klanerna i "
+"norr de senaste två åren. Så gå nu till smedjan och gör din spira. Varför "
+"stör du mig?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:108
 msgid "We don't. Not everything is about you. We need to talk to Theganli."
@@ -1656,14 +1657,14 @@ msgid "Ay, its some of them cave-dwarves. What business do you have here?"
 msgstr "Titta, det är några av de där grottdvärgarna. Vad har ni här att göra?"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:198
-#, fuzzy
 msgid ""
 "I'm Lord Durstorn, king of my tribe. I have been told you are great jeweler-"
 "workers, and so we come to rent some of your tools for a short time, a few "
 "years at most."
 msgstr ""
 "Jag är furst Durstorn, min stams kung. Jag har hört om er stora skicklighet "
-"som juvelmakare och vi skulle vilja hyra några verktyg av er en liten tid."
+"som juvelmakare och vi skulle vilja hyra några verktyg av er en liten tid, "
+"några år som mest."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:202
 msgid ""
@@ -1792,13 +1793,12 @@ msgid "Who the devil are you?"
 msgstr "Och vad tusan är ni för ena?"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:315
-#, fuzzy
 msgid ""
 "I thought we left the elves behind at the gates three years ago! It seems we "
 "have two enemies now."
 msgstr ""
-"Jag trodde att alverna var utestängda! Det ser ut som att vi har två fiender "
-"nu."
+"Jag trodde att vi stängde ute alverna för tre år sedan! Det ser ut som att "
+"vi har två fiender nu."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:319
 msgid ""
@@ -2921,23 +2921,3 @@ msgstr "klor"
 #: Sceptre_of_Fire/units/Wolf.cfg:37
 msgid "blade"
 msgstr "hugg"
-
-#~ msgid ""
-#~ "Done. I have the silver here, ready to ship, and I will send a messenger "
-#~ "over with the stone itself."
-#~ msgstr ""
-#~ "Avgjort. Jag har silvret här, färdigt att fraktas iväg, och jag skickar "
-#~ "en budbärare med själva stenen."
-
-#~ msgid "And why would you need to do that?"
-#~ msgstr "Och varför skulle ni behöva tala med honom?"
-
-#~ msgid ""
-#~ "He's the best jeweler in these parts. I need to show him my plans for the "
-#~ "sceptre, and have him cut the ruby to match them. I expect it will be "
-#~ "difficult work, and I wouldn't want just anyone to do it."
-#~ msgstr ""
-#~ "Han är den bäste juveleraren häromkring. Jag behöver visa honom mina "
-#~ "ritningar över spiran, och få honom att slipa rubinen enligt dem. Jag "
-#~ "förutsätter att det kommer att blir svårt, och jag skulle inte vilja att "
-#~ "precis vem som helst gör det."
