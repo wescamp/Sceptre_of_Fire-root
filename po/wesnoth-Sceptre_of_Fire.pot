@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-07-20 18:05+0200\n"
+"POT-Creation-Date: 2005-07-31 02:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,7 +69,7 @@ msgstr ""
 msgid "Bring Alanin, who has the Ruby of Fire, to the Dwarvish citadel"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:63 ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:439 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:113 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:360 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:751 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:76 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:274 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:317 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:98 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:356 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:468 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:529 ./Sceptre_of_Fire/scenarios/template.cfg:42 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:35 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:120 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:335 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:85 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:324 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:481 ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:86
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:63 ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:443 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:113 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:360 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:751 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:76 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:274 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:317 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:98 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:356 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:460 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:521 ./Sceptre_of_Fire/scenarios/template.cfg:42 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:35 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:120 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:335 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:85 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:324 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:481 ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:86
 msgid "Death of Rugnur"
 msgstr ""
 
@@ -81,7 +81,7 @@ msgstr ""
 msgid "Capture (death) of a loaded caravan"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:71 ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:447 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:92 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:290 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:333 ./Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:67 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:122 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:380 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:492 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:553 ./Sceptre_of_Fire/scenarios/template.cfg:46 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:55 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:140 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:351 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:432 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:97 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:340 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:501 ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:98
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:71 ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:451 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:92 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:290 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:333 ./Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:67 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:122 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:380 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:484 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:545 ./Sceptre_of_Fire/scenarios/template.cfg:46 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:55 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:140 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:351 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:432 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:97 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:340 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:501 ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:98
 msgid "Time runs out"
 msgstr ""
 
@@ -158,7 +158,7 @@ msgid "Five thousand pieces of silver."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:244
-msgid "You said you wanted a powerful magical artifact, not a child's playtoy! Twenty thousand, minimum."
+msgid "You said you wanted a powerful magical artifact, not a child's playtoy! Twenty thousand, minimum. The crafting of this will take us many years, you must pay us well."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:248
@@ -170,7 +170,7 @@ msgid "Nothing below fifteen!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:256
-msgid "Then no deal. I'll gather my things and go to another tribe now."
+msgid "Then no deal. I'll gather my things and go to another dwarvish clan now."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:260
@@ -186,7 +186,7 @@ msgid "I'll see what I can do. But I need five thousand silver in advance, to pa
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:272
-msgid "Done. I have the silver here, ready to ship, and I will send a messenger over with the stone itself. He will stay with you as you make the sceptre, and make sure you are going to get it done on time. I expect it done in less than 10 years."
+msgid "Deal. I have the silver here, ready to ship, and I will send a messenger over with the stone itself. He will stay with you as you make the sceptre, and make sure you are going to get it done on time. I expect it done before my time as king is ended."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:279
@@ -226,7 +226,7 @@ msgid "I was never among those who agreed to that treaty. Not all of us Elves ar
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:316
-msgid "Ah, a rebel. Our treaty with the elves does not apply to you, so I am sure they will not mind if we forcibly protect ourselves from you while transporting our caravans. Rugnur, we _will_ proceed with the shipment."
+msgid "Ah, a rebel. Our treaty with the elves does not apply to you, so I am sure they will not mind if we forcibly protect ourselves from you while transporting our caravans. Rugnur, we will proceed with the shipment."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:319
@@ -293,7 +293,7 @@ msgstr ""
 msgid "Kill all elves who are in the caves after the gates are closed"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:67 ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:443 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:117 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:364 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:755 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:80 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:278 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:321 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:106 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:364 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:476 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:537 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:43 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:128 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:339 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:93 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:332 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:489
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:67 ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:447 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:117 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:364 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:755 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:80 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:278 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:321 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:106 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:364 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:468 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:529 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:43 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:128 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:339 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:93 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:332 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:489
 msgid "Death of Baglur"
 msgstr ""
 
@@ -302,7 +302,7 @@ msgid "These elves are right behind me! We have to go warn the council of this a
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:145
-msgid "I am no good fighting in caves - I'll go warn the council."
+msgid "I am no good fighting in caves - I'll go warn the council. You stay here and fight."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:149
@@ -358,7 +358,7 @@ msgid "Baglur, how do you close the gates?"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:240
-msgid "Agh, well that's the difficulty. Its a magic gate. Indestructable. But that means it can only be closed by magic. You need to position a warrior on each of the six glyphs. When all are occupied, the gates will close."
+msgid "Agh, well that's the difficulty. Its a magic gate. Indestructable. But that means it can only be closed by magic. You need to position a warrior on each of the six glyphs. When all are occupied, the gates will close. Then the elves will but shut out of the caves forever, at least through this entrance."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:244
@@ -378,7 +378,7 @@ msgid "Two are down a side passage in the northwest, another two are in a simila
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:260
-msgid "Have you made up your mind yet about surrendering?! If you don't, prepare for battle!"
+msgid "Have you made up your mind yet about surrendering?! If you will not give up, prepare for battle!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:264
@@ -402,30 +402,34 @@ msgid "Just watch. The gates will close very soon. Then the elves outside - and,
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:404
-msgid "Argh! No! Well, I'll get around that gate somehow..."
+msgid "Agh! Well, you have defeated me for now, but eventually you will have to exit these caves, to give Haldric back his jewel. And when you do, we will be ready for you."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:422
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:408
+msgid "If that is what you choose to do, fine, but be prepared to wait for many years."
+msgstr ""
+
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:426
 msgid "There are still some elves left in here. We have to eliminate them, too, unless they surrender."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:430
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:434
 msgid "You would have us be cowards! We do not surrender."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:435
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:439
 msgid "Kill all elves who are in the caves"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:466
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:470
 msgid "That's all of the elves. Now I should go down to the city and report. I'm late already..."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:479
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:483
 msgid "Well, now I should go down to the city and report. I'm late already..."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:491
+#: ./Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:495
 msgid "My glyph is on."
 msgstr ""
 
@@ -482,7 +486,7 @@ msgid "Good one, Let them try to take it! Ha!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:129
-msgid "(pant) Hey, Durstorn, have we started yet? King Haldric came by just now, wanted to talk to you..."
+msgid "Hey, Durstorn, have we started yet? King Haldric came by just now, wanted to talk to you..."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:133
@@ -514,11 +518,11 @@ msgid "What is he going to give us for it, eh?"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:161
-msgid "He paid us five thousand silver in advance, and he'll give us five thousand more when we deliver the finished sceptre in less than 10 years."
+msgid "He paid us five thousand silver in advance, and he'll give us five thousand more when we deliver the finished sceptre if we are done before he dies."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:165
-msgid "What?!? You already accepted? Foolish boy, you should have came for one of the elders! We could have gotten much more than ten thousand silver out of him!"
+msgid "What?!? You already accepted? Foolish boy, you should have came for one of the elders! We could have gotten much more than ten thousand silver out of him! This is a task that will take many years, and now all of our work in that time will bring us very little gain."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:169
@@ -542,7 +546,7 @@ msgid "You mean the insane dwarf who lives in the far north?!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:189
-msgid "Yes. He is the only one I know of who could craft the sceptre the way Haldric wants it."
+msgid "Yes. He is the only one I know of who could craft the sceptre the way Haldric wants it. And he has nothing to do, he will be fine with wasting 25 years of his life on this task."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:193
@@ -565,12 +569,12 @@ msgstr ""
 msgid "Find Thursagan and convince him to come back to the dwarvish city"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:63 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:102 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:360 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:472 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:533 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:39 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:124 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:428 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:89 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:328 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:485
+#: ./Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:63 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:102 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:360 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:464 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:525 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:39 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:124 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:428 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:89 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:328 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:485
 msgid "Death of Alanin"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:138
-msgid "Now where are we going, anyway?"
+msgid "Now where are we going, anyway? We were in those cave, taking wrong turns and fighting orcs, for a whole year. This trip better have a good payoff to be worth that."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:142
@@ -582,11 +586,11 @@ msgid "Well, how are we supposed to find him?"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:150
-msgid "His will probably be the only house up here. No one else is insane enough to live this far north!"
+msgid "His will probably be the only house up here. No one else is insane enough to live this far north! Even the elves won't challenge us here."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:154
-msgid "Except for trolls and ogres, right?"
+msgid "Except for trolls and ogres, right? They're probably lurking around here somewhere."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:158
@@ -637,7 +641,7 @@ msgstr ""
 msgid "Kwe... yoo ants to ide uuus, nooa? Kwe, uus kan..."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:121 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:368 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:759 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:84 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:282 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:325 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:110 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:368 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:480 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:541 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:47 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:132 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:343 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:336 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:493
+#: ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:121 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:368 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:759 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:84 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:282 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:325 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:110 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:368 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:472 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:533 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:47 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:132 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:343 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:336 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:493
 msgid "Death of Krawg"
 msgstr ""
 
@@ -702,7 +706,7 @@ msgid "Contain and intensify its power."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:453
-msgid "I see. Fine then, I will help you craft this sceptre... into the most powerful magic artifact ever seen. This will be a true test of my skill."
+msgid "I see. Fine then, I will help you craft this sceptre... into the most powerful magic artifact ever seen. This will be a true test of my skill. I expect it will take many years."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:457
@@ -713,7 +717,7 @@ msgstr ""
 msgid "Move Thursagan to the signpost"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:125 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:372 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:763 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:88 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:286 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:114 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:372 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:484 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:545 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:51 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:136 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:347 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:497
+#: ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:125 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:372 ./Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:763 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:88 ./Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:286 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:114 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:372 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:476 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:537 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:51 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:136 ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:347 ./Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:497
 msgid "Death of Thursagan"
 msgstr ""
 
@@ -770,7 +774,7 @@ msgid "Fine. *grumble grumble*"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:176
-msgid "Hm... a most interesting jewel. I can feel its magical power."
+msgid "Hm... a most interesting jewel. I can feel its magical power. I will start drawing up plans for the sceptre immediately."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:180
@@ -786,7 +790,7 @@ msgid "Oh, what?"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:219
-msgid "I would say probably ten stone of artifact-quality gold and twenty stone of the finest coal, and many of the finest jewels in the land. I'll also need to have the jeweler cut the ruby once I have the plans done."
+msgid "I would say probably ten stone of artifact-quality gold and twenty stone of the finest coal, and many of the finest jewels in the land - we'll need others to search for those, though. I'll also need to have the jeweler cut the ruby once I have the plans done."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:223
@@ -806,7 +810,7 @@ msgid "So, we will go to the eastern mines!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:239
-msgid "Fine. As for the jewels, I am going to get others to obtain those. That will cost quite a bit of our payment, but it can't be helped. Our people do not mine jewels."
+msgid "Fine. As for the jewels, I will have others obtain those. That will cost quite a bit of our payment, but it can't be helped. Our people do not mine jewels."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:243
@@ -826,7 +830,7 @@ msgid "Two runesmiths from the academy have joined you!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:264
-msgid "Well then, lets go! To the eastern mines, eh?"
+msgid "Well then, lets go! To the eastern mines, eh? Hopefully this will task will not take so long as the previous one."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:3 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:11
@@ -842,62 +846,54 @@ msgid "1 load of gold and 2 loads of coal are needed"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:78
-msgid "Well, these are the eastern mines. Krawg, are you sure you want to come with us? Caves are not exactly your preferred environment!"
+msgid "Well, these are the eastern mines. Trolls and ogres live here, be prepared to fight them; also be prepared to spend quite some time here - mining can take a while."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:82
-msgid "Krawg 'll ay eer! Keyaah!"
-msgstr ""
-
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:86
-msgid "Very well. Now, Thursagan, what exactly are we looking for down here?"
-msgstr ""
-
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:90
 msgid "For me to make the artifact Haldric wants, I need a special type of gold. I do not know where it was found, but Baglur said these mines were the source of it."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:94
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:86
 msgid "Also, the only coal that will melt this gold is also here."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:99
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:90
 msgid "So we're down here to, what, mine this gold and coal? That should be easy enough."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:103
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:94
 msgid "Yes, although we will have to hire the miners - they don't work for free. But beware, there are trolls and such down here..."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:155
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:146
 msgid "My load of coal is delivered!"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:181
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:173
 msgid "That's the last load of coal we need."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:207 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:248
-msgid "That's all of the materials! Time to go back to the citadel."
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:200 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:241
+msgid "This is all we need from these mines. Now we should go back further west, where there are no trolls and ogres, and mine there."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:238
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:231
 msgid "Here's the gold."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:331 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:471
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:324 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:464
 msgid "Here is some of the coal that we need! Bring the miners to take it!"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:345 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:485
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:338 ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:478
 msgid "I have all the coal I can carry..."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:549
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:542
 msgid "Here is the mine of precious gold! Send the miners this way."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:563
+#: ./Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:556
 msgid "I have all the gold I can carry..."
 msgstr ""
 
@@ -990,7 +986,7 @@ msgid "So what do you propose we do? We need this jewel cut in a very specific w
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:248
-msgid "Well... maybe... the shorbear clan? They have good tools... yes, yes, they do..."
+msgid "Well... maybe... the Shorbear clan? They have good tools... yes, yes, they do..."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:252
@@ -1041,7 +1037,7 @@ msgstr ""
 msgid "Defeat dwarvish leader"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:118 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:376 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:488 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:549
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:118 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:376 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:480 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:541
 msgid "Death of Durstorn"
 msgstr ""
 
@@ -1126,7 +1122,7 @@ msgid "(whispered) What are we going to do? We can't go much higher!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:254
-msgid "(whispered) Offer him fifteen hundred,  but don't go up, even if he refuses."
+msgid "(whispered) Offer him fifteen hundred, but don't go up, even if he refuses."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:258
@@ -1166,7 +1162,7 @@ msgid "Lyndar"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:307
-msgid "Aha! I've found you! Dwarves, prepare to die!"
+msgid "Aha! I've spent years looking for you Dwarves, but now I've found you! Prepare to die!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:311
@@ -1174,7 +1170,7 @@ msgid "Who the devil are you?"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:315
-msgid "I thought we left the elves behind at the gates three years ago! It seems we have two enemies now."
+msgid "I thought we left the elves behind at the gates four years ago! It seems we have two enemies now."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:319
@@ -1209,7 +1205,7 @@ msgstr ""
 msgid "Defeat Glonoin, the Shorbear clan leader"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:352 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:464 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:525
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:352 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:456 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:517
 msgid "Have all heroes in the Shorbear caves while no enemies are in the caves"
 msgstr ""
 
@@ -1222,46 +1218,38 @@ msgid "And how do you plan on doing that? There are elves swarming these hills, 
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:411
-msgid "You are right... well, I'm sure the Shorbears have a cave entrance in their castle somewhere. We WILL find it, although it may take a while. We should barricade ourselves in the Shorbear citadel, and collapse the gates."
+msgid "You are right... well, we will be able to break out eventually, and while we're here, we'll be able to finally make the sceptre."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:415
-msgid "But what if there isn't a cave entrance? We'll all die!"
-msgstr ""
-
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:419
-msgid "Don't worry about that, boy, there are some in every dwarvish city. And if the villagers have hidden them, as they sometimes do, we'll force them to UNcover them."
-msgstr ""
-
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:455
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:447
 msgid "Well, back to the battle - we are all in the caves, but there are still enemies in here also!"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:459
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:451
 msgid "Indeed. Kill them! And make sure no more enter. Then we can close the gates."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:500
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:492
 msgid "We have driven all of the dwarves and elves out of these caves. They are not ours, though, and we can't stay here forever."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:504
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:496
 msgid "True. I suspect these elves will try to besiege us here."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:516
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:508
 msgid "Well, back to the battle - we need everyone to get into the Shorbear caves. And then stop any enemies from coming in here."
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:520
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:512
 msgid "Indeed. Everyone to the caves, and kill those still inside!"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:596
-msgid "We have driven all of the dwarves and elves out of these caves! Now, collapse them, and start searching for a tunnel entrance!"
+#: ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:588
+msgid "We have driven all of the dwarves and elves out of these caves! Now, seal the gates!"
 msgstr ""
 
-#: ./Sceptre_of_Fire/scenarios/deaths.cfg:48 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:616 ./Sceptre_of_Fire/scenarios/utils.cfg:61
+#: ./Sceptre_of_Fire/scenarios/deaths.cfg:48 ./Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:608 ./Sceptre_of_Fire/scenarios/utils.cfg:61
 msgid "Gaanngh..."
 msgstr ""
 
@@ -1414,11 +1402,11 @@ msgid "*thud*"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:236
-msgid "There we go. He's silenced, for now. We can actually try to get out of here."
+msgid "Well, I suppose we were right to silence him, but I don't like this. In any case, now we should try to get out of here."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:243
-msgid "Yes. Now, see the area to the northeast of us? That's where there are the least elvish guards, so we have the greatest chance of success there. I think we should try to get to it."
+msgid "Yes. So, see the area to the northeast of us? That's where there are the least elvish guards, so we have the greatest chance of success there. I think we should try to get to it."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:250
@@ -1438,11 +1426,11 @@ msgid "Well, you are a member of the Wesnothian army. Why don't you rejoin it? S
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:269
-msgid "I'm not going to do that, its suicide!"
+msgid "I'm not going to do that, its suicide! And in any case, I've been with you for 10 years, almost as long as I was in the Wesnothian army; I'd prefer to fight with you."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:273
-msgid "It has more of a success for you than staying here or going to the caves! Its your only option, unless you have a better idea."
+msgid "You going south has more of a chance of success for you than staying here or going to the caves! And getting news to Haldric of what has happened is also the best way to get help to us."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:277
@@ -1454,7 +1442,7 @@ msgid "Come out, dwarves, and surrender! Or die in that cave, you're choice."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:315
-msgid "Alanin, ride as fast as you can south. Tell Haldric we are going into a cave, and if we don't get news to him otherwise, we are dead!"
+msgid "Alanin, ride as fast as you can south. Tell Haldric we are going into a cave, and to send forces to help us as soon as he can!"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:359
@@ -1466,7 +1454,7 @@ msgid "Rugnur, I am going south. What should I tell Haldric?"
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:393
-msgid "Tell him we are dead, unless we get news to you otherwise. We are going into the caves."
+msgid "Tell him to send forces north to aid us and fight the elves, but that we are probably going to die. We are going into the caves."
 msgstr ""
 
 #: ./Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:440
