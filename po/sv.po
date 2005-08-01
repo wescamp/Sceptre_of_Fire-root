@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-31 02:31+0200\n"
-"PO-Revision-Date: 2005-07-24 16:43+0200\n"
+"PO-Revision-Date: 2005-08-01 19:08+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -251,14 +251,14 @@ msgid "Five thousand pieces of silver."
 msgstr "Femtusen silverstycken."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:244
-#, fuzzy
 msgid ""
 "You said you wanted a powerful magical artifact, not a child's playtoy! "
 "Twenty thousand, minimum. The crafting of this will take us many years, you "
 "must pay us well."
 msgstr ""
 "Du sa att ni ville ha en kraftfull magisk artefakt, inte en leksak! Inte "
-"mindre än tjugotusen."
+"mindre än tjugotusen. Det kommer att ta oss många år att skapa en sådan har "
+"sak, så du måste gälda oss gott."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:248
 msgid "Ten thousand."
@@ -269,7 +269,6 @@ msgid "Nothing below fifteen!"
 msgstr "Inte mindre än femton!"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:256
-#, fuzzy
 msgid ""
 "Then no deal. I'll gather my things and go to another dwarvish clan now."
 msgstr ""
@@ -303,6 +302,9 @@ msgid ""
 "and make sure you are going to get it done on time. I expect it done before "
 "my time as king is ended."
 msgstr ""
+"Avgjort. Jag har silvret här, och jag kommer att skicka en budbärare med "
+"stenen. Han stannar hos er när ni gör spiran och ser så att ni får klart den "
+"i tid. Jag förväntar mig att den är färdig innan min tid som kung är slut."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:279
 msgid "Alanin"
@@ -359,14 +361,13 @@ msgstr ""
 "oss."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:316
-#, fuzzy
 msgid ""
 "Ah, a rebel. Our treaty with the elves does not apply to you, so I am sure "
 "they will not mind if we forcibly protect ourselves from you while "
 "transporting our caravans. Rugnur, we will proceed with the shipment."
 msgstr ""
 "Åhå, en upprorsmakare. Vårt avtal med alverna kan inte gälla dig, så jag är "
-"säker på att de inte har något emot ifall vi skyddar våra karavaner med våld "
+"säker på att de inte har något emot om vi skyddar våra karavaner med våld "
 "mot dig. Rugnur, vi fortsätter transporten."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:319
@@ -493,11 +494,12 @@ msgid ""
 msgstr "De där alverna är i hälarna på mig! Vi måste varna rådet för attacken!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:145
-#, fuzzy
 msgid ""
 "I am no good fighting in caves - I'll go warn the council. You stay here and "
 "fight."
-msgstr "Jag är inte bra på att slåss i grottor - låt mig gå och varna rådet."
+msgstr ""
+"Jag är inte bra på att slåss i grottor - jag går och varnar rådet. Ni "
+"stannar här och slåss."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:149
 msgid "Yes, that sounds good. I'll stay here and try to defend the gates..."
@@ -577,16 +579,17 @@ msgid "Baglur, how do you close the gates?"
 msgstr "Baglur, hur stänger man portarna?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:240
-#, fuzzy
 msgid ""
 "Agh, well that's the difficulty. Its a magic gate. Indestructable. But that "
 "means it can only be closed by magic. You need to position a warrior on each "
 "of the six glyphs. When all are occupied, the gates will close. Then the "
 "elves will but shut out of the caves forever, at least through this entrance."
 msgstr ""
-"Tja, det är svårigheten. Det är en magisk port. Oförstörbar. Men det betyder "
-"också att den enbart kan stängas av magi. Du behöver placera en krigare på "
-"var och en av de sex runorna. När alla är bemannade, så stängs porten."
+"Agh, tja, det är svårigheten. Det är en magisk port. Oförstörbar. Men det "
+"betyder också att den bara kan stängas av magi. Du behöver placera en "
+"krigare på var och en av de sex runorna. När alla är bemannade, så stängs "
+"porten. Då kommer alverna att vara för evigt utestängda ur grottorna, "
+"åtminstone vid den här ingången."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:244
 msgid "Don't we have troops positioned near these glyphs, to unlock them?"
@@ -615,11 +618,10 @@ msgstr ""
 "sydöst, och två är precis bredvid huvudporten."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:260
-#, fuzzy
 msgid ""
 "Have you made up your mind yet about surrendering?! If you will not give up, "
 "prepare for battle!"
-msgstr "Har du bestämt dig än? Ger du dig?! Om inte så bered dig på strid."
+msgstr "Har du bestämt dig än? Ger du dig?! Om inte så bered dig på strid!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:264
 msgid ""
@@ -666,12 +668,16 @@ msgid ""
 "exit these caves, to give Haldric back his jewel. And when you do, we will "
 "be ready for you."
 msgstr ""
+"Agh! Nåväl, du har besegrat mig för stunden, men ni måste ändå komma ut ur "
+"grottorna för att ge tillbaka juvelen till Haldric. Och när ni gör det, så "
+"kommer vi att vänta på er."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:408
 msgid ""
 "If that is what you choose to do, fine, but be prepared to wait for many "
 "years."
 msgstr ""
+"Om det är det du vill, så visst, men var beredd på att få vänta i många år."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:426
 msgid ""
@@ -787,13 +793,12 @@ msgid "Good one, Let them try to take it! Ha!"
 msgstr "Den var bra, låt dem försöka ta det! Ha!"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:129
-#, fuzzy
 msgid ""
 "Hey, Durstorn, have we started yet? King Haldric came by just now, wanted to "
 "talk to you..."
 msgstr ""
-"(flämt) Hallå, Durstorn, har vi börjat än? Kung Haldric kom just på besök, "
-"han ville prata med er..."
+"Hallå, Durstorn, har vi börjat än? Kung Haldric kom just på besök, han ville "
+"prata med er..."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:133
 msgid "Speak properly to your elders, boy! Why are you late?"
@@ -836,16 +841,14 @@ msgid "What is he going to give us for it, eh?"
 msgstr "Och vad hade han tänkt sig att ge oss för det, då?"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:161
-#, fuzzy
 msgid ""
 "He paid us five thousand silver in advance, and he'll give us five thousand "
 "more when we deliver the finished sceptre if we are done before he dies."
 msgstr ""
 "Han betalade femtusen silver i förskott, och han kommer att ge oss femtusen "
-"till när vi levererar den färdiga spiran, om vi gör det inom 10 år."
+"till när vi levererar den färdiga spiran, om vi gör det inom hans livstid."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:165
-#, fuzzy
 msgid ""
 "What?!? You already accepted? Foolish boy, you should have came for one of "
 "the elders! We could have gotten much more than ten thousand silver out of "
@@ -854,7 +857,8 @@ msgid ""
 msgstr ""
 "Vad?!? Har du redan slutit avtal med honom? Dåraktiga pojke, du skulle ha "
 "hämtat en av de äldste! Vi kunde ha fått mycket mer än tiotusen silver av "
-"honom!"
+"honom! Detta kommer att ta många långa år, och nu kommer allt vårt arbete "
+"att lönas alldeles för dåligt."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:169
 msgid "Sorry, lord, but he said he would move on to another tribe if I left."
@@ -896,14 +900,14 @@ msgid "You mean the insane dwarf who lives in the far north?!"
 msgstr "Du menar den vansinnige dvärgen som bor i fjärran norden?!"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:189
-#, fuzzy
 msgid ""
 "Yes. He is the only one I know of who could craft the sceptre the way "
 "Haldric wants it. And he has nothing to do, he will be fine with wasting 25 "
 "years of his life on this task."
 msgstr ""
 "Ja. Jag vet ingen annan som skulle kunna smida spiran på det sätt som "
-"Haldric önskar."
+"Haldric önskar. Och han har ju ändå inget bättre för sig, så han har inget "
+"emot att kasta bort 25 år av sitt liv på den här uppgiften."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:193
 msgid ""
@@ -958,6 +962,9 @@ msgid ""
 "and fighting orcs, for a whole year. This trip better have a good payoff to "
 "be worth that."
 msgstr ""
+"Vart skall vi gå nu då? Vi var i de där grottorna, gick åt fel håll och "
+"slogs med orcher i ett helt år. Den här resan gör bäst i att betala sig väl "
+"för allt slit."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:142
 msgid ""
@@ -972,19 +979,18 @@ msgid "Well, how are we supposed to find him?"
 msgstr "Nå, men hur skall vi kunna hitta honom?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:150
-#, fuzzy
 msgid ""
 "His will probably be the only house up here. No one else is insane enough to "
 "live this far north! Even the elves won't challenge us here."
 msgstr ""
 "Det finns nog inte några andra hus än hans här uppe. Ingen annan är galen "
-"nog att bo så här långt norrut!"
+"nog att bo så här långt norrut! Inte ens alverna kommer att utmana oss här."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:154
 msgid ""
 "Except for trolls and ogres, right? They're probably lurking around here "
 "somewhere."
-msgstr ""
+msgstr "Förutom troll och jättar, va? De gömmer sig troligen här i närheten."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:158
 msgid "Right. We'll probably have to fight our way through to his house."
@@ -1144,15 +1150,14 @@ msgid "Contain and intensify its power."
 msgstr "Begränsa och koncentrera dess kraft."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:453
-#, fuzzy
 msgid ""
 "I see. Fine then, I will help you craft this sceptre... into the most "
 "powerful magic artifact ever seen. This will be a true test of my skill. I "
 "expect it will take many years."
 msgstr ""
-"Jag förstår. Nå, jag skall hjälpa till och göra denna spira...till den "
+"Jag förstår. Nå, jag skall hjälpa er att göra denna spira...till den "
 "mäktigaste magiska artefakt som någonsin skådats. Detta är en uppgift värdig "
-"min skicklighet."
+"min skicklighet. Det kommer att ta många år."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:457
 msgid ""
@@ -1259,12 +1264,12 @@ msgid "Fine. *grumble grumble*"
 msgstr "Nåja. *mutter mutter*"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:176
-#, fuzzy
 msgid ""
 "Hm... a most interesting jewel. I can feel its magical power. I will start "
 "drawing up plans for the sceptre immediately."
 msgstr ""
-"Hm... En synnerligen intressant juvel. Jag kan känna dess magiska kraft."
+"Hm... En synnerligen intressant juvel. Jag kan känna dess magiska kraft. Jag "
+"börjar med ritningarna med det samma."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:180
 msgid "The Ruby of Fire"
@@ -1280,7 +1285,6 @@ msgstr "Åhå, vilka då?"
 
 # kan komma närmare.
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:219
-#, fuzzy
 msgid ""
 "I would say probably ten stone of artifact-quality gold and twenty stone of "
 "the finest coal, and many of the finest jewels in the land - we'll need "
@@ -1289,8 +1293,9 @@ msgid ""
 msgstr ""
 "Jag uppskattar att jag behöver 10 markpund guld av artefaktkvalitet, tjugo "
 "markpund av den bästa sortens kol, och många av de finaste juvelerna i "
-"landet. Jag kommer också att behöva en juvelerare som kan slipa rubinen när "
-"jag har gjort färdigt ritningarna."
+"landet. Vi måste ha ett arbetslag som söker efter dem, dock. Jag kommer "
+"också att behöva en juvelerare som kan slipa rubinen när jag har gjort "
+"färdigt ritningarna."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:223
 msgid ""
@@ -1323,15 +1328,14 @@ msgid "So, we will go to the eastern mines!"
 msgstr "Nå, då ger vi oss av till de östliga gruvorna!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:239
-#, fuzzy
 msgid ""
 "Fine. As for the jewels, I will have others obtain those. That will cost "
 "quite a bit of our payment, but it can't be helped. Our people do not mine "
 "jewels."
 msgstr ""
-"Nåväl. Vad gäller juvelerna, så behöver jag få tag på folk som kan få tag på "
-"dem. Det kommer att kosta lite, men det kan inte hjälpas. Vårt folk gräver "
-"inte efter juveler."
+"Nåväl. Vad gäller juvelerna, så får jag låta andra få tag på dem. Det kommer "
+"att kosta lite, men det kan inte hjälpas. Vårt folk gräver inte efter "
+"juveler."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:243
 msgid ""
@@ -1360,6 +1364,8 @@ msgid ""
 "Well then, lets go! To the eastern mines, eh? Hopefully this will task will "
 "not take so long as the previous one."
 msgstr ""
+"Nå, då ger vi oss av! Till de östra gruvorna, va? Förhoppningsvis kommer "
+"inte detta ta lika lång tid."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:3
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:11
@@ -1380,6 +1386,8 @@ msgid ""
 "to fight them; also be prepared to spend quite some time here - mining can "
 "take a while."
 msgstr ""
+"Nå, här är de östra gruvorna. Det bor troll och jättar här, så var beredda "
+"på strid. Bered er också på en lång tid här nere - gruvarbete kan ta sin tid."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:82
 msgid ""
@@ -1427,6 +1435,8 @@ msgid ""
 "This is all we need from these mines. Now we should go back further west, "
 "where there are no trolls and ogres, and mine there."
 msgstr ""
+"Nu har vi allt vi behöver från de här gruvorna. Nu skall vi gå tillbaka "
+"västerut, där det inte finns några troll och jättar, till gruvorna där."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:231
 msgid "Here's the gold."
@@ -1473,12 +1483,16 @@ msgid ""
 "Fine, I guess you would to plan the sceptre's design... what do you have to "
 "talk to him about?"
 msgstr ""
+"Visst, jag antar att du vill planera spiran... Vad skall du prata med honom "
+"om?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:116
 msgid ""
 "I need to make the plans for the sceptre, then have him cut the ruby to "
 "match them."
 msgstr ""
+"Jag måste göra ritningar till spiran, och sedan låta honom slipa rubinen så "
+"att den passar."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:120
 msgid "You're going to cut the jewel!? Are you insane?"
@@ -1553,6 +1567,9 @@ msgid ""
 "Theganli spent many months cutting the jewels that would go into the Sceptre "
 "of Fire, and the Ruby of Fire he attempted last. But he could not cut it."
 msgstr ""
+"Det tog Theganli flera månader att de slipa juveler som skulle användas till "
+"Eldspiran. Han väntade med Eldrubinen till sist, men...han kunde inte slipa "
+"den."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:236
 msgid "Well, do you have anything yet?!"
@@ -1576,7 +1593,6 @@ msgstr ""
 "ett mycket speciellt sätt för att garantera... Nå, det kvittar varför."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:248
-#, fuzzy
 msgid ""
 "Well... maybe... the Shorbear clan? They have good tools... yes, yes, they "
 "do..."
@@ -1771,7 +1787,6 @@ msgid "(whispered) What are we going to do? We can't go much higher!"
 msgstr "(viskande) Vad skall vi göra? Vi kan inte gå högre!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:254
-#, fuzzy
 msgid ""
 "(whispered) Offer him fifteen hundred, but don't go up, even if he refuses."
 msgstr "(viskande) Erbjud femtonhundra, men gå inte högre, även om han vägrar."
@@ -1822,23 +1837,23 @@ msgid "Lyndar"
 msgstr "Lyndar"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:307
-#, fuzzy
 msgid ""
 "Aha! I've spent years looking for you Dwarves, but now I've found you! "
 "Prepare to die!"
-msgstr "Aha! Där är ni! Dvärgar, bered er för döden!"
+msgstr ""
+"Aha! Där är ni! Jag har letat efter er dvärgar i flera år, men nu har jag "
+"funnit er! Bered er för döden!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:311
 msgid "Who the devil are you?"
 msgstr "Och vad tusan är ni för ena?"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:315
-#, fuzzy
 msgid ""
 "I thought we left the elves behind at the gates four years ago! It seems we "
 "have two enemies now."
 msgstr ""
-"Jag trodde att vi stängde ute alverna för tre år sedan! Det ser ut som att "
+"Jag trodde att vi stängde ute alverna för fyra år sedan! Det ser ut som att "
 "vi har två fiender nu."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:319
@@ -1910,7 +1925,7 @@ msgid ""
 "And how do you plan on doing that? There are elves swarming these hills, "
 "trying to kill us."
 msgstr ""
-"Och hur tänkte du göra det? Alverna har intagit kullarma och försöker döda "
+"Och hur tänkte du göra det? Alverna har intagit kullarna och försöker döda "
 "oss."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:411
@@ -1918,6 +1933,8 @@ msgid ""
 "You are right... well, we will be able to break out eventually, and while "
 "we're here, we'll be able to finally make the sceptre."
 msgstr ""
+"Du har rätt... Nå, vi kommer att kunna ta oss ut så småningom, och medan vi "
+"är här så kan vi göra klart spiran."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:447
 msgid ""
@@ -1959,13 +1976,11 @@ msgid "Indeed. Everyone to the caves, and kill those still inside!"
 msgstr "Alla in i grottorna, och döda de som är kvar därinne!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:588
-#, fuzzy
 msgid ""
 "We have driven all of the dwarves and elves out of these caves! Now, seal "
 "the gates!"
 msgstr ""
-"Nu har vi drivit ut alla dvärgar och alver ur grottorna. Riv dem nu, och "
-"leta efter en tunnelöppning!"
+"Nu har vi drivit ut alla dvärgar och alver ur grottorna! Försegla portarna!"
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:48
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:608
@@ -2111,6 +2126,10 @@ msgid ""
 "there was no way out of the caverns other than above ground. But the elves "
 "could not enter, for the magical dwarven gates were closed."
 msgstr ""
+"Dvärgarna tillbringade flera år instängda i grottorna, belägrade av alverna "
+"som de var. De kunde inte ta sig därifrån, för alverna var dem övermäktiga, "
+"och det fanns inga andra vägar ut. Alverna kunde dock inte heller ta sig in, "
+"för de magiska dvärgaportarna var stängda."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:171
 msgid ""
@@ -2121,6 +2140,11 @@ msgid ""
 "purpose. He suspected it was because the forge was not hot enough, but he "
 "was not certain."
 msgstr ""
+"Under denna tid smidde Thursagan Eldspiran. Han slipade först juvelen, sedan "
+"lade han den tillsammans med guldet och det kalla stålet i ässjans heta eld. "
+"Eldspiran var klar, men det var något som inte stod rätt till. Vilka runor "
+"han än lade på spiran, så uppfyllde den inte sitt ursprungliga syfte. Han "
+"antog att det berodde på att ässjan inte var het nog, men han var inte säker."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:175
 msgid ""
@@ -2128,16 +2152,21 @@ msgid ""
 "materials he has here, but he has the final plans for it, and all the jewels "
 "and gold he needs. Shouldn't we leave now?"
 msgstr ""
+"Nå, Thursagan har nått en slutsats. Han kan inte skapa spiran med det "
+"material han har här, men han har de slutliga ritningarna klara, och alla "
+"juveler och allt guld han behöver. Skall vi inte ta och ge oss av nu?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:179
 msgid ""
 "All this time and he couldn't make it? Fine, we should try to leave... but "
 "its not like we could leave if we wanted to. We're surrounded!"
 msgstr ""
+"All denna tid och han misslyckades ändå? Nåväl, vi borde försöka ge oss "
+"av... Men det går inte, även om vi vill. Vi är omringade!"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:183
 msgid "If you'll permit me to say so, sir, you're wrong. We could - "
-msgstr ""
+msgstr "Med förlov sagt, ers nåd, ni har fel. Vi skulle kunna - "
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:187
 msgid ""
@@ -2145,12 +2174,16 @@ msgid ""
 "situation, and we're doomed. Our best hope is to surrender. Perhaps if we "
 "give the elves the plans for the sceptre they will let us survive."
 msgstr ""
+"Håll klaffen, Baglur! Du vet inte var du pratar om. Jag har analyserat "
+"situationen, och vi är dömda. Vårt bästa hopp är att ge upp. Kanske låter "
+"alverna oss leva om vi dem ritningarna till spiran."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:191
 msgid ""
 "Yes, of course, lets just all be cowards! What happened to your honor, "
 "Durstorn?!"
 msgstr ""
+"Javisst, låt oss vara ynkryggar allihop! Vad hände med din heder, Durstorn?!"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:195
 msgid ""
@@ -2158,6 +2191,9 @@ msgid ""
 "Thursagan to give the plans and the ruby to the elves, as a peace offering. "
 "Then maybe we'll walk out of here alive."
 msgstr ""
+"Din lilla dåre, heder är mindre värt än liv! Så, jag beordrar Thursagan att "
+"ge ritningarna och rubinen till alverna, som en fredsgåva. Så kanske vi kan "
+"ta oss ut härifrån levande."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:199
 msgid ""
@@ -2166,58 +2202,72 @@ msgid ""
 "Baglur's. Krawg's done more for its existence than you have! And yet, you "
 "still get the profits from selling it to Haldric."
 msgstr ""
+"Du har ingen makt över mig, Durstorn. Och jag skulle inte ge dem spiran även "
+"om du hade det. Den är inte din att ge bort, den är min, och Rugnurs, och "
+"Baglurs. Krawg har gjort mer för den än du har! Och det blir ändå du som "
+"tjänar på det i slutänden när du säljer den till Haldric."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:203
 msgid ""
 "So what, all of you want to die? Fine by me, but I won't die with you! And "
 "if you won't give the sceptre to the elves, I'll take it from you!"
 msgstr ""
+"Än sen, ni vill ju ändå dö allihop. Visst, sätt igång, men jag tänker inte "
+"gå med er in i döden! Och om du inte tänker ge spiran till alverna, så tar "
+"jag den ifrån dig!"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:208
 msgid "*swoosh*"
-msgstr ""
+msgstr "*svisch*"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:212
 msgid ""
 "Nice try, Durstorn, but you missed. Now, I'd say that attacking an ally "
 "constitutes treason, wouldn't you?"
 msgstr ""
+"Bra försök, Durstorn, men du missade. Nu påstår jag att det är förräderi att "
+"anfalla en allierade. Håller du inte med?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:216
 msgid ""
 "You're not my ally. You're more against me than the elves are; all they want "
 "is the ruby, but you want us dead!"
 msgstr ""
+"Du är inte min allierade. Du är mer emot mig än alverna; allt de vill ha är "
+"rubinen, men du vill ta kål på oss allihop!"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:220
 msgid ""
 "If that's what you're thinking, you're not fit to be ruler over us! So step "
 "down, or we'll force you."
 msgstr ""
+"Om det är vad du tror, så passar du inte som vår ledare! Avgå frivilligt, "
+"eller så tvingar vi dig."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:224
 msgid "Never!"
-msgstr ""
+msgstr "Aldrig!"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:229
 msgid "*thud*"
-msgstr ""
+msgstr "*bonk*"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:236
 msgid ""
 "Well, I suppose we were right to silence him, but I don't like this. In any "
 "case, now we should try to get out of here."
 msgstr ""
+"Ja, jag antar att det var rätt att tysta honom, men jag tycker inte om det. "
+"Hur som helst, nu borde vi försöka ta oss ut härifrån."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:243
-#, fuzzy
 msgid ""
 "Yes. So, see the area to the northeast of us? That's where there are the "
 "least elvish guards, so we have the greatest chance of success there. I "
 "think we should try to get to it."
 msgstr ""
-"Ja. Ser ni i nordost? Där finns det inte så många alvvakter, så vi har bäst "
-"chans att lyckas där. Jag tycker att vi skall försöka ta oss dit."
+"Ja. Ser ni området i nordost? Där finns det inte så många alvvakter, så vi "
+"har bäst chans att lyckas där. Jag tycker att vi skall försöka ta oss dit."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:250
 msgid ""
@@ -2262,16 +2312,19 @@ msgid ""
 "for 10 years, almost as long as I was in the Wesnothian army; I'd prefer to "
 "fight with you."
 msgstr ""
+"Jag tänker inte göra något sådant, det är självmord! Och i vilket fall som "
+"helst så har jag varit med er i 10 år, nästan lika länge som jag hade varit "
+"med i Wesnoths armé; jag föredrar att slåss med er."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:273
-#, fuzzy
 msgid ""
 "You going south has more of a chance of success for you than staying here or "
 "going to the caves! And getting news to Haldric of what has happened is also "
 "the best way to get help to us."
 msgstr ""
-"Det är troligare att du lyckas med det än om du stannar här eller följer med "
-"till grottorna! Det är din enda chans, såvida du inte har en bättre idé."
+"Det är bättre för dig om du färdas söderut än om att stanna här eller följa "
+"med till grottorna! Och det bästa sättet att skaffa hjälp är att varsko "
+"Haldric om vad som har hänt."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:277
 msgid "I suppose..."
@@ -2282,14 +2335,12 @@ msgid "Come out, dwarves, and surrender! Or die in that cave, you're choice."
 msgstr "Kom ut, dvärgar, och ge upp! Eller dö i er grotta, det är upp till er."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:315
-#, fuzzy
 msgid ""
 "Alanin, ride as fast as you can south. Tell Haldric we are going into a "
 "cave, and to send forces to help us as soon as he can!"
 msgstr ""
 "Alanin, rid söderut så snabbt du kan. Berätta för Haldric att vi är på väg "
-"in i en grotta, och om det inte kommer fler bud från oss, så har vi "
-"misslyckats!"
+"in i en grotta, och att skicka trupper för att hjälpa oss så snabbt han kan!"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:359
 msgid ""
@@ -2304,13 +2355,12 @@ msgid "Rugnur, I am going south. What should I tell Haldric?"
 msgstr "Rugnur, jag ger mig av söderut. Vad skall jag säga till Haldric?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:393
-#, fuzzy
 msgid ""
 "Tell him to send forces north to aid us and fight the elves, but that we are "
 "probably going to die. We are going into the caves."
 msgstr ""
-"Berätta att vi är döda, såvida vi inte lyckas sända bud till dig. Vi går in "
-"i grottorna."
+"Säg till honom att skicka styrkor norrut för att hjälpa oss och slåss mot "
+"alverna, men att vi antagligen kommer att dö. Vi går in i grottorna."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:440
 msgid ""
@@ -2448,17 +2498,19 @@ msgstr "Landar"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:50
 msgid "Khrakrahs"
-msgstr ""
+msgstr "Khrakrahs"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:72
 msgid "Get all heroes to the end of the tunnel"
-msgstr ""
+msgstr "För alla hjältar till tunnelns slut"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:178
 msgid ""
 "Well, Thursagan, we've reached the caves, but the elves are hot on our "
 "trail. What do we do now?"
 msgstr ""
+"Så, Thursagan, vi har nått fram till grottorna, men alverna är i hälarna på "
+"oss. Vad gör vi nu?"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:182
 msgid ""
@@ -2468,10 +2520,17 @@ msgid ""
 "can't run as fast in caves as we can, so we may be able to get ahead of them "
 "and perhaps lay a trap."
 msgstr ""
+"Vi har två val. Antingen stannar vi och slåss, och dör, eller så tar vi oss "
+"så snabbt som möjligt längs den här vägen ner i grottans djup, där vi kanske "
+"kan hitta något som gagnar oss. Kom ihåg att alverna inte kan springa lika "
+"fort i grottor som vi kan, så vi kan nog få ett bra försprång så att vi "
+"kanske hinner lägga en fälla."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:186
 msgid "Why don't we just surrender? All they want is that magic stone!"
 msgstr ""
+"Varför ger vi inte helt enkelt upp? De vill ju bara ha den där magiska "
+"stenen!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:190
 msgid ""
@@ -2479,28 +2538,33 @@ msgid ""
 "that ruby has the power to do great things, evil things. We can't let it "
 "fall in the wrong hands."
 msgstr ""
+"Och då, efter att vi gett dem rubinen? De kommer säkert att döda oss i alla "
+"fall. Och den där rubinen har makt att göra stora saker, onda saker. Vi kan "
+"inte låta den falla i orätta händer."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:194
 msgid ""
 "So we're running away, eh? I don't like that, but it seems its our only "
 "option."
 msgstr ""
+"Så vi flyr alltså? Jag tycker inte om det, men det verkar vara det enda vi "
+"kan göra."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:198
 msgid "If it makes you feel any better, we'll probably die this way, too."
-msgstr ""
+msgstr "Om det får dig att må bättre, så dör vi säkert på det här viset också."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:209
 msgid "Look, there's a dragon in these caves!"
-msgstr ""
+msgstr "Titta, det finns en drake där borta!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:213
 msgid "Ah, fresh meat!"
-msgstr ""
+msgstr "Aha, färskt kött!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:217
 msgid "And which of the great dragons are you?"
-msgstr ""
+msgstr "Och vilken av de stora drakarna är du?"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:221
 msgid ""
@@ -2508,15 +2572,19 @@ msgid ""
 "brother, but he was weaker than me, and you will not find me so easy to "
 "defeat. Now get out of my volcano!"
 msgstr ""
+"Jag är Khrakrahs, den största draken genom alla tider! Haldric dödade "
+"Shek'kahan, min broder, men han var svagare än jag, och ni kommer att finna "
+"att jag inte lika lätt låter mig besegras. Och nu, försvinn ut ur min vulkan!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:225
 msgid ""
 "I'd rather face one powerful dragon than hundreds of mighty elves. Continue!"
 msgstr ""
+"Jag möter hellre en mäktig drake än hundratals mäktiga alver. Fortsätt!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:237
 msgid "What's this? A dwarf fighting against us with the elves?!"
-msgstr ""
+msgstr "Vad är detta? En dvärg som slåss mot oss ihop med alverna?!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:241
 msgid ""
@@ -2524,16 +2592,21 @@ msgid ""
 "more of them. That's bad news for us, for they'll go as fast in caves as we "
 "do."
 msgstr ""
+"Det måste vara en av de där Surghan-legosoldaterna. Jag slår vad om att "
+"alverna lejt fler än så. Detta bådar inte gott för oss, de rör sig lika "
+"snabbt i grottor som vi."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:257
 msgid ""
 "Look, I've found something here. It looks like a forge, heated by the lava. "
 "It looks magic, and it looks hot enough to make the Sceptre."
 msgstr ""
+"Titta, jag har hittat något. Det ser ut som en ässja, som drivs av lavan. "
+"Den ser magisk ut, och verkar het nog för spiran."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:261
 msgid "That pretty metal rock is mine! Get away from it!"
-msgstr ""
+msgstr "Den där fina metallstenen är min! Bort med er!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:266
 msgid "Move Thursagan to the forge"
@@ -2541,25 +2614,27 @@ msgstr "För Thursagan till smedjan"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:270
 msgid "Defend him until he makes the sceptre"
-msgstr ""
+msgstr "Försvara honom tills han fullbordat spiran"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:304
 msgid ""
 "This forge will work perfectly. Give me a few days here, and I can reforge "
 "the sceptre to fufill its purpose."
 msgstr ""
+"Den här ässjan fungerar alldeles utmärkt. Ge mig ett par dagar bara, så kan "
+"jag smida om spiran så att den fungerar."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:313
 msgid "Survive for 5 turns"
-msgstr ""
+msgstr "Överlev i fem drag"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:329
 msgid "An enemy moves onto the forge"
-msgstr ""
+msgstr "En fiende når ässjan"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:354
 msgid "You fool, you let the enemy get at me as I was unarmed!"
-msgstr ""
+msgstr "Din dåre, du lät fienden nå fram till mig när jag var obeväpnad!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:360
 #: Sceptre_of_Fire/scenarios/deaths.cfg:74
@@ -2572,24 +2647,28 @@ msgid ""
 "I have completed my work. Now it is truly the Sceptre of Fire, a powerful "
 "magical artifact."
 msgstr ""
+"Mitt verk är fullbordat. Nu är det sannerligen Eldspiran, en mäktig magisk "
+"artefakt."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:388
 msgid ""
 "Good. Now, let's get out of this cave, before the elves, dwarves or bats "
 "kill us!"
 msgstr ""
+"Bra. Nu ger vi oss av härifrån innan alverna, dvärgarna eller fladdermössen "
+"dödar oss!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:403
 msgid "In $turnsleft more turns I will have completed the sceptre."
-msgstr ""
+msgstr "Jag behöver ytterligare $turnsleft drag för att fullborda spiran."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:3
 msgid "Caverns of Flame"
-msgstr ""
+msgstr "Flammande grottor"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:109
 msgid "Explore as much of the cave as possible"
-msgstr ""
+msgstr "Utforska så mycket av grottan som möjligt"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:218
 msgid ""
@@ -2604,10 +2683,14 @@ msgid ""
 "volcano? I think we should try to cause it to erupt. It will kill all the "
 "elves, and we might be able to find a safe place so the lava doesn't kill us."
 msgstr ""
+"Vi borde fortsätta. Kom ihåg vad Khrakrahs sade, om att detta var en vulkan. "
+"Jag tycker att vi skall försöka få den att få ett utbrott. Det kommer att ta "
+"kål på alla alverna, och vi borde kunna hitta en säker plats att vänta ut "
+"utbrottet på."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:226
 msgid "Interesting plan. How do you propose we do this?"
-msgstr ""
+msgstr "Intressant plan. Hur föreslår du att vi gör?"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:230
 msgid ""
@@ -2615,10 +2698,13 @@ msgid ""
 "to the surface. Somewhere near there, there is probably a magic object of "
 "some kind that will cause the lava to flow."
 msgstr ""
+"Jag misstänker att det finns en öppning någonstans här i närheten som leder "
+"upp till ytan. Och någonstans där i närheten finns det säkert någon magisk "
+"sak som får lavan att flöda."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:234
 msgid "Very well. We will continue to explore until we find it."
-msgstr ""
+msgstr "Nåväl. Vi får leta tills vi hittar den."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:238
 msgid "Krawg sme' o'cz in iz 'ave!"
@@ -2626,15 +2712,15 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:242
 msgid "Indeed, there may be orcs lurking here. We should beware of them."
-msgstr ""
+msgstr "Sannerligen, det kan finnas orcher här. Vi måste ta oss i akt."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:262
 msgid "Aendan"
-msgstr ""
+msgstr "Aendan"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:268
 msgid "We have caught up to the dwarves. Now, prepare to destroy them!"
-msgstr ""
+msgstr "Vi hann ifatt dvärgarna. Nu, bered er på strid, mannar!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:307
 msgid ""
@@ -2642,51 +2728,58 @@ msgid ""
 "should draw the elves further into the caves, so they can't escape when it "
 "does erupt."
 msgstr ""
+"Vi måste försöka få igång vulkanen så snart som möjligt. Under tiden får vi "
+"försöka locka alverna längre in i grottorna, så att de inte kommer undan när "
+"den får sitt utbrott."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:327
 msgid "Look, those orcs can't get to us! There's cave wall in the way!"
-msgstr ""
+msgstr "Titta, orcherna kommer inte åt oss! Det är en grottvägg i vägen!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:331
 msgid "True; but perhaps later they will find a way out."
-msgstr ""
+msgstr "Sant. Men de kanske kommer på något sätt att komma förbi."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:347
 msgid "These orcs appear to be guarding something."
-msgstr ""
+msgstr "Orcherna verkar vakta någonting."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:351
 msgid "It is probably the magical object. Attack them!"
-msgstr ""
+msgstr "Det är antagligen den där magiska saken. På dem!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:356
 msgid "Move onto the glyph in the center of the volcano"
-msgstr ""
+msgstr "Rör er till märket i mitten av vulkanen"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:438
 msgid "That's it! The volcano will erupt soon now that you've triggered it."
-msgstr ""
+msgstr "Så där! Vulkanen kommer att få ett utbrott snart nu!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:449
 msgid ""
 "Look, it has knocked down some of the walls! Those orcs have a way out now!"
-msgstr ""
+msgstr "Titta, den har slagit ner lite av väggarna! Orcherna har en väg ut nu!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:458
 msgid ""
 "Well, we've succeeded in stopping the elves from getting the sceptre, I "
 "would say. But what do we do now?!"
 msgstr ""
+"Nå, jag skulle nog våga påstå att vi lyckades hejda alverna från att få tag "
+"på spiran. Men vad skall vi göra nu?!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:464
 msgid "Fight the orcs until we die, its our only option."
-msgstr ""
+msgstr "Vår enda utväg är att slåss mot orcherna tills vi dör."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:470
 msgid ""
 "We cannot let any of the elves or their mercenaries escape; they would tell "
 "where the sceptre is. Make sure they all die!"
 msgstr ""
+"Vi kan inte låta någon av alverna eller deras legosoldater komma undan! De "
+"skulle bara tala om var spiran finns! Se till att döda dem allihop!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:476
 msgid ""
@@ -2694,31 +2787,38 @@ msgid ""
 "remember, the lava spreads quickly, suddenly, and dangerously. The only "
 "place safe from it is the area near the glyph."
 msgstr ""
+"Vi måste döda dem snabbt, innan de hinner förstå vad som pågår. Och kom "
+"ihåg, lavan sprids snabbt, plötsligt, och farligt. Den enda säkra platsen är "
+"nära märket."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:496
 msgid ""
 "We have hidden the sceptre well, but now the volcano is going to erupt and "
 "kill us all."
 msgstr ""
+"Vi har gömt spiran väl, men nu kommer vulkanen att få sitt utbrott och döda "
+"oss allihop."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:655
 msgid ""
 "Wait, what's going on? The volcano is going to erupt! Everyone, try to get "
 "out of these caves!"
 msgstr ""
+"Vänta, vad är det som händer? Vulkanen håller på att få ett utbrott! Ut ur "
+"grottorna, allihop!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:673
 msgid "I must go report to my superiors!"
-msgstr ""
+msgstr "Jag måste rapportera detta till mina överordnade!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:677
 msgid "We have allowed an elf to escape; we have failed."
-msgstr ""
+msgstr "Vi lät en alv komma undan! Vi har misslyckats!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:734
 msgid ""
 "Aghh!!! The volcano is erupting, and now our exit has been blocked off!!!"
-msgstr ""
+msgstr "Aghh! Vulkanen får sitt utbrott, och vår utgång är blockerad!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:747
 msgid "Kill all of the elves before one of them escapes from the caves"
@@ -2888,7 +2988,7 @@ msgstr "Dvärgarnas runmästare"
 
 #: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:28
 msgid "tough"
-msgstr ""
+msgstr "härdad"
 
 #: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:35
 msgid ""
@@ -2955,56 +3055,3 @@ msgstr "klor"
 #: Sceptre_of_Fire/units/Wolf.cfg:37
 msgid "blade"
 msgstr "hugg"
-
-#~ msgid "Argh! No! Well, I'll get around that gate somehow..."
-#~ msgstr ""
-#~ "Argh! Nej! Nå, jag skall ta mig runt den där porten på något sätt..."
-
-#~ msgid "Now where are we going, anyway?"
-#~ msgstr "Vart är vi på väg egentligen?"
-
-#~ msgid "Except for trolls and ogres, right?"
-#~ msgstr "Förutom troll och jättar, eller hur?"
-
-#~ msgid "Well then, lets go! To the eastern mines, eh?"
-#~ msgstr "Då så, nu ger vi oss av! Till de östliga gruvorna, va?"
-
-#~ msgid ""
-#~ "Well, these are the eastern mines. Krawg, are you sure you want to come "
-#~ "with us? Caves are not exactly your preferred environment!"
-#~ msgstr ""
-#~ "Så detta är de östliga gruvorna. Krawg, är du säker på att du vill komma "
-#~ "med oss? Gruvor är ju inte precis den plats där du trivs bäst!"
-
-#~ msgid "Krawg 'll ay eer! Keyaah!"
-#~ msgstr "Krawg kåmer med eeer! Kjaa!"
-
-#~ msgid ""
-#~ "Very well. Now, Thursagan, what exactly are we looking for down here?"
-#~ msgstr "Då så. Thursagan, exakt vad är det vi letar efter här nere?"
-
-#~ msgid "That's all of the materials! Time to go back to the citadel."
-#~ msgstr "Nu har vi alla råämnen! Dags att gå tillbaka till smedjan."
-
-#~ msgid ""
-#~ "You are right... well, I'm sure the Shorbears have a cave entrance in "
-#~ "their castle somewhere. We WILL find it, although it may take a while. We "
-#~ "should barricade ourselves in the Shorbear citadel, and collapse the "
-#~ "gates."
-#~ msgstr ""
-#~ "Sant... Nå, jag är säker på att Shorbear-klanen har en grottöppning i "
-#~ "sitt slott någonstans. Vi SKALL hitta den, men det kanske tar ett tag. Vi "
-#~ "borde barrikadera oss i Shorbear-citadellet och riva portarna."
-
-#~ msgid "But what if there isn't a cave entrance? We'll all die!"
-#~ msgstr "Men om det inte finns någon grottöppning? Då dör vi allihop!"
-
-#~ msgid ""
-#~ "There we go. He's silenced, for now. We can actually try to get out of "
-#~ "here."
-#~ msgstr ""
-#~ "Så där ja. Nu håller han sig lugn ett tag. Vi kan faktiskt försöka ta oss "
-#~ "härifrån."
-
-#~ msgid "I'm not going to do that, its suicide!"
-#~ msgstr "Det tänker jag inte alls göra! Det är självmord!"
