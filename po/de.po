@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-07-31 02:31+0200\n"
+"POT-Creation-Date: 2005-08-09 23:44+0200\n"
 "PO-Revision-Date: 2005-07-10 18:04+0100\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic AT gmx DOT net>\n"
 "Language-Team: none\n"
@@ -64,6 +64,7 @@ msgstr ""
 msgid "Rugnur"
 msgstr "Rugnur"
 
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:29
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:32
 msgid "Haldric II"
 msgstr "Haldric II"
@@ -82,12 +83,12 @@ msgstr "Geleitet Alanin, Träger des Rubins des Feuers, zur Festung der Zwerge"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:63
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:443
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:113
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:360
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:751
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:123
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:387
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:778
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:76
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:274
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:317
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:275
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:318
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:98
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:356
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:460
@@ -114,8 +115,8 @@ msgstr "Ihr verliert einen beladenen Wagen an den Feind"
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:71
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:451
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:92
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:290
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:333
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:291
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:334
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:67
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:122
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:380
@@ -483,12 +484,12 @@ msgstr "Tötet alle Elfen, die nach Schließung der Tore noch in den Höhlen sin
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:67
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:447
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:117
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:364
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:755
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:127
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:391
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:782
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:80
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:278
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:321
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:279
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:322
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:106
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:364
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:468
@@ -1062,12 +1063,12 @@ msgstr "Sicher helfen wir dir die Trolle und Oger zu bekämpfen."
 msgid "Kwe... yoo ants to ide uuus, nooa? Kwe, uus kan..."
 msgstr "Waas... duuu illlst uuuns verrsssteeckennn nuuun? Wiiir köönnn..."
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:121
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:368
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:759
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:131
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:395
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:786
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:84
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:282
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:325
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:283
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:326
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:110
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:368
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:472
@@ -1193,11 +1194,11 @@ msgstr ""
 msgid "Move Thursagan to the signpost"
 msgstr "Bringt Thursagan zu dem Wegweiser"
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:125
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:372
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:763
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:135
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:399
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:790
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:88
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:286
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:287
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:114
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:372
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:476
@@ -2577,61 +2578,61 @@ msgid ""
 "do."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:257
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:258
 msgid ""
 "Look, I've found something here. It looks like a forge, heated by the lava. "
 "It looks magic, and it looks hot enough to make the Sceptre."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:261
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:262
 msgid "That pretty metal rock is mine! Get away from it!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:266
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:267
 msgid "Move Thursagan to the forge"
 msgstr "Geleitet Thursagan zur Schmiede"
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:270
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:271
 msgid "Defend him until he makes the sceptre"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:304
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:305
 msgid ""
 "This forge will work perfectly. Give me a few days here, and I can reforge "
 "the sceptre to fufill its purpose."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:313
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:314
 msgid "Survive for 5 turns"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:329
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:330
 msgid "An enemy moves onto the forge"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:354
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:355
 msgid "You fool, you let the enemy get at me as I was unarmed!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:360
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:361
 #: Sceptre_of_Fire/scenarios/deaths.cfg:74
 #: Sceptre_of_Fire/scenarios/utils.cfg:87
 msgid "Ayahahh..."
 msgstr "Ayahahh..."
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:384
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:385
 msgid ""
 "I have completed my work. Now it is truly the Sceptre of Fire, a powerful "
 "magical artifact."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:388
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:389
 msgid ""
 "Good. Now, let's get out of this cave, before the elves, dwarves or bats "
 "kill us!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:403
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:404
 msgid "In $turnsleft more turns I will have completed the sceptre."
 msgstr ""
 
@@ -2639,146 +2640,313 @@ msgstr ""
 msgid "Caverns of Flame"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:109
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:119
 msgid "Explore as much of the cave as possible"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:218
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:228
 #, fuzzy
 msgid ""
 "Well, I think we've gotten a good distance ahead of the elves. What do we do "
 "now?"
 msgstr "Alle Glyhpen sind besetzt! Was machen wir nun?"
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:222
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:232
 msgid ""
 "We should keep going. Remember what Khrakrahs said, about this being a "
 "volcano? I think we should try to cause it to erupt. It will kill all the "
 "elves, and we might be able to find a safe place so the lava doesn't kill us."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:226
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:236
 msgid "Interesting plan. How do you propose we do this?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:230
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:240
 msgid ""
 "I have a suspicion that there is an opening somewhere near here than leads "
 "to the surface. Somewhere near there, there is probably a magic object of "
 "some kind that will cause the lava to flow."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:234
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:244
 msgid "Very well. We will continue to explore until we find it."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:238
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:248
 msgid "Krawg sme' o'cz in iz 'ave!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:242
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:252
 msgid "Indeed, there may be orcs lurking here. We should beware of them."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:262
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:272
 msgid "Aendan"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:268
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:278
 msgid "We have caught up to the dwarves. Now, prepare to destroy them!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:307
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:317
 msgid ""
 "We should try to set off the volcano as soon as possible. Meanwhile, we "
 "should draw the elves further into the caves, so they can't escape when it "
 "does erupt."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:327
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:354
 msgid "Look, those orcs can't get to us! There's cave wall in the way!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:331
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:358
 msgid "True; but perhaps later they will find a way out."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:347
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:374
 msgid "These orcs appear to be guarding something."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:351
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:378
 msgid "It is probably the magical object. Attack them!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:356
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:383
 msgid "Move onto the glyph in the center of the volcano"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:438
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:465
 msgid "That's it! The volcano will erupt soon now that you've triggered it."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:449
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:476
 msgid ""
 "Look, it has knocked down some of the walls! Those orcs have a way out now!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:458
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:485
 msgid ""
 "Well, we've succeeded in stopping the elves from getting the sceptre, I "
 "would say. But what do we do now?!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:464
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:491
 msgid "Fight the orcs until we die, its our only option."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:470
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:497
 msgid ""
 "We cannot let any of the elves or their mercenaries escape; they would tell "
 "where the sceptre is. Make sure they all die!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:476
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:503
 msgid ""
 "We have to kill them quickly, before they realize what is happening. And "
 "remember, the lava spreads quickly, suddenly, and dangerously. The only "
 "place safe from it is the area near the glyph."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:496
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:523
 msgid ""
 "We have hidden the sceptre well, but now the volcano is going to erupt and "
 "kill us all."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:655
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:682
 msgid ""
 "Wait, what's going on? The volcano is going to erupt! Everyone, try to get "
 "out of these caves!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:673
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:700
 msgid "I must go report to my superiors!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:677
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:704
 msgid "We have allowed an elf to escape; we have failed."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:734
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:761
 msgid ""
 "Aghh!!! The volcano is erupting, and now our exit has been blocked off!!!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:747
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:774
 #, fuzzy
 msgid "Kill all of the elves before one of them escapes from the caves"
 msgstr "Tötet alle Elfen, die nach Schließung der Tore noch in den Höhlen sind"
 
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:858
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:885
 msgid "Hm... Me le' no'w!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:56
+msgid "Guard Captain"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:73
+msgid "Gatekeeper"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:113
+msgid "Halt! What is your business in Weldyn, capital of Wesnoth?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:117
+msgid ""
+"Stand aside. I am Alanin, of Haldric's royal guard, and I bring news from "
+"the northlands."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:121
+#, fuzzy
+msgid "Very well. You may pass."
+msgstr "Sehr gut. Gebt euer Bestes."
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:146
+msgid ""
+"I hear you desire to speak to the king, Alanin. What do you have to tell him?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:150
+msgid ""
+"I bring tidings of the Sceptre of Fire, comissioned fifteen years ago by our "
+"king. I have been away for a long time, do not delay me even more."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:154
+msgid "Enter, Alanin, and give the king your message."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:179
+msgid ""
+"My King, fifteen years ago you sent me on a mission into the northlands. I "
+"have returned. What do you wish to know of my mission?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:183
+msgid "Well, was the Sceptre completed? Do you have it? Give it to me!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:187
+msgid ""
+"I believe it was completed, but, I do not have it. It is buried deep in the "
+"mountains of the Northlands."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:191
+msgid ""
+"Why? Why was it not returned to me? Have the dwarves reneged on their "
+"promise, and kept it?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:195
+msgid ""
+"My Lord, the dwarves are dead, slain by fire and smoke as lava poured out of "
+"one of the mountains. I saw the eruption from afar as I was returning to you."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:199
+msgid "Why were you returning without the sceptre, then?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:203
+msgid ""
+"We had been besieged by elves, in a dwarvish castle that was not Rugnur's. "
+"The sceptre could not be completed there, but it could in a cave that lay to "
+"the northeast of it. Rugnur sent my back, with the message that it had been "
+"completed, but he and all the rest of the dwarves went into the caves, and "
+"were immediately followed by hundreds of elves."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:207
+msgid ""
+"If the sceptre was not completed in your sight, what makes you so sure it "
+"exists?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:211
+msgid "I will let Krawg explain that."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:215
+msgid "Who?"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:237
+msgid ""
+"My lord, a gryphon has just flew over our walls! It may be a sign of an "
+"attack!"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:241
+msgid ""
+"No, thi is my friend Krawg. He went with Rugnur into the caves, but escaped "
+"through a hole in the roof right before the lava filled the cave."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:245
+msgid "Ya, ya! Meh seah za zeptahur. Hrugnaar ha ee. Lozeet enda caav."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:249
+#, fuzzy
+msgid "What the devil is he saying?"
+msgstr "Wer zum Teufel seid ihr?"
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:253
+msgid ""
+"He says that he has seen the Sceptre. Rugnur had it, but he lost it in the "
+"caves. He came to tell you, so that you would know that the dwarves did "
+"fufill their promise."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:257
+msgid "Kreeeeya! Darat! Nomiduun. Bah."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:261
+msgid ""
+"I see. Well... what do you want me to do now? The sceptre is made, yes, but "
+"I don't know where it is, the makers are dead, and orcs have probably "
+"already found it and hid it somewhere else."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:265
+msgid ""
+"I do not know. I only bring the news, I did not cause it, nor do I fully "
+"understand its implications. But, my advice would be to do nothing. I "
+"believe you will not find it, though you send a hundred armies to look for "
+"it. But record in the history books that the sceptre does exist."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:269
+msgid ""
+"Your advice seems good to me. I will take it. As for you, and the gryphon, "
+"you are free to go. Alanin, you've served in the army long enough to retire, "
+"and even if you hadn't, you've seen enough combat. Go back to your village; "
+"I hope never to see you again. I wish to forget all about this sceptre, and "
+"you would only remind me of it."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:273
+msgid "Very well, my lord."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:277
+msgid ""
+"The sceptre would not be found until many generations after Haldric II, in "
+"the time of Asheviere the Dark Queen. During that time, it sat in a cave in "
+"the Northlands, moved around by Orcs who never understood its true power."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:281
+msgid ""
+"But before it was found, legends grew up around it, and around its makers - "
+"Thursagan, most brilliant of the Dwarven Sages, and Rugnur, the greatest of "
+"the Dwarven Heroes of old."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
@@ -2832,7 +3000,7 @@ msgstr ""
 msgid "none"
 msgstr "keine"
 
-#: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:40
+#: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:39
 #: Sceptre_of_Fire/units/Dwarvish_Smith.cfg:26
 #: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:35
 #: Sceptre_of_Fire/units/Caravan.cfg:18 Sceptre_of_Fire/units/Caravan.cfg:43
@@ -2870,14 +3038,14 @@ msgstr ""
 "Seine Fähigkeiten im erschaffen von Runen ist unerreichbar und die Glyphen "
 "in seinen Waffen und seiner Rüstung wehren die Angriffe seiner Gegner ab."
 
-#: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:39
+#: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:38
 #: Sceptre_of_Fire/units/Dwarvish_Smith.cfg:25
 #: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:34
 #: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:28
 msgid "hammer"
 msgstr "Hammer"
 
-#: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:41
+#: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:40
 #: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:36
 #: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:30
 msgid "magical"
