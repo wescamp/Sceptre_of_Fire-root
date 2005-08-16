@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-09 23:44+0200\n"
-"PO-Revision-Date: 2005-08-01 19:08+0200\n"
+"PO-Revision-Date: 2005-08-16 22:50+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.1\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Sceptre_of_Fire.cfg:9
 msgid "The Sceptre of Fire"
@@ -991,7 +991,7 @@ msgstr ""
 msgid ""
 "Except for trolls and ogres, right? They're probably lurking around here "
 "somewhere."
-msgstr "Förutom troll och jättar, va? De gömmer sig troligen här i närheten."
+msgstr "Förutom troll och resar, va? De gömmer sig troligen här i närheten."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:158
 msgid "Right. We'll probably have to fight our way through to his house."
@@ -1035,7 +1035,7 @@ msgstr "Aaa... Om dooo ööda roll oook ettar, jeelpa viii dooo!"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:311
 msgid "Sure, we'll help you fight trolls and ogres."
-msgstr "Självklart, vi hjälper er att slåss mot troll och jättar."
+msgstr "Självklart, vi hjälper er att slåss mot troll och resar."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:315
 msgid "Kwe... yoo ants to ide uuus, nooa? Kwe, uus kan..."
@@ -1387,8 +1387,8 @@ msgid ""
 "to fight them; also be prepared to spend quite some time here - mining can "
 "take a while."
 msgstr ""
-"Nå, här är de östra gruvorna. Det bor troll och jättar här, så var beredda "
-"på strid. Bered er också på en lång tid här nere - gruvarbete kan ta sin tid."
+"Nå, här är de östra gruvorna. Det bor troll och resar här, så var beredda på "
+"strid. Bered er också på en lång tid här nere - gruvarbete kan ta sin tid."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:82
 msgid ""
@@ -1437,7 +1437,7 @@ msgid ""
 "where there are no trolls and ogres, and mine there."
 msgstr ""
 "Nu har vi allt vi behöver från de här gruvorna. Nu skall vi gå tillbaka "
-"västerut, där det inte finns några troll och jättar, till gruvorna där."
+"västerut, där det inte finns några troll och resar, till gruvorna där."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:231
 msgid "Here's the gold."
@@ -3074,7 +3074,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:4
 msgid "Dwarvish Arcanister"
-msgstr "Dvärgarnas runbesvärjare"
+msgstr "Runbesvärjare"
 
 #: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:25
 msgid ""
@@ -3106,7 +3106,7 @@ msgstr "magisk"
 #: Sceptre_of_Fire/units/Dwarvish_Miner.cfg:38
 #: Sceptre_of_Fire/units/Dwarvish_Miner.cfg:72
 msgid "Dwarvish Miner"
-msgstr "Dvärgarnas gruvarbetare"
+msgstr "Gruvarbetare"
 
 #: Sceptre_of_Fire/units/Dwarvish_Miner.cfg:14
 msgid ""
@@ -3155,7 +3155,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:4
 msgid "Dwarvish Runemaster"
-msgstr "Dvärgarnas runmästare"
+msgstr "Runmästare"
 
 #: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:28
 msgid "tough"
@@ -3179,7 +3179,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:4
 msgid "Dwarvish Runesmith"
-msgstr "Dvärgarnas runsmed"
+msgstr "Runsmed"
 
 #: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:31
 msgid ""
