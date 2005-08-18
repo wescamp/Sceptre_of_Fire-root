@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-09 23:44+0200\n"
-"PO-Revision-Date: 2005-08-16 22:50+0200\n"
+"PO-Revision-Date: 2005-08-18 22:08+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -2848,17 +2848,15 @@ msgid ""
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:121
-#, fuzzy
 msgid "Very well. You may pass."
-msgstr "Nåväl. Se vad du kan göra åt saken."
+msgstr "Nåväl. Du kan passera."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:146
-#, fuzzy
 msgid ""
 "I hear you desire to speak to the king, Alanin. What do you have to tell him?"
 msgstr ""
-"Visst, jag antar att du vill planera spiran... Vad skall du prata med honom "
-"om?"
+"Jag hörde att du önskar tala med kungen, Alanin. Vad är det du har att "
+"berätta?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:150
 msgid ""
@@ -2942,9 +2940,8 @@ msgid "Ya, ya! Meh seah za zeptahur. Hrugnaar ha ee. Lozeet enda caav."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:249
-#, fuzzy
 msgid "What the devil is he saying?"
-msgstr "Och vad tusan är ni för ena?"
+msgstr "Vad sjutton säger han?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:253
 msgid ""
