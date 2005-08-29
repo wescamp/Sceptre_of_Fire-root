@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-29 15:05+0200\n"
-"PO-Revision-Date: 2005-08-26 22:12+0100\n"
+"PO-Revision-Date: 2005-08-29 15:34+0100\n"
 "Last-Translator: Nils Kneuper <crazy - ivanovic AT gmx DOT de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -602,7 +602,6 @@ msgid "Baglur, how do you close the gates?"
 msgstr "Baglur, wie kann ich die Tore verschließen?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:250
-#, fuzzy
 msgid ""
 "Agh, well that's the difficulty. Its a magic gate. Indestructable. But that "
 "means it can only be closed by magic. You need to position a warrior on each "
@@ -1397,7 +1396,6 @@ msgid "Two runesmiths from the academy have joined you!"
 msgstr "Zwei Schmiede aus der Akademie haben sich euch angeschlossen!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:286
-#, fuzzy
 msgid ""
 "Well then, lets go! To the eastern mines, eh? Hopefully this task will not "
 "take so long as the previous one."
@@ -1522,13 +1520,12 @@ msgid "We don't. Not everything is about you. We need to talk to Theganli."
 msgstr "Nicht alles dreht sich um euch. Wir müssen mit Theganli sprechen."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:115
-#, fuzzy
 msgid ""
 "That makes sense, I guess you would to plan the sceptre's design... what in "
 "particular do you want him to do?"
 msgstr ""
-"Nun gut. Ich dachte ihr wolltet das Zepter nun planen... Warum müsst ihr "
-"dafür mit ihm sprechen?"
+"Das ergibt einen Sinn. Ich schätze, ihr wollt nun das Zepter planen... Was "
+"genau wollt ihr von ihm?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:120
 msgid ""
@@ -2692,12 +2689,10 @@ msgid "Move Thursagan to the forge"
 msgstr "Geleitet Thursagan zur Schmiede"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:281
-#, fuzzy
 msgid "Defend Thursagan until the sceptre is complete"
-msgstr "Verteidigt ihn, bis das Zepter fertig ist"
+msgstr "Verteidigt Thursagan bis das Zepter fertig ist"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:316
-#, fuzzy
 msgid ""
 "This forge will work perfectly. Give me a few days here, and I can reforge "
 "the sceptre to fulfill its purpose."
@@ -2906,9 +2901,8 @@ msgid "I must go report to my superiors!"
 msgstr "Ich muss meine Vorgesetzten benachrichtigen!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:737
-#, fuzzy
 msgid "We have allowed an enemy to escape; we have failed."
-msgstr "Wir haben einen Elf entkommen lassen. Wir haben versagt."
+msgstr "Wir haben einen Gergner entkommen lassen. Wir haben versagt."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:794
 msgid ""
@@ -3048,14 +3042,13 @@ msgstr ""
 "Angriff bedeuten!"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:254
-#, fuzzy
 msgid ""
 "No, that is my... friend Krawg. He went with Rugnur into the caves, but "
 "escaped through a hole in the roof right before the lava filled the cave."
 msgstr ""
-"Nein, dies ist mein Freund Krawg. Er ist zusammen mit Rugnur in diese Höhlen "
-"gegangen, doch konnte er durch ein Loch im Gipfel entkommen bevor die Lava "
-"die Höhle komplett überflutet hatte."
+"Nein, dies ist mein... Freund Krawg. Er ist zusammen mit Rugnur in diese "
+"Höhlen gegangen, doch konnte er durch ein Loch im Gipfel entkommen bevor die "
+"Lava die Höhle komplett überflutet hatte."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:259
 msgid "Ya, ya! Meh seah za zeptahur. Hrugnaar ha ee. Lozeet enda caav."
@@ -3066,7 +3059,6 @@ msgid "What the devil is he saying?"
 msgstr "Was zum Teufel sagt er?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:269
-#, fuzzy
 msgid ""
 "He says that he has seen the Sceptre. Rugnur had it, but he lost it in the "
 "caves. He came to tell you, so that you would know that the dwarves did "
@@ -3078,7 +3070,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:274
 msgid "Kreeeeya! Darat! Nomiduun. Bah."
-msgstr ""
+msgstr "Kreeeya! Stiiimmt! Feeertig bin! Tschüüüss."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:279
 msgid ""
