@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-29 15:05+0200\n"
+"POT-Creation-Date: 2005-10-03 01:19+0200\n"
 "PO-Revision-Date: 2005-04-29 20:50+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -76,8 +76,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:412
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:811
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:76
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:285
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:329
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:288
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:332
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:98
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:378
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:487
@@ -104,8 +104,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:71
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:472
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:92
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:301
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:345
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:304
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:348
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:67
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:122
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:402
@@ -397,8 +397,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:416
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:815
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:80
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:289
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:333
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:292
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:336
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:106
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:386
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:495
@@ -879,8 +879,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:420
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:819
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:84
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:293
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:337
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:296
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:340
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:110
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:390
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:499
@@ -989,7 +989,7 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:424
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:823
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:88
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:297
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:300
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:114
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:394
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:503
@@ -2125,92 +2125,92 @@ msgstr ""
 msgid "Look, there's a dragon in these caves!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:219
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:220
 msgid "Ah, fresh meat!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:224
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:225
 msgid "And which of the great dragons are you?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:228
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:230
 msgid ""
 "I am Khrakrahs, greatest dragon of all time! Haldric killed Shek'kahan my "
 "brother, but he was weaker than me, and you will not find me so easy to "
 "defeat. Now get out of my volcano!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:233
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:235
 msgid ""
 "I'd rather face one powerful dragon than hundreds of mighty elves. Continue!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:246
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:248
 msgid "What's this? A dwarf fighting against us with the elves?!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:251
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:253
 msgid ""
 "It must be one of those Surghan mercenaries. I'll bet those elves have hired "
 "more of them. That's bad news for us, for they'll go as fast in caves as we "
 "do."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:268
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:270
 msgid ""
 "Look, I've found something here. It looks like a forge, heated by the lava. "
 "It looks magic, and it looks hot enough to make the Sceptre."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:272
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:275
 msgid "That pretty metal rock is mine! Get away from it!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:277
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:280
 msgid "Move Thursagan to the forge"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:281
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:284
 msgid "Defend Thursagan until the sceptre is complete"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:316
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:319
 msgid ""
 "This forge will work perfectly. Give me a few days here, and I can reforge "
 "the sceptre to fulfill its purpose."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:325
-msgid "Survive for 5 turns"
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:328
+msgid "Survive for 9 turns"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:341
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:344
 msgid "An enemy moves onto the forge"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:366
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:369
 msgid "You fool, you let the enemy get at me as I was unarmed!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:372
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:375
 #: Sceptre_of_Fire/scenarios/deaths.cfg:74
 #: Sceptre_of_Fire/scenarios/utils.cfg:87
 msgid "Ayahahh..."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:397
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:400
 msgid ""
 "I have completed my work. Now it is truly the Sceptre of Fire, a powerful "
 "magical artifact."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:402
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:405
 msgid ""
 "Good. Now, let's get out of this cave, before the elves, dwarves or bats "
 "kill us!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:417
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:420
 msgid "In $turnsleft more turns I will have completed the sceptre."
 msgstr ""
 
