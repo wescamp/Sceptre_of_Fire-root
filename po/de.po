@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-03 01:19+0200\n"
-"PO-Revision-Date: 2005-08-29 15:34+0100\n"
+"PO-Revision-Date: 2005-10-03 15:34+0100\n"
 "Last-Translator: Nils Kneuper <crazy - ivanovic AT gmx DOT de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -2701,9 +2701,8 @@ msgstr ""
 "Zepter fertigstellen, so dass es seinen Zweck erfüllt."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:328
-#, fuzzy
 msgid "Survive for 9 turns"
-msgstr "Überlebt 5 Runden"
+msgstr "Überlebt 9 Runden"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:344
 msgid "An enemy moves onto the forge"
