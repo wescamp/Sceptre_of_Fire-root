@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-06 18:07+0100\n"
-"PO-Revision-Date: 2005-10-03 15:34+0100\n"
-"Last-Translator: Nils Kneuper <crazy - ivanovic AT gmx DOT de>\n"
+"PO-Revision-Date: 2005-11-07 23:01+0100\n"
+"Last-Translator: Nils Kneuper <crazy-ivanovic  AT   gmx D OT  net>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -163,14 +163,10 @@ msgstr ""
 "wahr? Er gehört euch."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:198
-#, fuzzy
 msgid "Correct. However, we have a problem with it."
-msgstr ""
-"Korrekt. Dennoch haben wir ein Problem. Die Magie des Steins bereitet uns "
-"Schwierigkeiten."
+msgstr "Korrekt. Dennoch haben wir ein Problem."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:203
-#, fuzzy
 msgid "What sort of problem?"
 msgstr "Was für Schwierigkeiten?"
 
@@ -192,7 +188,6 @@ msgstr ""
 "angeht."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:218
-#, fuzzy
 msgid ""
 "When the elves came to Weldyn, about ten years ago, they spoke of a mage "
 "named Crelanu, and of his advice about the ruby. He said that the radiance "
@@ -205,7 +200,6 @@ msgstr ""
 "Beeinträchtigung stoppen würde."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:223
-#, fuzzy
 msgid ""
 "And what... you want us to do this, contain the radiance of the stone? By "
 "making an artifact of some kind?"
@@ -218,6 +212,8 @@ msgid ""
 "Exactly. I want you to craft it into a mighty artifact, that will leverage "
 "the stone's power, but contain it also."
 msgstr ""
+"Genau. Ich möchte, dass ihr ihn in einem mächtigen Artefakt einarbeitet, "
+"welches seine Kraft eindämmt, sie aber dennoch enthält."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:233
 msgid ""
@@ -265,15 +261,14 @@ msgid "Five thousand pieces of silver."
 msgstr "Fünftausend Silberlinge."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:263
-#, fuzzy
 msgid ""
 "You said you wanted a powerful magical artifact, not a child's playtoy! "
 "So... twenty thousand, minimum. The crafting of this will take us many "
 "years, you must pay us well."
 msgstr ""
 "Ihr habt gesagt, ihr wolltet ein mächtiges magisches Artefakt, nicht ein "
-"Spielzeug für Kinder! Zwanzigtausend, mindestens. Solch ein Artefakt zu "
-"schmieden dauert viele Jahre. Dafür fordern wir einen gerechten Lohn."
+"Spielzeug für Kinder! Also... Zwanzigtausend, mindestens. Solch ein Artefakt "
+"zu schmieden dauert viele Jahre. Dafür fordern wir einen gerechten Lohn."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:268
 msgid "Ten thousand."
@@ -291,29 +286,26 @@ msgstr ""
 "anderen Stamm aufsuchen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:283
-#, fuzzy
 msgid ""
 "Fine then - ten thousand... now, what exactly do you want us to make the "
 "stone into?"
 msgstr ""
-"Nun denn, zehntausend... Was genau sollen wir denn eigentlich aus dem Rubin "
-"machen?"
+"Nun denn, zehntausend... Was genau sollen wir denn eigentlich aus dem "
+"Edelstein machen?"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:288
 msgid "I want you to make it into a sceptre, a sceptre of fire."
 msgstr "Ich möchte, dass ihr daraus ein Zepter macht, ein Zepter des Feuers."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:293
-#, fuzzy
 msgid ""
 "I'll see what I can do. But I will need five thousand silver in advance, to "
 "pay for the materials."
 msgstr ""
 "Ich werde sehen, was wir da machen können. Doch brauche ich fünftausend "
-"Silberlinge im voraus um die Expedition zu bezahlen."
+"Silberlinge im voraus um die nötigen Materialien zu bezahlen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:298
-#, fuzzy
 msgid ""
 "Very well. I have the silver here, ready to ship, and I will send someone "
 "over with the stone itself. He will stay with you as you make the sceptre, "
@@ -323,7 +315,7 @@ msgstr ""
 "Abgemacht. Ich habe das Silber hier und alles ist bereit um es zu übergeben. "
 "Außerdem werde ich euch einen Boten mit dem Stein schicken. Er wird bei euch "
 "bleiben bis das Zepter fertig ist, um sicher zugehen, dass es rechtzeitig "
-"fertig wird. Ich gehe davon aus, dass es Fertig ist bevor meine "
+"fertig wird. Ich gehe davon aus, dass es fertig ist, bevor meine "
 "Herrschaftszeit sich dem Ende zuneigt."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:305
@@ -332,7 +324,7 @@ msgstr "Alanin"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:311
 msgid "Thats right. I'll be coming over along with the silver."
-msgstr ""
+msgstr "Das ist richtig. Ich werde nun mit dem Silber zu euch kommen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:315
 msgid ""
@@ -354,14 +346,12 @@ msgstr ""
 "Weg."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:329
-#, fuzzy
 msgid "Not true! This is dwarvish land; if anything, it's our road!"
 msgstr ""
 "Das stimmt nicht! Dies ist zwergisches Gebiet. Wenn überhaupt, dann ist es "
 "unser Weg!"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:333
-#, fuzzy
 msgid ""
 "Nevertheless, if you try to move your caravans here you have to pay the "
 "toll, or face our wrath!"
@@ -388,16 +378,15 @@ msgstr ""
 "betrogen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:347
-#, fuzzy
 msgid ""
 "Ah, I see - you are one of the rebels. Our treaty with the elves does not "
 "apply to you, so I have no problem with slaying you if you stand in our way. "
 "Rugnur, we will proceed with the shipment."
 msgstr ""
-"Ah, ein Rebell. Unser Abkommen mit den Elfen betrifft euch nicht, also bin "
-"ich mir sicher, dass sie es uns nicht übel nehmen werden, wenn wir uns gegen "
-"euch verteidigen um unsere Wagen zu schützen. Rugnur, wir werden mit der "
-"Übergabe fortfahren."
+"Ah, ich sehe schon - ihr müsst einer dieser Rebellen sein. Unser Abkommen "
+"mit den Elfen betrifft euch nicht, also habe ich keine Schwierigkeiten, wenn "
+"ich euch zerschmettere solltet ihr mir in die Quere kommen. Rugnur, wir "
+"werden mit der Übergabe fortfahren."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:351
 msgid ""
@@ -413,13 +402,13 @@ msgid "Caravan loaded. Time to go the the dwarvish citadel."
 msgstr "Wagen beladen. Zeit in Richtung der zwergischen Festung aufzubrechen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:434
-#, fuzzy
 msgid ""
 "Here's the stone, for you dwarves! Now, if you'll excuse me, I think I'll be "
 "taking refuge in this castle here... I don't much like fighting."
 msgstr ""
 "Hier habt ihr den Stein, Zwerge! Wenn ihr mich nun entschuldigen würdet, "
-"werde ich in dieser Burg Zuflucht suchen..."
+"werde ich in dieser Burg Zuflucht suchen... Ich kann Kämpfen nichts "
+"abgewinnen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:461
 msgid "All the gold is there too. Proceed with the task, Rugnur!"
@@ -447,12 +436,10 @@ msgstr ""
 "Dies ist der letzte Wagen! Wir werden umgehend unsere Arbeit aufnehmen."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:547
-#, fuzzy
 msgid "We have all of the silver, now all we need is the stone."
-msgstr "Wir haben das Silber. Uns fehlt nur noch der Rubin."
+msgstr "Wir haben das Silber. Uns fehlt nur noch der Edelstein."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:576
-#, fuzzy
 msgid ""
 "Ha! Our reinforcements have arrived. There is no way you can withstand our "
 "combined strength!"
@@ -461,7 +448,6 @@ msgstr ""
 "länger standhalten können!"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:581
-#, fuzzy
 msgid ""
 "We cannot match you above ground, but in the caves we may still defeat you."
 msgstr ""
@@ -532,11 +518,10 @@ msgstr ""
 "warnen!..."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:147
-#, fuzzy
 msgid "Here - I'll go warn the council. You stay here and fight."
 msgstr ""
-"Ich bin nicht geschaffen, um in Höhlen zu kämpfen - Ich werde mich "
-"aufmachen, um den Rat zu warnen. Ihr bleibt besser hier und kämpft."
+"Hier - Ich werde mich aufmachen, um den Rat zu warnen. Ihr bleibt besser "
+"hier und kämpft."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:152
 msgid "Yes, that sounds good. I'll stay here and try to defend the gates..."
@@ -593,7 +578,6 @@ msgstr ""
 "Nicht wirklich. Alle dachten, es sei eine Zeit des Friedens. Wer seid ihr?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:236
-#, fuzzy
 msgid ""
 "Argh! I'm a retired warrior... it looks like I'll have to come out and help "
 "you, or we'll be overrun by the damn elves... argh again. Well, listen here. "
@@ -813,6 +797,8 @@ msgid ""
 "Where's that fool Rugnur gotten to? It's time for him to report on events in "
 "the surface world. He's late!"
 msgstr ""
+"Wo ist bloß dieser Narr Rugnur? Es ist an der Zeit für seinen Bericht über "
+"die Geschehnisse an der Oberfläche. Er ist spät dran!"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:97
 msgid "Perhaps the outpost was held up?"
@@ -855,7 +841,6 @@ msgid "No."
 msgstr "Nein."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:153
-#, fuzzy
 msgid ""
 "I think you'd better let me explain. King Haldric II of Wesnoth came to the "
 "gate. Then we had to close it, which took considerable time."
@@ -865,7 +850,6 @@ msgstr ""
 "beanspruchte."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:157
-#, fuzzy
 msgid "What'd he want? And why'd you have to close the gate?"
 msgstr "Was wollte er? Und warum habt ihr die Tore verschlossen?"
 
@@ -912,7 +896,6 @@ msgstr ""
 "sollte ich gehen."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:186
-#, fuzzy
 msgid ""
 "Can't you tell a bluff when you hear one?!? He knows we're the best "
 "craftsmen, and he wouldn't have gone to another tribe if we stalled for a "
@@ -1005,7 +988,6 @@ msgid "Death of Alanin"
 msgstr "Alanin fällt in der Schlacht"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:139
-#, fuzzy
 msgid ""
 "Now where are we going, anyway? We were in those caves, taking wrong turns "
 "and fighting orcs, for a whole year. This trip better have a good payoff to "
@@ -1038,13 +1020,12 @@ msgstr ""
 "stellen hier eine Bedrohung für uns dar."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:159
-#, fuzzy
 msgid ""
 "Except for trolls and ogres, right? They live in the far northlands. They're "
 "probably lurking around here somewhere."
 msgstr ""
-"Außer Trollen und Ogern, nicht wahr? Die verstecken sich hier mit Sicherheit "
-"irgendwo."
+"Außer Trollen und Ogern, nicht wahr? Sie leben in den fernen Nordlanden. Die "
+"verstecken sich hier mit Sicherheit irgendwo."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:164
 msgid "Right. We'll probably have to fight our way through to his house."
@@ -1124,15 +1105,16 @@ msgstr "Ich sehe ein Haus am Horizont!"
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:397
 msgid "Go away, you birds! Or I shall burn you out of the air!"
 msgstr ""
+"Verschwindet ihr lästigen Vögel! Oder soll ich euch gewaltsam vom Himmel "
+"holen?!"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:402
-#, fuzzy
 msgid ""
 "He doesn't want to talk to the gryphons, apparently. I think we'll have to "
 "get someone there he will talk to..."
 msgstr ""
-"Er will nicht mit den Greifen sprechen! Ich glaube wir müssen jemanden dort "
-"hinüber schaffen, mit dem er bereit ist zu sprechen..."
+"Er will anscheinend nicht mit den Greifen sprechen! Ich glaube wir müssen "
+"jemanden dort hinüber schaffen, mit dem er bereit ist zu sprechen..."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:420
 msgid "Thursagan"
@@ -1243,9 +1225,9 @@ msgid "Death of Thursagan"
 msgstr "Thursagan fällt in der Schlacht"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:540
-#, fuzzy
 msgid "Well, now we are in the caves again! Come on, back south, to the city."
-msgstr "Gut, wir sind zurück in unseren Höhlen! Los, zurück zu Durstorn."
+msgstr ""
+"Gut, wir sind zurück in unseren Höhlen! Los, zurück südwärts zur Stadt."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:103
 msgid "Lord Durstorn, we have succeeded in our mission. Thursagan is here."
@@ -2776,9 +2758,8 @@ msgstr "Erkundet so viel von der Höhle, wie nur möglich"
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:235
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:243
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:251
-#, fuzzy
 msgid "Guardian"
-msgstr "Hauptmann der Garde"
+msgstr "Wache"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:257
 msgid ""
