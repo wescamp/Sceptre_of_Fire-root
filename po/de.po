@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-05 22:56+0100\n"
+"POT-Creation-Date: 2005-12-11 20:44+0100\n"
 "PO-Revision-Date: 2005-12-05 22:48+0100\n"
 "Last-Translator: Nils Kneuper <crazy-ivanovic  AT   gmx D OT  net>\n"
 "Language-Team: none\n"
@@ -59,6 +59,10 @@ msgstr ""
 "Von jenen die es schufen und ihrer Gram\n"
 "Ihre Geschichte leg ich euch nun dar...\n"
 "-\n"
+
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:3
+msgid "A Bargain is Struck"
+msgstr ""
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:20
 msgid "Rugnur"
@@ -476,6 +480,10 @@ msgstr ""
 "Ihr habt gerade einen Wagen mit MEINEM Geld verloren! Ich glaube nicht, dass "
 "ihr fähig seid, mein Eigentum gut zu beschützen. Der Handel ist geplatzt."
 
+#: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:3
+msgid "Closing the Gates"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:32
 msgid "Glindur"
 msgstr "Glindur"
@@ -745,6 +753,10 @@ msgstr ""
 msgid "My glyph is on."
 msgstr "Meine Glyphe ist aktiviert."
 
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:3
+msgid "In the Dwarven City"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:29
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:135
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:30
@@ -970,6 +982,10 @@ msgid ""
 msgstr ""
 "Wer zum Teufel seid ihr? Gut, ihr scheint zu Rugnur zu gehören... Folgt ihm "
 "nordwärts."
+
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:3
+msgid "Searching for the Runecrafter"
+msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:81
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:331
@@ -1232,6 +1248,10 @@ msgstr "Thursagan fällt in der Schlacht"
 msgid "Well, now we are in the caves again! Come on, back south, to the city."
 msgstr ""
 "Gut, wir sind zurück in unseren Höhlen! Los, zurück südwärts zur Stadt."
+
+#: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:3
+msgid "The Council Regathers"
+msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:103
 msgid "Lord Durstorn, we have succeeded in our mission. Thursagan is here."
@@ -1509,6 +1529,10 @@ msgstr "Hier ist die Miene für das kostbare Gold! Schickt die Bergmänner her."
 msgid "I have all the gold I can carry..."
 msgstr "Mehr Gold kann ich nicht tragen..."
 
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:3
+msgid "The Jeweler"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:105
 msgid ""
 "So, you have returned. I assume you have obtained the required materials? My "
@@ -1706,6 +1730,10 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:284
 msgid "Yes sir... *sigh*"
 msgstr "Ja Herr... *seufz*"
+
+#: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:3
+msgid "Hills of the Shorbear Clan"
+msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:29
 msgid "Glonoin"
@@ -2166,6 +2194,10 @@ msgstr "Ich bin hier zuständig, und ich sage es ist eure Schuld!"
 msgid "*BUMP*"
 msgstr "*BUMP*"
 
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:3
+msgid "Towards the Caves"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:29
 msgid "Gaenlar"
 msgstr "Gaenlar"
@@ -2452,6 +2484,10 @@ msgstr ""
 "Ich weiß nicht, was wir in diesen Höhlen finden werden, doch kann es nicht "
 "schlimmer sein als einem Angriff von hunderten Elfen ausgesetzt zu sein."
 
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:3
+msgid "Outriding the Outriders"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:59
 msgid "Reach the Wesnothian outpost in the south"
 msgstr "Erreicht den Außenposten von Wesnoth im Süden"
@@ -2575,6 +2611,11 @@ msgstr ""
 "Ich sehe. Gut, kommt herein. Ich bezweifle, dass sie diese Festung erobern "
 "können, selbst wenn sie gewillt sind einen Krieg zu beginnen, was ich doch "
 "arg bezweifle."
+
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:3
+#, fuzzy
+msgid "The Dragon"
+msgstr "Thursagan"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:31
 msgid "Landar"
@@ -2930,6 +2971,10 @@ msgstr "Tötet alle Elfen bevor einer von ihnen aus den Höhlen entkommt"
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:949
 msgid "Hm... Me le' no'w!"
 msgstr "Hm... Ich verschwinden jetzt!"
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:3
+msgid "Epilogue"
+msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:56
 msgid "Guard Captain"

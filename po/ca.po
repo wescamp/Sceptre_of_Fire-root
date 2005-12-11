@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-05 12:56+0100\n"
+"POT-Creation-Date: 2005-12-11 20:44+0100\n"
 "PO-Revision-Date: 2005-04-29 20:50+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -48,12 +48,16 @@ msgid ""
 "-\n"
 msgstr ""
 
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:3
+msgid "A Bargain is Struck"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:20
 msgid "Rugnur"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:32
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:29
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:32
 msgid "Haldric II"
 msgstr ""
 
@@ -73,26 +77,26 @@ msgstr ""
 msgid "Bring Alanin, who has the Ruby of Fire, to the Dwarvish citadel"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:90
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:63
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:464
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:85
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:335
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:505
-#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:35
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:139
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:443
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:842
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:76
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:285
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:329
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:98
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:378
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:487
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:552
+#: Sceptre_of_Fire/scenarios/template.cfg:42
+#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:35
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:120
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:357
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:76
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:285
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:329
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:139
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:443
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:842
-#: Sceptre_of_Fire/scenarios/template.cfg:42
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:85
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:335
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:505
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:90
 msgid "Death of Rugnur"
 msgstr ""
 
@@ -104,25 +108,25 @@ msgstr ""
 msgid "Capture (death) of a loaded caravan"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:102
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:71
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:472
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:97
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:351
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:525
-#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:55
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:92
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:301
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:345
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:67
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:122
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:402
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:511
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:576
+#: Sceptre_of_Fire/scenarios/template.cfg:46
+#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:55
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:140
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:373
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:457
-#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:67
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:92
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:301
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:345
-#: Sceptre_of_Fire/scenarios/template.cfg:46
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:97
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:351
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:525
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:102
 msgid "Time runs out"
 msgstr ""
 
@@ -382,6 +386,10 @@ msgid ""
 "trust you to keep my property secure, the deal's off."
 msgstr ""
 
+#: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:3
+msgid "Closing the Gates"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:32
 msgid "Glindur"
 msgstr ""
@@ -398,22 +406,22 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:67
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:468
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:93
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:343
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:513
-#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:43
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:143
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:447
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:846
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:80
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:289
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:333
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:106
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:386
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:495
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:560
+#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:43
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:128
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:361
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:80
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:289
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:333
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:143
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:447
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:846
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:93
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:343
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:513
 msgid "Death of Baglur"
 msgstr ""
 
@@ -458,10 +466,10 @@ msgstr ""
 msgid "Baglur"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:47
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:217
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:44
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:46
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:47
 msgid "loyal,resilient"
 msgstr ""
 
@@ -597,54 +605,58 @@ msgstr ""
 msgid "My glyph is on."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:29
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:3
+msgid "In the Dwarven City"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:29
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:30
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:135
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:30
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:29
 msgid "Durstorn"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:46
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:43
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:45
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:46
 msgid "Neglur"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:58
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:55
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:57
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:58
 msgid "Glinar"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:59
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:56
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:58
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:59
 msgid "loyal,quick"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:70
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:67
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:69
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:142
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:69
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:70
 msgid "Noiraran"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:71
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:68
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:70
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:71
 msgid "loyal,intelligent"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:82
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:79
-#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:81
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:154
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:81
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:82
 msgid "Kuhnar"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:83
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:80
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:82
+#: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:83
 msgid "loyal,strong"
 msgstr ""
 
@@ -782,22 +794,26 @@ msgid ""
 "Who the devil are you? Well, you seem to be with Rugnur... follow him north."
 msgstr ""
 
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:3
+msgid "Searching for the Runecrafter"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:81
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:331
 msgid "Find Thursagan and convince him to come back to the dwarvish city"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:89
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:339
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:509
-#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:39
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:63
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:102
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:382
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:491
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:556
+#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:39
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:124
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:453
-#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:63
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:89
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:339
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:509
 msgid "Death of Alanin"
 msgstr ""
 
@@ -878,21 +894,21 @@ msgstr ""
 msgid "Kwe... yoo ants to ide uuus, nooa? Kwe, uus kan..."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:347
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:517
-#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:47
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:147
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:451
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:850
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:84
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:293
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:337
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:110
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:390
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:499
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:564
+#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:47
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:132
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:365
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:84
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:293
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:337
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:147
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:451
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:850
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:347
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:517
 msgid "Death of Krawg"
 msgstr ""
 
@@ -988,24 +1004,28 @@ msgstr ""
 msgid "Move Thursagan to the signpost"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:521
-#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:51
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:151
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:455
+#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:854
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:88
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:297
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:114
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:394
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:503
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:568
+#: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:51
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:136
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:369
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:88
-#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:297
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:151
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:455
-#: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:854
+#: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:521
 msgid "Death of Thursagan"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:540
 msgid "Well, now we are in the caves again! Come on, back south, to the city."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:3
+msgid "The Council Regathers"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:103
@@ -1227,6 +1247,10 @@ msgstr ""
 msgid "I have all the gold I can carry..."
 msgstr ""
 
+#: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:3
+msgid "The Jeweler"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:105
 msgid ""
 "So, you have returned. I assume you have obtained the required materials? My "
@@ -1387,6 +1411,10 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:284
 msgid "Yes sir... *sigh*"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:3
+msgid "Hills of the Shorbear Clan"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:29
@@ -1666,8 +1694,8 @@ msgid ""
 "the gates!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:641
 #: Sceptre_of_Fire/scenarios/deaths.cfg:48
+#: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:641
 #: Sceptre_of_Fire/scenarios/utils.cfg:61
 msgid "Gaanngh..."
 msgstr ""
@@ -1757,6 +1785,10 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:107
 msgid "*BUMP*"
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:3
+msgid "Towards the Caves"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:29
@@ -1969,6 +2001,10 @@ msgid ""
 "attacked by hundreds of elves."
 msgstr ""
 
+#: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:3
+msgid "Outriding the Outriders"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:59
 msgid "Reach the Wesnothian outpost in the south"
 msgstr ""
@@ -2076,6 +2112,10 @@ msgstr ""
 msgid ""
 "I see. Well, come on in. I doubt they would be able to capture this fort, "
 "even if they did want to start a war, which I doubt."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:3
+msgid "The Dragon"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:31
@@ -2368,6 +2408,10 @@ msgstr ""
 msgid "Hm... Me le' no'w!"
 msgstr ""
 
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:3
+msgid "Epilogue"
+msgstr ""
+
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:56
 msgid "Guard Captain"
 msgstr ""
@@ -2582,11 +2626,11 @@ msgstr ""
 msgid "none"
 msgstr ""
 
+#: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:45
+#: Sceptre_of_Fire/units/Dwarvish_Smith.cfg:26
+#: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:41
 #: Sceptre_of_Fire/units/Caravan.cfg:18 Sceptre_of_Fire/units/Caravan.cfg:43
 #: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:43
-#: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:45
-#: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:41
-#: Sceptre_of_Fire/units/Dwarvish_Smith.cfg:26
 msgid "impact"
 msgstr ""
 
@@ -2613,16 +2657,16 @@ msgid ""
 "he carves into his weapons and armor deflect the blows of his enemies."
 msgstr ""
 
-#: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:42
 #: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:44
-#: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:40
 #: Sceptre_of_Fire/units/Dwarvish_Smith.cfg:25
+#: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:40
+#: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:42
 msgid "hammer"
 msgstr ""
 
-#: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:44
 #: Sceptre_of_Fire/units/Dwarvish_Runemaster.cfg:46
 #: Sceptre_of_Fire/units/Dwarvish_Runesmith.cfg:42
+#: Sceptre_of_Fire/units/Dwarvish_Arcanister.cfg:44
 msgid "magical"
 msgstr ""
 
