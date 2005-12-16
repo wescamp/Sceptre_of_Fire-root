@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-11 20:44+0100\n"
-"PO-Revision-Date: 2005-11-07 20:07+0100\n"
+"PO-Revision-Date: 2005-12-13 21:25+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -78,9 +78,8 @@ msgid "Glildur"
 msgstr "Glildur"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:79
-#, fuzzy
 msgid "Transport 5 caravans full of silver back to the Dwarvish citadel"
-msgstr "För 4 silverkaravaner till dvärgarnas citadell"
+msgstr "För 5 silverkaravaner till dvärgarnas citadell"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:81
 msgid "Transport 4 caravans full of silver back to the Dwarvish citadel"
@@ -2540,9 +2539,8 @@ msgstr ""
 "även om de verkligen ville starta krig, vilket jag betvivlar."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:3
-#, fuzzy
 msgid "The Dragon"
-msgstr "Thursagan"
+msgstr "Draken"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:31
 msgid "Landar"
@@ -2784,20 +2782,16 @@ msgid "We have caught up to the dwarves. Now, prepare to destroy them!"
 msgstr "Vi hann ifatt dvärgarna. Nu, bered er på strid, mannar!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:361
-#, fuzzy
 msgid "Thursagan! The elves are right on our tail; what should we do?"
-msgstr ""
-"Så, Thursagan, vi har nått fram till grottorna, men alverna är i hälarna på "
-"oss. Vad gör vi nu?"
+msgstr "Thursagan! Alverna är i hälarna på oss. Vad skall vi göra?"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:366
-#, fuzzy
 msgid ""
 "We could try to set off the volcano as soon as possible. Meanwhile, we "
 "should draw the elves further into the caves, so they can't escape when it "
 "does erupt."
 msgstr ""
-"Vi måste försöka få igång vulkanen så snart som möjligt. Under tiden får vi "
+"Vi kan försöka få igång vulkanen så snart som möjligt. Under tiden får vi "
 "försöka locka alverna längre in i grottorna, så att de inte kommer undan när "
 "den får sitt utbrott."
 
@@ -3065,7 +3059,6 @@ msgstr ""
 "för att leta efter den. Men nedteckna i krönikorna att den existerar."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:246
-#, fuzzy
 msgid ""
 "Your advice seems good to me. I will take it. As for you, and the gryphon, "
 "you are free to go. Alanin, you've served in the army long enough to retire, "
@@ -3073,17 +3066,16 @@ msgid ""
 "village. You deserve a rest."
 msgstr ""
 "Ditt råd verkar gott, jag skall göra så. Vad gäller dig, och gripen, så är "
-"ni fria att gå. Alanin, du har tjänat i armén en lång tid, och även om det "
-"varit en kortare tid, så har du sett nog med strider. Återvänd till din by; "
-"jag hoppas att jag aldrig ser dig igen. Jag vill bara glömma allt det här "
-"med spiran fortast möjligt, och du skulle bara påminna mig om det hela."
+"ni fria att gå. Alanin, du har tjänat i armén länge nog för att dra dig "
+"tillbaka med heder, och även om du varit i armén en kortare tid så har du "
+"sett nog med strider. Så, gå. Återvänd till din by. Du har förtjänat din "
+"vila."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:251
 msgid "Very well, my lord."
 msgstr "Nåväl, ers majestät."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:255
-#, fuzzy
 msgid ""
 "The sceptre would not be found until many generations after Haldric II, in "
 "the time of Asheviere the Dark Queen. During that time, it sat in the caves "
