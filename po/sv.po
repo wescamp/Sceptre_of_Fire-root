@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-11 20:44+0100\n"
-"PO-Revision-Date: 2005-12-13 21:25+0100\n"
+"PO-Revision-Date: 2005-12-22 22:58+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:3
 msgid "A Bargain is Struck"
-msgstr ""
+msgstr "Ett avtal träffas"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:20
 msgid "Rugnur"
@@ -467,7 +467,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:3
 msgid "Closing the Gates"
-msgstr ""
+msgstr "Portarna stängs"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:32
 msgid "Glindur"
@@ -730,7 +730,7 @@ msgstr "Jag har aktiverat min runa."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:3
 msgid "In the Dwarven City"
-msgstr ""
+msgstr "I dvärgarnas stad"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:29
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:135
@@ -957,7 +957,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:3
 msgid "Searching for the Runecrafter"
-msgstr ""
+msgstr "Sökandet efter runmakaren"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:81
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:331
@@ -1219,7 +1219,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:3
 msgid "The Council Regathers"
-msgstr ""
+msgstr "Rådet samlas på nytt"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:103
 msgid "Lord Durstorn, we have succeeded in our mission. Thursagan is here."
@@ -1489,7 +1489,7 @@ msgstr "Jag har så mycket guld som jag kan bära..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:3
 msgid "The Jeweler"
-msgstr ""
+msgstr "Juveleraren"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:105
 msgid ""
@@ -1690,7 +1690,7 @@ msgstr "Ja, ers nåd... *suck*"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:3
 msgid "Hills of the Shorbear Clan"
-msgstr ""
+msgstr "Shorbear-klanens kullar"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:29
 msgid "Glonoin"
@@ -2137,7 +2137,7 @@ msgstr "*BUMP*"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:3
 msgid "Towards the Caves"
-msgstr ""
+msgstr "Mot grottorna"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:29
 msgid "Gaenlar"
@@ -2414,7 +2414,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:3
 msgid "Outriding the Outriders"
-msgstr ""
+msgstr "Förtrupperna"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:59
 msgid "Reach the Wesnothian outpost in the south"
@@ -2885,7 +2885,7 @@ msgstr "Hm... Ja' gå' nu!"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:3
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilog"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:56
 msgid "Guard Captain"
