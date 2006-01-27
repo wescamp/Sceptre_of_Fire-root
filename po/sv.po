@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-01-23 23:49+0100\n"
-"PO-Revision-Date: 2005-12-22 22:58+0100\n"
+"PO-Revision-Date: 2006-01-27 22:03+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1378,10 +1378,12 @@ msgid ""
 "Fine, you all go to the eastern mines. Me, I'll stay here. No point going "
 "where I can't help!"
 msgstr ""
+"Visst, ta ni allihop och få till de östra gruvorna. Jag stannar här. Ingen "
+"idé att bege sig dit där jag inte är till någon nytta!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:239
 msgid "M' 'u!"
-msgstr ""
+msgstr "Kwaaag me!"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:3
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:11
@@ -2213,13 +2215,12 @@ msgstr ""
 "alverna oss leva om vi dem ritningarna till spiran."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:204
-#, fuzzy
 msgid ""
 "Shut up, Rugnur! You don't know what you're talking about. I've analyzed the "
 "situation, and we're doomed. Our best hope is to surrender. Perhaps if we "
 "give the elves the plans for the sceptre they will let us survive."
 msgstr ""
-"Håll klaffen, Baglur! Du vet inte var du pratar om. Jag har analyserat "
+"Håll klaffen, Rugnur! Du vet inte var du pratar om. Jag har analyserat "
 "situationen, och vi är dömda. Vårt bästa hopp är att ge upp. Kanske låter "
 "alverna oss leva om vi dem ritningarna till spiran."
 
@@ -2752,12 +2753,11 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:263
 msgid "This sounds... attemptable."
-msgstr ""
+msgstr "Det låter...som en idé..."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:268
-#, fuzzy
 msgid "Yes, an interesting plan. How do you propose we do this?"
-msgstr "Intressant plan. Hur föreslår du att vi gör?"
+msgstr "Ja, en intressant plan. Hur föreslår du att vi gör?"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:273
 msgid ""
@@ -2833,9 +2833,8 @@ msgstr ""
 "på spiran. Men vad skall vi göra nu?!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:548
-#, fuzzy
 msgid "Now, we must fight the orcs until we die, its our only option."
-msgstr "Vår enda utväg är att slåss mot orcherna tills vi dör."
+msgstr "Nu är vår enda utväg att slåss mot orcherna tills vi dör."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:555
 msgid ""
@@ -3332,10 +3331,3 @@ msgstr "klor"
 #: Sceptre_of_Fire/units/Wolf.cfg:45
 msgid "blade"
 msgstr "hugg"
-
-#~ msgid ""
-#~ "Well then, lets go! To the eastern mines, eh? Hopefully this task will "
-#~ "not take so long as the previous one."
-#~ msgstr ""
-#~ "Nå, då ger vi oss av! Till de östra gruvorna, va? Förhoppningsvis kommer "
-#~ "inte detta ta lika lång tid."
