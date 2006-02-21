@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-02-19 14:46+0100\n"
-"PO-Revision-Date: 2006-01-27 22:03+0100\n"
+"PO-Revision-Date: 2006-02-21 02:41+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.2\n"
+"X-Generator: KBabel 1.11.1\n"
 
 #: Sceptre_of_Fire.cfg:9
 msgid "The Sceptre of Fire"
@@ -85,6 +85,10 @@ msgid ""
 "and the challenge he set, or that of Konrad, king of Wesnoth by virtue of "
 "the Sceptre."
 msgstr ""
+"Ja, Eldspiran. Spiran har en lång, ärofull och fruktansvärd historia. Men "
+"jag är inte här för att berätta om hur juvelen fördes över havet av Haldric "
+"den Store. Inte heller skall jag berätta om Garard I och hans utmaning, "
+"eller om Konrad, som blev kung över Wesnoth med spirans hjälp."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:78
 msgid ""
@@ -92,6 +96,9 @@ msgid ""
 "Dwarfdom. And of the dwarves who made it; for they were great, they were. "
 "They are counted among the greatest of the heroes of ancient Knalga."
 msgstr ""
+"Jag är här för att berätta om hur den kom till. Om dess skapande, djupt i "
+"dvärgarnas grottor. Och om de stora dvärgar som skapade den. De räknas bland "
+"de största av hjältar i det gamla Knalga."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:81
 msgid ""
@@ -99,6 +106,9 @@ msgid ""
 "with a young dwarf, named Rugnur, in charge of it. And with the second kind "
 "of Wesnoth, Haldric II, riding up the road with an army behind him..."
 msgstr ""
+"Vår historia börjar i en liten gränspost i Knalgas södra utlöpare, där en "
+"ung dvärg vid namn Rugnur för befälet. Och där Wesnoths andra kung, Haldric "
+"II, kommer uppför vägen med en armé bakom sig..."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:98
 msgid "Transport 5 caravans full of silver back to the Dwarvish citadel"
@@ -501,6 +511,8 @@ msgid ""
 "Next in our story, Rugnur retreated into the caves of Knalga.  But the elves "
 "pressed on, and would enter the caves shortly."
 msgstr ""
+"Rugnur vänder nu åter in i Knalgas grottor. Men alverna gav inte upp, utan "
+"följde efter."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:67
 msgid ""
@@ -760,12 +772,16 @@ msgid ""
 "Now, I must tell you of another character in our drama. Durstorn, the lord "
 "of Dwarfdom. Or at least of this clan."
 msgstr ""
+"Nu måste jag berätta om en annan av våra huvudpersoner. Durstorn, furste "
+"över Dvärgarnas rike. Eller åtminstone över sin klan."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:41
 msgid ""
 "Durstorn was not happy this day. Nor was he usually; but today he was "
 "unhappier than usual."
 msgstr ""
+"Durstorn var inte vid gott lynne denna dag. Det var han sällan, men idag var "
+"det värre än vanligt."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:60
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:59
@@ -993,6 +1009,9 @@ msgid ""
 "in their life means less to them. But it is still a great deal of time; and "
 "they did have one man with them."
 msgstr ""
+"Dvärgar lever längre än människor, och så kan man kanske tänka sig att ett "
+"år betyder mindre för dem. Dock är det en lång tidsrymd, och de hade ju en "
+"människa med sig."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:39
 msgid ""
@@ -1001,6 +1020,10 @@ msgid ""
 "or worse. Nevertheless, they did reach the northlands, and began to search "
 "for the runesmith named Thursagan - the sage of fire."
 msgstr ""
+"Ändå tog det dem ett år att nå fram till de fjärran ödemarkerna i norr. För "
+"tunnlarna dit var mörka och förrädiska, och de gick inte fria för orcher, "
+"eller än värre varelser. De nådde i alla fall fram till nordländerna, och "
+"började sitt sökande efter runsmeden vid namn Thursagan - eldens vise man."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:100
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:346
@@ -1268,6 +1291,9 @@ msgid ""
 "them so long. So they quickl returned to the dwarven city, with two new "
 "members of their party - one expected, and one not."
 msgstr ""
+"Vägen tillbaka var mindre svår än den varit ett år tidigare. Det tog dem "
+"inte så lång tid. De återvände snabbt till dvärgastaden, med två nya "
+"medlemmar i sin grupp - en var väntad, en var det inte."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:119
 msgid "Lord Durstorn, we have succeeded in our mission. Thursagan is here."
@@ -1456,6 +1482,9 @@ msgid ""
 "with trolls and other vile creatures, who thrived in the dark and gloom of "
 "the caves."
 msgstr ""
+"De som gick in i de västra grottorna var sannerligen modiga. Tunnlarna där "
+"kryllade av troll och andra vidriga varelser, som trivdes i mörkret i "
+"grottorna."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:23
 msgid ""
@@ -1464,6 +1493,10 @@ msgid ""
 "most part avoid the enemy. They only once had to venture into the very heart "
 "of the troll's territory."
 msgstr ""
+"Än modigare var Rugnur och hans följeslagare, som måste tillbringa två år i "
+"grottorna. Gruvdrift är ett långsamt hantverk. Men de kunde för det mesta "
+"undvika fienden. Endast vid ett tillfälle behövde de tränga in i hjärtat av "
+"trollens territorium."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:45
 msgid "Gather the necessary gold and coal to create the sceptre"
@@ -1565,6 +1598,10 @@ msgid ""
 "were others - many others. Thus I present Theganli, the jeweler. His role is "
 "small, but an important one."
 msgstr ""
+"Rugnur och hans följeslagare återvände hem. Nu vill jag inte ge sken av att "
+"det bara var Rugnur och Thursagan som arbetade på detta mästerverk. Det var "
+"andra också - många andra. Får jag presentera Theganli, juveleraren. Hans "
+"roll är liten, men viktig."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:118
 msgid ""
@@ -1778,6 +1815,9 @@ msgid ""
 "were no exception. They were crafters of crafters - they made tools. The "
 "best in the land. And they bartered well."
 msgstr ""
+"Dvärgar är kända för sin kärlek till guldet och sitt hjärta av sten. "
+"Shorbear-klanen var inget undantag. De var hantverkarnas hantverkare - de "
+"gjorde verktyg. De bästa som fanns. Och de köpslog väl."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:109
 msgid "Defeat dwarvish leader"
@@ -2239,6 +2279,8 @@ msgid ""
 "Durstorn's rash action led to many problems. Not the least of which was "
 "being surround by elves."
 msgstr ""
+"Durstorns oöverlagda handlingar ledde till många problem. Inte minst att bli "
+"omringad av alver."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:110
 msgid ""
@@ -2253,7 +2295,6 @@ msgstr ""
 "för de magiska dvärgaportarna var stängda."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:113
-#, fuzzy
 msgid ""
 "During this time, Thursagan crafted the Sceptre of Fire, first cutting the "
 "jewel, then putting it, the gold and the cold steel into the heat of the "
@@ -2263,9 +2304,8 @@ msgid ""
 msgstr ""
 "Under denna tid smidde Thursagan Eldspiran. Han slipade först juvelen, sedan "
 "lade han den tillsammans med guldet och det kalla stålet i ässjans heta eld. "
-"Eldspiran var klar, men det var något som inte stod rätt till. Vilka runor "
-"han än lade på spiran, så uppfyllde den inte sitt ursprungliga syfte. Han "
-"antog att det berodde på att ässjan inte var het nog, men han var inte säker."
+"Eldspiran smiddes, men det var något som inte stod rätt till. Vilka runor "
+"han än lade på spiran, så uppfyllde den inte sitt ursprungliga syfte."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:130
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:363
@@ -2521,12 +2561,16 @@ msgid ""
 "Rugnur had fled to the caves, but Alanin could not do that. He went south - "
 "back to the Wesnoth border."
 msgstr ""
+"Rugnur hade flytt in i grottorna, men Alanin kunde inte göra det. Han "
+"färdades söderut - tillbaka till Wesnoths gräns."
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:59
 msgid ""
 "The elves followed both of them. First I will tell of their persuit of "
 "Alanin, before we descent into the caves to learn Rugnur's fate."
 msgstr ""
+"Alverna förföljde båda två. Innan vi följer med ner i grottorna för att höra "
+"om Rugnurs öde, så skall vi se vad som hände med Alanin."
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:76
 msgid "Reach the Wesnothian outpost in the south"
@@ -2669,6 +2713,9 @@ msgid ""
 "to haunt them. For unknown to them, they had entered the caves of "
 "Khrakhrahs... the dragon."
 msgstr ""
+"Så flydde Alanin från sina förföljare. Men dvärgarna hade inte en sådan tur. "
+"Man kan kanske säga att deras svek mot Durstorn förföljde dem. De hade utan "
+"att veta det trätt in i Khrakhrahs grottor... Draken."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:84
 msgid "Get all heroes to the end of the tunnel"
@@ -2843,12 +2890,15 @@ msgid ""
 "caves there... none that were accessible, anyway. The roof was open, but "
 "there was no way to reach it."
 msgstr ""
+"Det fanns ingen väg ut ur Knalgas tunnlar. De hade nått orchernas grottor, "
+"och alverna var dem i hälarna. Och det fanns ingen annan väg ut. I alla fall "
+"ingen som de kunde nå. Taket var öppet, men dit nådde de inte."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:133
 msgid ""
 "So the dwarves had no way out. They could not leave the caverns that they "
 "had entered."
-msgstr ""
+msgstr "Så dvärgarna hade ingen väg ut. De kunde inte komma ut igen."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:152
 msgid "Explore as much of the cave as possible"
