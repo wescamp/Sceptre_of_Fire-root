@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-02-19 14:46+0100\n"
+"POT-Creation-Date: 2006-02-22 12:30+0100\n"
 "PO-Revision-Date: 2005-08-29 15:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2382,9 +2382,8 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:130
 msgid ""
 "There was no exit from the caverns of Knalga. They had reached the realms of "
-"the orcs, with the elves hot on their trail. And there was no exit from the "
-"caves there... none that were accessible, anyway. The roof was open, but "
-"there was no way to reach it."
+"the orcs, with the elves hot on their trail. And there was no exit from "
+"those caves."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:133
@@ -2546,76 +2545,95 @@ msgstr ""
 msgid "Epilogue"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:74
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:38
+msgid ""
+"And thus Rugnur died, a glorious death, in the eyes of the dwarven sages. "
+"But our tale is not yet complete. For Alanin lived still, as did Krawg the "
+"Gryphon."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:41
+msgid ""
+"Alanin traveled south, to Wesnoth, to Haldric II. To report the events of "
+"the past fifteen years."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:44
+msgid ""
+"And Krawg - well, Krawg followed him. I know not how. But Krawg made his way "
+"south, to Weldyn, and reached it about the time that Alanin did."
+msgstr ""
+
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:83
 msgid "Guard Captain"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:91
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:100
 msgid "Gatekeeper"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:107
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:116
 msgid "Halt! What is your business in Weldyn, capital of Wesnoth?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:111
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:120
 msgid ""
 "Stand aside. I am Alanin, of Haldric's royal guard, and I bring news from "
 "the northlands."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:115
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:124
 msgid "Very well. You may pass."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:120
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:129
 msgid ""
 "I hear you desire to speak to the king, Alanin. What do you have to tell him?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:124
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:133
 msgid ""
 "I bring tidings of the Sceptre of Fire, comissioned fifteen years ago by our "
 "king. I have been away for a long time, do not delay me even more."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:128
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:137
 msgid "Enter, Alanin, and give the king your message."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:154
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:163
 msgid ""
 "My King, fifteen years ago you sent me on a mission into the northlands. I "
 "have returned. What do you wish to know of my mission?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:158
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:167
 msgid "Well, was the Sceptre completed? Do you have it? Give it to me!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:162
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:171
 msgid ""
 "I believe it was completed, but, I do not have it. It is buried deep in the "
 "mountains of the Northlands."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:166
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:175
 msgid ""
 "Why? Why was it not returned to me? Have the dwarves reneged on their "
 "promise, and kept it?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:170
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:179
 msgid ""
 "My Lord, the dwarves are dead, slain by fire and smoke as lava poured out of "
 "one of the mountains. I saw the eruption from afar as I was returning to you."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:174
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:183
 msgid "Why were you returning without the sceptre, then?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:178
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:187
 msgid ""
 "We had been besieged by elves, in a dwarvish castle that was not Rugnur's. "
 "The sceptre could not be completed there, but it could in a cave that lay to "
@@ -2624,59 +2642,59 @@ msgid ""
 "were immediately followed by hundreds of elves."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:182
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:191
 msgid ""
 "If the sceptre was not completed in your sight, what makes you so sure it "
 "exists?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:186
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:195
 msgid "I will let Krawg explain that."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:190
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:199
 msgid "Who?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:212
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:221
 msgid ""
 "My lord, a gryphon has just flew over our walls! It may be a sign of an "
 "attack!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:216
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:225
 msgid ""
 "No, that is my... friend Krawg. He went with Rugnur into the caves, but "
 "escaped through a hole in the roof right before the lava filled the cave."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:221
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:230
 msgid "Ya, ya! Meh seah za zeptahur. Hrugnaar ha ee. Lozeet enda caav."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:225
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:234
 msgid "What the devil is he saying?"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:229
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:238
 msgid ""
 "He says that he has seen the Sceptre. Rugnur had it, but he lost it in the "
 "caves. He came to tell you, so that you would know that the dwarves did "
 "fulfill their promise."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:234
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:243
 msgid "Kreeeeya! Darat! Nomiduun. Bah."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:238
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:247
 msgid ""
 "I see. Well... what do you want me to do now? The sceptre is made, yes, but "
 "I don't know where it is, the makers are dead, and orcs have probably "
 "already found it and hid it somewhere else."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:242
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:251
 msgid ""
 "I do not know. I only bring the news, I did not cause it, nor do I fully "
 "understand its implications. But, my advice would be to do nothing. I "
@@ -2684,7 +2702,7 @@ msgid ""
 "it. But record in the history books that the sceptre does exist."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:246
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:255
 msgid ""
 "Your advice seems good to me. I will take it. As for you, and the gryphon, "
 "you are free to go. Alanin, you've served in the army long enough to retire, "
@@ -2692,11 +2710,11 @@ msgid ""
 "village. You deserve a rest."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:250
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:259
 msgid "Very well, my lord."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:254
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:263
 msgid ""
 "The sceptre would not be found until many generations after Haldric II, in "
 "the time of Asheviere the Dark Queen. During that time, it sat in the caves "
@@ -2704,7 +2722,7 @@ msgid ""
 "understood its true power."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/Epilogue.cfg:258
+#: Sceptre_of_Fire/scenarios/Epilogue.cfg:267
 msgid ""
 "But before it was found, legends grew up around it, and around its makers - "
 "Thursagan, most brilliant of the Dwarven Sages, and Rugnur, the greatest of "
