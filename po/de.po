@@ -1323,7 +1323,6 @@ msgid "The Council Regathers"
 msgstr "Die Ratsversammlung"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:38
-#, fuzzy
 msgid ""
 "The path back was less dangerous than it was a year earlier. It did not take "
 "them so long. So they quickly returned to the dwarven city, with two new "
