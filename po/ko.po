@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-06-26 23:47+0200\n"
+"POT-Creation-Date: 2006-09-17 22:25+0200\n"
 "PO-Revision-Date: 2006-03-12 18:39+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -85,7 +85,7 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:81
 msgid ""
 "Our story begins in a small border outpost in the southern hills of Knalga, "
-"with a young dwarf, named Rugnur, in charge of it. And with the second kind "
+"with a young dwarf, named Rugnur, in charge of it. And with the second king "
 "of Wesnoth, Haldric II, riding up the road with an army behind him..."
 msgstr ""
 
@@ -351,60 +351,56 @@ msgid ""
 "men, I would advise you to follow it, but not doing so is your choice."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:397
-msgid "Caravan loaded. Time to go the the dwarvish citadel."
-msgstr ""
-
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:425
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:393
 msgid ""
 "Here's the stone, for you dwarves! Now, if you'll excuse me, I think I'll be "
 "taking refuge in this castle here... I don't much like fighting."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:451
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:419
 msgid "All the gold is there too. Proceed with the task, Rugnur!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:489
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:457
 msgid "Cargo unloaded."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:499
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:467
 msgid "You only need $incominggold more, then you can begin work."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:505
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:473
 msgid ""
 "You only need $incominggold more, and the stone, then you can begin work."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:519
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:487
 msgid "That's the last caravan! We will commence work immediately."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:533
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:501
 msgid "We have all of the silver, now all we need is the stone."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:562
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:530
 msgid ""
 "Ha! Our reinforcements have arrived. There is no way you can withstand our "
 "combined strength!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:566
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:534
 msgid ""
 "We cannot match you above ground, but in the caves we may still defeat you."
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:578
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:546
 msgid ""
 "Elvish reinforcements! Where did these come from? I thought the elvish "
 "resistance to the treaty was smaller than this. Hurry up and move those "
 "caravans!"
 msgstr ""
 
-#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:590
+#: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:558
 msgid ""
 "You just let a caravan, with MY money loaded in it, get captured! If I can't "
 "trust you to keep my property secure, the deal's off."
@@ -519,7 +515,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:253
 msgid ""
-"Agh, well that's the difficulty. Its a magic gate. Indestructable. But that "
+"Agh, well that's the difficulty. Its a magic gate. Indestructible. But that "
 "means it can only be closed by magic. You need to position a warrior on each "
 "of the six glyphs. When all are occupied, the gates will close. Then the "
 "elves will be shut out of the caves forever, at least through this entrance."
@@ -761,7 +757,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:174
 msgid ""
-"What?!? You already accepted? Foolish boy, you should have came for one of "
+"What?!? You already accepted? Foolish boy, you should have come for one of "
 "the elders! We could have gotten much more than ten thousand silver out of "
 "him! This is a task that will take many years, and now all of our work in "
 "that time will bring us very little gain."
@@ -781,8 +777,8 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:186
 msgid ""
-"Well, since this boy bargained so badly, why not make him fufill the "
-"contract himself? If he fails, its on his head."
+"Well, since this boy bargained so badly, why not make him fulfil the "
+"contract himself? If he fails, it's on his head."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:190
@@ -914,7 +910,7 @@ msgid "Kwes! Yooo spakkk wit uuus nuu?"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:321
-msgid "Its talking to us! What do you want, gryphon?"
+msgid "It's talking to us! What do you want, gryphon?"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:325
@@ -1127,8 +1123,8 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:159
 msgid ""
-"Uh, technically its Haldric's, and I think that if Thursagan needs to see to "
-"plan this sceptre, he can."
+"Uh, technically it's Haldric's, and I think that if Thursagan needs to see "
+"to plan this sceptre, he can."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:163
@@ -1237,7 +1233,7 @@ msgid ""
 "And braver still were Rugnur and his companions, who had to spend two years "
 "in those tunnels. For mining is a lengthy business. But they could for the "
 "most part avoid the enemy. They only once had to venture into the very heart "
-"of the troll's territory."
+"of the trolls' territory."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:45
@@ -1890,12 +1886,12 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:107
 msgid ""
 "Durstorn's rash action led to many problems. Not the least of which was "
-"being surround by elves."
+"being surrounded by elves."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:110
 msgid ""
-"The dwarves spent several years trapped in those caves, the elves seiging "
+"The dwarves spent several years trapped in those caves, the elves besieging "
 "them. The dwarves could not leave, for there were far too many elves, and "
 "there was no way out of the caverns other than above ground. But the elves "
 "could not enter, for the magical dwarven gates were closed."
@@ -1906,7 +1902,7 @@ msgid ""
 "During this time, Thursagan crafted the Sceptre of Fire, first cutting the "
 "jewel, then putting it, the gold and the cold steel into the heat of the "
 "flame. The sceptre was crafted, but something was not right. No matter what "
-"enchantment of runes he put on the sceptre, it did not fufill its original "
+"enchantment of runes he put on the sceptre, it did not fulfil its original "
 "purpose."
 msgstr ""
 
@@ -1930,7 +1926,7 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:185
 msgid ""
 "All this time and he couldn't make it? Fine, we should try to leave... but "
-"its not like we could leave if we wanted to. We're surrounded!"
+"it's not like we could leave if we wanted to. We're surrounded!"
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:194
@@ -1954,7 +1950,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:214
 msgid ""
-"Yes, of course, lets just all be cowards! What happened to your honor, "
+"Yes, of course, let's just all be cowards! What happened to your honor, "
 "Durstorn?!"
 msgstr ""
 
@@ -1968,7 +1964,7 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:222
 msgid ""
 "You don't have authority over me, Durstorn. And I wouldn't give the sceptre "
-"to them even if you did. Its not yours to give, its mine, and Rugnur's, and "
+"to them even if you did. It's not yours to give, its mine, and Rugnur's, and "
 "Baglur's. Krawg's done more for its existence than you have! And yet, you "
 "still get the profits from selling it to Haldric."
 msgstr ""
@@ -2067,7 +2063,7 @@ msgid "I suppose..."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:313
-msgid "Come out, dwarves, and surrender! Or die in that cave, you're choice."
+msgid "Come out, dwarves, and surrender! Or die in that cave, your choice."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:347
@@ -2237,7 +2233,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:67
 msgid ""
-"Thus Alanin escaped from his Elvish persuers. But the dwarves were not so "
+"Thus Alanin escaped from his Elvish pursuers. But the dwarves were not so "
 "lucky. I would say that, perhaps, their betrayal of Durstorn was coming back "
 "to haunt them. For unknown to them, they had entered the caves of "
 "Khrakhrahs... the dragon."
@@ -2270,12 +2266,12 @@ msgstr ""
 msgid ""
 "If we give them the ruby, then what? They'll probably kill us anyway. And, "
 "that ruby has the power to do great things, evil things. We can't let it "
-"fall in the wrong hands."
+"fall into the wrong hands."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:204
 msgid ""
-"So we're running away, eh? I don't like that, but it seems its our only "
+"So we're running away, eh? I don't like that, but it seems it's our only "
 "option."
 msgstr ""
 
@@ -2339,7 +2335,7 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:313
 msgid ""
 "This forge will work perfectly. Give me a few days here, and I can reforge "
-"the sceptre to fulfill its purpose."
+"the sceptre to fulfil its purpose."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:322
@@ -2493,7 +2489,7 @@ msgid ""
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:561
-msgid "Now, we must fight the orcs until we die, its our only option."
+msgid "Now, we must fight the orcs until we die, it's our only option."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:567
@@ -2594,8 +2590,8 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:133
 msgid ""
-"I bring tidings of the Sceptre of Fire, comissioned fifteen years ago by our "
-"king. I have been away for a long time, do not delay me even more."
+"I bring tidings of the Sceptre of Fire, commissioned fifteen years ago by "
+"our king. I have been away for a long time, do not delay me even more."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:137
@@ -2638,7 +2634,7 @@ msgstr ""
 msgid ""
 "We had been besieged by elves, in a dwarvish castle that was not Rugnur's. "
 "The sceptre could not be completed there, but it could in a cave that lay to "
-"the northeast of it. Rugnur sent my back, with the message that it had been "
+"the northeast of it. Rugnur sent me back, with the message that it had been "
 "completed, but he and all the rest of the dwarves went into the caves, and "
 "were immediately followed by hundreds of elves."
 msgstr ""
@@ -2659,7 +2655,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:221
 msgid ""
-"My lord, a gryphon has just flew over our walls! It may be a sign of an "
+"My lord, a gryphon has just flown over our walls! It may be a sign of an "
 "attack!"
 msgstr ""
 
@@ -2681,7 +2677,7 @@ msgstr ""
 msgid ""
 "He says that he has seen the Sceptre. Rugnur had it, but he lost it in the "
 "caves. He came to tell you, so that you would know that the dwarves did "
-"fulfill their promise."
+"fulfil their promise."
 msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:243
