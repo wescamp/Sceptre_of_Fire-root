@@ -17,7 +17,7 @@ msgstr "Lo scettro di fuoco"
 
 #: Sceptre_of_Fire.cfg:13
 msgid "Fighter"
-msgstr "Nano Combattente"
+msgstr "Nano combattente"
 
 #: Sceptre_of_Fire.cfg:13
 msgid "(easiest)"
@@ -25,7 +25,7 @@ msgstr "(facile)"
 
 #: Sceptre_of_Fire.cfg:14
 msgid "Steelclad"
-msgstr "Nano D'acciaio"
+msgstr "Nano d'acciaio"
 
 #: Sceptre_of_Fire.cfg:15
 msgid "(hardest)"
@@ -130,7 +130,7 @@ msgstr "Morte di Haldric II"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:117
 msgid "Capture (death) of a loaded caravan"
-msgstr "Cattura (morte) di una carovana d'argento"
+msgstr "Cattura (morte) di una carovana carica"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:121
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:100
@@ -177,8 +177,7 @@ msgstr "Avete sentito parlare del rubino di fuoco?"
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:211
 msgid "Yes... your first king brought it from over the sea, right? You own it."
-msgstr ""
-"Si, il vostro primo re l'ha portato con se dal mare, giusto? E' vostro."
+msgstr "Si, il vostro primo re l'ha portato con se dal mare, giusto? È vostro."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:215
 msgid "Correct. However, we have a problem with it."
@@ -212,7 +211,7 @@ msgid ""
 msgstr ""
 "Quando gli elfi vennero a Weldyn, circa dieci anni fa, essi parlarono di un "
 "mago chiamato Crelanu, e dei suoi consigli circa il rubino. Egli disse che "
-"le emanazioni del rubino possono essere contenute, e che facendo cio' "
+"le emanazioni del rubino possono essere contenute, e che facendo ciò "
 "l'effetto della pietra sarebbe annullato."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:235
@@ -252,7 +251,7 @@ msgid ""
 "They would refuse to come. You must come into the caves, and go to the city "
 "in person, or send a representative."
 msgstr ""
-"Loro non verranno. Siete voi che dovete venire nelle caverne, ed entrare "
+"Loro non verranno. Siete voi che dovete venire nelle caverne ed entrare "
 "nella nostra città di persona, oppure potete mandare un rappresentante."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:255
@@ -296,7 +295,7 @@ msgstr "Non accetterò nessuna offerta sotto i quindicimila!"
 msgid ""
 "Then no deal. I'll gather my things and go to another dwarvish clan now."
 msgstr ""
-"Allora non se ne fa niente. Raccoglierò le mie cose ed andrò a trovare "
+"Allora non se ne fa niente. Raccoglierò le mie cose e andrò a trovare "
 "qualche altro clan disposto a lavorare per me."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:283
@@ -535,11 +534,11 @@ msgid ""
 msgstr ""
 "Vedo che avete mandato un messaggero in città. Buona idea, ma vi sarà di "
 "aiuto? Abbiamo più truppe e più rifornimenti di voi. Nulla ci fermerà "
-"dall'entrare nelle caverne ed ucciderti!"
+"dall'entrare nelle caverne e ucciderti!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:181
 msgid "*gulp*"
-msgstr "*gulp*"
+msgstr "(gulp)"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:185
 msgid "Ha! I thought as much. Well then, surrender!"
@@ -562,7 +561,7 @@ msgstr "Baglur"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:60
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:61
 msgid "loyal,resilient"
-msgstr "Leale, Resistente"
+msgstr "leale, resistente"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:233
 msgid ""
@@ -584,15 +583,15 @@ msgstr ""
 "Argh! Ero un guerriero in passato... Sembra che dovrò tornare a combattere "
 "per aiutarti, o verremo sopraffatti dai dannati elfi... Argh e doppio Argh! "
 "Bene, ascolta quì. Questa entrata alla città può essere chiusa. C'è un "
-"cancello. Se riusciamo a chiuderlo gli elfi non riusciranno ad entrare. E "
-"voi elfi: Andate al diavolo!"
+"cancello. Se riusciamo a chiuderlo gli elfi non riusciranno a entrare. E voi "
+"elfi: Andate al diavolo!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:245
 msgid ""
 "Cease your meddling, old dwarf! Rugnur is in charge here, and it is he who "
 "will bargain with us."
 msgstr ""
-"Smettila di blaterare, vecchio nano! E' Rugnus il capo qui, ed è lui che "
+"Smettila di blaterare, vecchio nano! È Rugnus il capo qui, ed è lui che "
 "tratterà con noi."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:249
@@ -600,17 +599,16 @@ msgid "Baglur, how do you close the gates?"
 msgstr "Baglur, come si chiudono i cancelli?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:253
-#, fuzzy
 msgid ""
 "Agh, well that's the difficulty. Its a magic gate. Indestructible. But that "
 "means it can only be closed by magic. You need to position a warrior on each "
 "of the six glyphs. When all are occupied, the gates will close. Then the "
 "elves will be shut out of the caves forever, at least through this entrance."
 msgstr ""
-"Argh, ecco la parte complicata. E' un cancello magico. Indistruttibile. "
+"Argh, ecco la parte complicata. È un cancello magico. Indistruttibile. "
 "Purtroppo questo significa che esso può essere chiuso solo con l'ausilio "
 "della magia. Devi posizionare un guerriero in ognuno dei sei glifi. Quando "
-"tutti e sei saranno occupati, il cancello si chiuderà, e gli elfi saranno "
+"tutti e sei saranno occupati, il cancello si chiuderà e gli elfi saranno "
 "chiusi fuori per sempre, almeno da questa entrata."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:257
@@ -652,7 +650,7 @@ msgid ""
 "Dwarf-made stonecraft. We refuse - now let's close these gates!"
 msgstr ""
 "Puoi essere più potente di noi, ma dubito che tu riesca a passare attraverso "
-"una fortificazione costruita dai nani! Rifiutiamo la tua proposta - ed ora "
+"una fortificazione costruita dai nani! Rifiutiamo la tua proposta - e ora "
 "chiudiamo questi cancelli!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:313
@@ -661,7 +659,7 @@ msgid ""
 "But what about this entrance? The elves can come through it just as easily "
 "as the main gate, and it cannot be closed!"
 msgstr ""
-"Cosa facciamo riguardo  a questa entrata? Gli elfi possono entrare da questo "
+"Cosa facciamo riguardo a questa entrata? Gli elfi possono entrare da questo "
 "passaggio allo stesso modo del cancello principale, e non può essere chiuso!"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:317
@@ -682,7 +680,7 @@ msgid ""
 "Just watch. The gates will close very soon. Then the elves outside - and, "
 "unfortunately, our dwarves who are still out there - will become irrelevant."
 msgstr ""
-"Aspetta e guarda. I cancelli si chiuderanno molto presto, ed allora gli elfi "
+"Aspetta e guarda. I cancelli si chiuderanno molto presto, e allora gli elfi "
 "che si trovano fuori - e, sfortunatamente, i nostri nani ancora li - "
 "diventeranno irrilevanti."
 
@@ -701,7 +699,7 @@ msgid ""
 "If that is what you choose to do, fine, but be prepared to wait for many "
 "years."
 msgstr ""
-"Se è quello che hai scelto di fare, fallo,  ma sii preparato ad aspettare "
+"Se è quello che hai scelto di fare, fallo, ma sii preparato ad aspettare "
 "molti, molti anni."
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:439
@@ -776,7 +774,7 @@ msgstr "Gilnar"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:72
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:73
 msgid "loyal,quick"
-msgstr "Leale, Veloce"
+msgstr "leale, veloce"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:87
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:154
@@ -789,7 +787,7 @@ msgstr "Noiraran"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:84
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:85
 msgid "loyal,intelligent"
-msgstr "Leale, Intelligente"
+msgstr "leale, intelligente"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:99
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:165
@@ -802,15 +800,15 @@ msgstr "Kuhnar"
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:96
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:97
 msgid "loyal,strong"
-msgstr "Leale, Forte"
+msgstr "leale, forte"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:113
 msgid ""
 "Where's that fool Rugnur gotten to? It's time for him to report on events in "
 "the surface world. He's late!"
 msgstr ""
-"Dov'è finito quello stupido di Rugnur? E' tempo di fare rapporto sugli "
-"eventi nel mondo di superficie. E' in ritardo!"
+"Dov'è finito quello stupido di Rugnur? È tempo di fare rapporto sugli eventi "
+"nel mondo di superficie. È in ritardo!"
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:117
 msgid "Perhaps the outpost was held up?"
@@ -872,8 +870,8 @@ msgid ""
 "magic, or something like that. We closed the doors because elves were "
 "attacking us."
 msgstr ""
-"Voleva fare un affare con noi. Ci ha dato una pietra magica, chiamata 'Il "
-"rubino di fuoco', e ci ha detto di fare uno scettro che contenga le "
+"Voleva fare un affare con noi. Ci ha dato una pietra magica, chiamata «il "
+"rubino di fuoco» e ci ha detto di fare uno scettro che contenga le "
 "emanazioni magiche negative, o qualcosa del genere. Abbiamo chiuso il "
 "cancello perchè gli elfi ci stavano attaccando."
 
@@ -891,7 +889,6 @@ msgstr ""
 "concluderlo prima che muoia."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:174
-#, fuzzy
 msgid ""
 "What?!? You already accepted? Foolish boy, you should have come for one of "
 "the elders! We could have gotten much more than ten thousand silver out of "
@@ -899,9 +896,9 @@ msgid ""
 "that time will bring us very little gain."
 msgstr ""
 "Cosa?! Hai già accettato? Stupido ragazzo, dovevi venire a chiedere "
-"consiglio ad uno degli anziani! Avremmo potuto guadagnarci molto più che "
-"diecimila pezzi d'argento! Questo compito richiederà parecchi anni, e tutto "
-"il nostro lavoro in questo periodo di tempo ci porterà  pochissimo guadagno."
+"consiglio a uno degli anziani! Avremmo potuto guadagnarci molto più che "
+"diecimila pezzi d'argento! Questo compito richiederà parecchi anni e tutto "
+"il nostro lavoro in questo periodo di tempo ci porterà pochissimo guadagno."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:178
 msgid "Sorry, lord, but he said he would move on to another tribe if I left."
@@ -922,13 +919,12 @@ msgstr ""
 "lavorare per meno di quanto avrei voluto..."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:186
-#, fuzzy
 msgid ""
 "Well, since this boy bargained so badly, why not make him fulfil the "
 "contract himself? If he fails, it's on his head."
 msgstr ""
 "Hmmm, dato che il ragazzo ha contrattato così male, perchè non far "
-"rispettare a lui il contratto? Se fallisce sarà colpa sua."
+"rispettare a lui il contratto? Se fallisce, sarà colpa sua."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:190
 msgid ""
@@ -949,8 +945,8 @@ msgid ""
 "years of his life on this task."
 msgstr ""
 "Si. Egli è l'unico che conosco in grado di forgiare lo scettro secondo le "
-"direttive di Haldric. Ed in più non ha nulla da fare, sarà felice di "
-"sprecare 25 anni della sua vita in questo compito."
+"direttive di Haldric. E in più non ha nulla da fare, sarà felice di sprecare "
+"25 anni della sua vita in questo compito."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:202
 msgid ""
@@ -966,7 +962,7 @@ msgid ""
 "somewhere in those hills."
 msgstr ""
 "Vai nell'entrata più a nord dalla caverna principale, e poi continua a nord. "
-"E' da qualche parte in quelle colline."
+"È da qualche parte in quelle colline."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:231
 msgid "What did I miss, eh?"
@@ -1049,7 +1045,7 @@ msgid ""
 "Except for trolls and ogres, right? They live in the far northlands. They're "
 "probably lurking around here somewhere."
 msgstr ""
-"Nessun altro... a parte Troll ed ogre, giusto? Ho sentito dire che ne vivono "
+"Nessun altro... a parte troll e ogre, giusto? Ho sentito dire che ne vivono "
 "moltissimi nell'estremo nord. Probabilmente sono in agguato da qualche parte."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:177
@@ -1070,14 +1066,13 @@ msgstr "Aah! Cos'è quello?!?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:313
 msgid "Is that... is that a gryphon?"
-msgstr "E'... è un grifone?"
+msgstr "È... è un grifone?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:317
 msgid "Kwes! Yooo spakkk wit uuus nuu?"
 msgstr "Ksssì! thuuuu parrrrla kkkoon nooiii nooo?!?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:321
-#, fuzzy
 msgid "It's talking to us! What do you want, gryphon?"
 msgstr "Sta parlando con noi! Cosa vuoi, grifone?"
 
@@ -1195,7 +1190,7 @@ msgid ""
 "artifact ever seen. Even an untrained hand can use it to cast fiery bolts as "
 "powerful as those of arch mages."
 msgstr ""
-"E' una gemma di Wesnoth, ma è probabilmente anche il più potente artefatto "
+"È una gemma di Wesnoth, ma è probabilmente anche il più potente artefatto "
 "magico mai creato. Anche qualcuno privo di allenamento può usarlo per "
 "scatenare una furia di fuoco contro i propri nemici, potente tanto quella "
 "dei più rinomati arcimaghi."
@@ -1206,7 +1201,7 @@ msgstr "Oh, davvero? Ed Haldric cosa vorrebbe farne?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:476
 msgid "Contain and intensify its power."
-msgstr "Vuole che conteniamo ed intensifichiamo il suo potere."
+msgstr "Vuole che conteniamo e intensifichiamo il suo potere."
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:480
 msgid ""
@@ -1321,17 +1316,16 @@ msgid "The ruby is mine, and don't touch it!"
 msgstr "Il rubino è mio, non toccarlo!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:159
-#, fuzzy
 msgid ""
 "Uh, technically it's Haldric's, and I think that if Thursagan needs to see "
 "to plan this sceptre, he can."
 msgstr ""
-"Uh, a dire il vero è di Haldric, e penso che se Thursagan ha bisogno di "
-"vedere il rubino per pianificare lo scettro, allora dovremmo concederglielo."
+"Uh, a dire il vero è di Haldric e penso che se Thursagan ha bisogno di "
+"vedere il rubino per progettare lo scettro, allora dovremmo concederglielo."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:163
 msgid "Fine. *grumble grumble*"
-msgstr "D'accordo. *sgrunt sgrunt*"
+msgstr "D'accordo. (sgrunt sgrunt)"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:168
 msgid ""
@@ -1371,8 +1365,8 @@ msgid ""
 "Just use my gold and coal, I have enough! Or, if they're not 'good enough' "
 "for you, find them yourself."
 msgstr ""
-"Puoi semplicemente usare il mio oro ed il mio carbone, ne ho in quantità! O, "
-"se non sono 'buoni abbastanza' per te, trovateli da solo."
+"Puoi semplicemente usare il mio oro e il mio carbone, ne ho in quantità! O, "
+"se non sono «buoni abbastanza» per te, trovateli da solo."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:193
 msgid ""
@@ -1390,8 +1384,8 @@ msgid ""
 "the finest smithing materials."
 msgstr ""
 "Aspetta, aspetta. Oro e carbone... Penso potremmo trovare questi materiali "
-"nelle miniere abbandonate ad est. I troll le hanno infestate ora, ma un "
-"tempo esse erano la sorgente del nostro materiale migliore."
+"nelle miniere abbandonate a est. I troll le hanno infestate ora, ma un tempo "
+"esse erano la sorgente del nostro materiale migliore."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:201
 msgid "So, we will go to the eastern mines!"
@@ -1414,7 +1408,7 @@ msgid ""
 "help fight these enemies."
 msgstr ""
 "Cominciamo a ragionare. Durstorn, manda qualche minatore per aiutarci nelle "
-"miniere, ed io porterò qualche adepto mastro di rune dall'accademia per "
+"miniere, e io porterò qualche adepto mastro di rune dall'accademia per "
 "aiutarci a combattere gli eventuali nemici."
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:216
@@ -1444,7 +1438,7 @@ msgstr "M' 'u!"
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:3
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:11
 msgid "Gathering Materials"
-msgstr "Raccogliendo minerali"
+msgstr "La raccolta di minerali"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:20
 msgid ""
@@ -1463,7 +1457,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:45
 msgid "Gather the necessary gold and coal to create the sceptre"
-msgstr "Raccogli l'oro ed il carbone necessari a completare lo scettro"
+msgstr "Raccogli l'oro e il carbone necessari a completare lo scettro"
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:49
 msgid "1 load of gold and 2 loads of coal are needed"
@@ -1526,7 +1520,7 @@ msgid ""
 "where there are no trolls and ogres, and mine there."
 msgstr ""
 "Questo è tutto quello che dovevamo prendere da queste miniere. Ora dovremmo "
-"tornare indietro, ad ovest, dove non ci sono troll ed ogre, e finire "
+"tornare indietro, a ovest, dove non ci sono troll ed ogre, e finire "
 "d'estrarre lì."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:251
@@ -1553,7 +1547,7 @@ msgstr "Ho tutto l'oro che posso portare..."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:3
 msgid "The Jeweler"
-msgstr "Il Gioielliere"
+msgstr "Il gioielliere"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:40
 msgid ""
@@ -1615,7 +1609,7 @@ msgstr "oh... giusto, giusto. D'accordo. Theganli?"
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:146
 msgid "He's in his shop, in the southern tunnel."
-msgstr "E' nel suo negozio, nel tunnel a sud."
+msgstr "È nel suo negozio, nel tunnel a sud."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:150
 msgid "Whatever. Kuhnar, go, summon him here."
@@ -1760,11 +1754,11 @@ msgstr "Certo! Per esser sicuri, comunque, tu e Noiraran verrete con noi."
 
 #: Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:290
 msgid "Yes sir... *sigh*"
-msgstr "Si signore... *sigh*"
+msgstr "Si signore... (sigh)"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:3
 msgid "Hills of the Shorbear Clan"
-msgstr "Le colline del Clan Shobear"
+msgstr "Le colline del clan Shobear"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:29
 msgid "Glonoin"
@@ -1779,22 +1773,22 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:109
 msgid "Defeat dwarvish leader"
-msgstr ""
+msgstr "Sconfiggi il comandante dei nani"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:129
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:382
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:478
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:535
 msgid "Death of Durstorn"
-msgstr ""
+msgstr "Morte di Durstorn"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:155
 msgid "loyal, intelligent"
-msgstr ""
+msgstr "leale, intelligente"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:166
 msgid "loyal, strong"
-msgstr ""
+msgstr "leale, forte"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:188
 msgid ""
@@ -1809,7 +1803,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:196
 msgid "Exactly."
-msgstr ""
+msgstr "Esattamente."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:200
 msgid ""
@@ -1840,7 +1834,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:220
 msgid "Well, fine, I'll hear your offer."
-msgstr ""
+msgstr "Va bene, va bene, ascolterò la tua offerta."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:224
 msgid ""
@@ -1856,19 +1850,19 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:232
 msgid "That's none of your concern!"
-msgstr ""
+msgstr "Non sono affari tuoi!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:236
 msgid "I'll take twenty-five hundred, minimum."
-msgstr ""
+msgstr "Almeno 2500."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:240
 msgid "(whispered) Durstorn, that would be a quarter of all our profits!"
-msgstr ""
+msgstr "(sussurra) Durnstorn, sarebbe un quarto di tutti i nostri profitti!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:244
 msgid "I know that. Uh, Glonoin, how about five hundred?"
-msgstr ""
+msgstr "Lo so. Eh, Glonoin, che ne pensi di cinquecento?"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:248
 msgid ""
@@ -1878,20 +1872,20 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:252
 msgid "You must be mad! I'll offer one thousand, but no higher!"
-msgstr ""
+msgstr "Devi essere matto! Io offro mille, non di più!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:256
 msgid "Two thousand, and I'll go no lower!"
-msgstr ""
+msgstr "Duemila, e non scenderò oltre!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:260
 msgid "(whispered) What are we going to do? We can't go much higher!"
-msgstr ""
+msgstr "(sussurra) Cosa facciamo? Non possiamo salire così tanto!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:264
 msgid ""
 "(whispered) Offer him fifteen hundred, but don't go up, even if he refuses."
-msgstr ""
+msgstr "(sussurra) Offrigli 1500, ma non salire più, nemmeno se li rifiuta."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:268
 msgid ""
@@ -1902,37 +1896,39 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:272
 msgid "(whispered) So you what are you going to do?"
-msgstr ""
+msgstr "(sussurra) E allora cosa farai?"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:276
 msgid "(whispered) Fight him, and take the tools by force."
-msgstr ""
+msgstr "(sussurra) Combattilo e prendigli gli attrezzi con la forza."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:280
 msgid "Are you mad?!?"
-msgstr ""
+msgstr "Sei pazzo?!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:284
 msgid ""
 "Of course not! Now, Glonoin; one thousand was my final offer. If you won't "
 "accept it, we will take the tools from you by force!"
 msgstr ""
+"Naturalmente no! Allora, Glonoin; mille è la mia ultima offerta. Se non "
+"l'accetti, ci prenderemo gli attrezzi con la forza!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:288
 msgid "I'd like to see you try!"
-msgstr ""
+msgstr "Lo voglio proprio vedere!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:292
 msgid "You're making a mistake, Durstorn."
-msgstr ""
+msgstr "Stai commettendo un errore, Durstorn."
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:296
 msgid "Shut up, all of you! Attack them!"
-msgstr ""
+msgstr "Zitti tutti! Attacchiamolo!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:311
 msgid "Lyndar"
-msgstr ""
+msgstr "Lyndar"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:317
 msgid ""
@@ -1942,7 +1938,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:321
 msgid "Who the devil are you?"
-msgstr ""
+msgstr "Chi diavolo sei?"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:325
 msgid ""
@@ -1974,7 +1970,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:345
 msgid "Deal!"
-msgstr ""
+msgstr "Affare fatto!"
 
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:349
 msgid "Ah, they don't scare me! We can take both of them!"
@@ -2054,7 +2050,7 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:598
 #: Sceptre_of_Fire/scenarios/utils.cfg:61
 msgid "Gaanngh..."
-msgstr ""
+msgstr "Gaanngh..."
 
 #: Sceptre_of_Fire/scenarios/5t_Trapped.cfg:47
 msgid "Well, have we found any tunnels yet?"
@@ -2145,19 +2141,19 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:3
 msgid "Towards the Caves"
-msgstr ""
+msgstr "Verso le caverne"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:29
 msgid "Gaenlar"
-msgstr ""
+msgstr "Gaenlar"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:60
 msgid "Glinan"
-msgstr ""
+msgstr "Glinan"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:87
 msgid "Kalnar"
-msgstr ""
+msgstr "Kalnar"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:107
 msgid ""
@@ -2404,15 +2400,15 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:116
 msgid "Lord Asaeri"
-msgstr ""
+msgstr "Lord Asaeri"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:119
 msgid "strong, dexterous"
-msgstr ""
+msgstr "forte"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:128
 msgid "Gaelir"
-msgstr ""
+msgstr "Gaelir"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:131
 msgid "quick, dexterous"
@@ -2420,7 +2416,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:140
 msgid "Salira"
-msgstr ""
+msgstr "Salira"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:143
 #: Sceptre_of_Fire/scenarios/utils.cfg:185
@@ -2429,7 +2425,7 @@ msgstr "forte, veloce"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:152
 msgid "Losnin"
-msgstr ""
+msgstr "Losnin"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:155
 #: Sceptre_of_Fire/scenarios/utils.cfg:183
@@ -2438,7 +2434,7 @@ msgstr "forte, resistente"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:164
 msgid "Ealin"
-msgstr ""
+msgstr "Ealin"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:167
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:197
@@ -2458,7 +2454,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:194
 msgid "Raesil"
-msgstr ""
+msgstr "Raesil"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:212
 msgid ""
@@ -2468,7 +2464,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:217
 msgid "Rolin"
-msgstr ""
+msgstr "Rolin"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:222
 msgid "We will certainly help any warrior of Wesnoth who needs our help!"
@@ -2476,7 +2472,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:249
 msgid "Hadlin"
-msgstr ""
+msgstr "Hadlin"
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:254
 msgid "Who goes there?"
@@ -2501,7 +2497,7 @@ msgstr "Il Dragone"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:31
 msgid "Landar"
-msgstr ""
+msgstr "Landar"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:50
 msgid "Khrakrahs"
@@ -2561,7 +2557,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:225
 msgid "Ah, fresh meat!"
-msgstr ""
+msgstr "Ah, carne fresca!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:229
 msgid "And which of the great dragons are you?"
@@ -2616,7 +2612,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:322
 msgid "Survive for 9 turns"
-msgstr ""
+msgstr "Resisti per 9 turni"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:334
 msgid "An enemy moves onto the forge"
@@ -2650,7 +2646,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:3
 msgid "Caverns of Flame"
-msgstr ""
+msgstr "Caverne di fuoco"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:130
 msgid ""
@@ -2676,7 +2672,7 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:256
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:264
 msgid "Guardian"
-msgstr ""
+msgstr "Custode"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:269
 msgid ""
@@ -2712,7 +2708,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:294
 msgid "Krawg sme' o'cz in iz 'ave!"
-msgstr ""
+msgstr "Krawg sme' o'cz in iz 'ave!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:298
 msgid "Indeed, there may be orcs lurking here. We should beware of them."
@@ -2720,7 +2716,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:326
 msgid "Aendan"
-msgstr ""
+msgstr "Aendan"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:332
 msgid "We have caught up to the dwarves. Now, prepare to destroy them!"
@@ -2839,7 +2835,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:83
 msgid "Guard Captain"
-msgstr ""
+msgstr "Capitano della guardia"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:100
 msgid "Gatekeeper"
@@ -2857,7 +2853,7 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:124
 msgid "Very well. You may pass."
-msgstr ""
+msgstr "Benissimo. Passa pure."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:129
 msgid ""
@@ -3005,25 +3001,25 @@ msgstr ""
 #: Sceptre_of_Fire/scenarios/deaths.cfg:9
 #: Sceptre_of_Fire/scenarios/utils.cfg:22
 msgid "Gahahh..."
-msgstr ""
+msgstr "Gahahh..."
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:22
 #: Sceptre_of_Fire/scenarios/utils.cfg:35
 msgid "Maghah..."
-msgstr ""
+msgstr "Maghah..."
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:35
 msgid "Alnnn..."
-msgstr ""
+msgstr "Alnnn..."
 
 #: Sceptre_of_Fire/scenarios/deaths.cfg:61
 #: Sceptre_of_Fire/scenarios/utils.cfg:74
 msgid "Kraa..."
-msgstr ""
+msgstr "Kraa..."
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:48
 msgid "Ahhgg..."
-msgstr ""
+msgstr "Ahhgg..."
 
 #: Sceptre_of_Fire/scenarios/utils.cfg:184
 msgid "intelligent, resilient"
@@ -3039,7 +3035,7 @@ msgstr "veloce, intelligente"
 
 #: Sceptre_of_Fire/units/Caravan.cfg:4
 msgid "Empty Caravan"
-msgstr ""
+msgstr "Carovana vuota"
 
 #: Sceptre_of_Fire/units/Caravan.cfg:14
 msgid ""
@@ -3061,7 +3057,7 @@ msgstr "impatto"
 
 #: Sceptre_of_Fire/units/Caravan.cfg:28
 msgid "Loaded Caravan"
-msgstr ""
+msgstr "Carovana carica"
 
 #: Sceptre_of_Fire/units/Caravan.cfg:39
 msgid ""
@@ -3196,6 +3192,3 @@ msgstr "artigli"
 #: Sceptre_of_Fire/units/Wolf.cfg:45
 msgid "blade"
 msgstr "lama"
-
-#~ msgid "Caravan loaded. Time to go the the dwarvish citadel."
-#~ msgstr "Carovana caricata. E' tempo di andare alla cittadella nanica."
