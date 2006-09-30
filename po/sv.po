@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-17 22:25+0200\n"
-"PO-Revision-Date: 2006-07-04 20:39+0200\n"
+"PO-Revision-Date: 2006-09-29 23:29+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.2\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Sceptre_of_Fire.cfg:9
 msgid "The Sceptre of Fire"
@@ -102,7 +102,6 @@ msgstr ""
 "de största av hjältar i det gamla Knalga."
 
 #: Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:81
-#, fuzzy
 msgid ""
 "Our story begins in a small border outpost in the southern hills of Knalga, "
 "with a young dwarf, named Rugnur, in charge of it. And with the second king "
@@ -619,7 +618,6 @@ msgid "Baglur, how do you close the gates?"
 msgstr "Baglur, hur stänger man portarna?"
 
 #: Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:253
-#, fuzzy
 msgid ""
 "Agh, well that's the difficulty. Its a magic gate. Indestructible. But that "
 "means it can only be closed by magic. You need to position a warrior on each "
@@ -910,7 +908,6 @@ msgstr ""
 "till när vi levererar den färdiga spiran, om vi gör det inom hans livstid."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:174
-#, fuzzy
 msgid ""
 "What?!? You already accepted? Foolish boy, you should have come for one of "
 "the elders! We could have gotten much more than ten thousand silver out of "
@@ -941,7 +938,6 @@ msgstr ""
 "betalning än vad jag skulle önskat..."
 
 #: Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:186
-#, fuzzy
 msgid ""
 "Well, since this boy bargained so badly, why not make him fulfil the "
 "contract himself? If he fails, it's on his head."
@@ -1107,7 +1103,6 @@ msgid "Kwes! Yooo spakkk wit uuus nuu?"
 msgstr "Kva! Dooo taaala mit ooos noo?"
 
 #: Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:321
-#, fuzzy
 msgid "It's talking to us! What do you want, gryphon?"
 msgstr "Den talar med oss! Vad vill du, grip?"
 
@@ -1353,7 +1348,6 @@ msgid "The ruby is mine, and don't touch it!"
 msgstr "Rubinen är min och du rör den inte!"
 
 #: Sceptre_of_Fire/scenarios/3t_The_Coucil_Regathers.cfg:159
-#, fuzzy
 msgid ""
 "Uh, technically it's Haldric's, and I think that if Thursagan needs to see "
 "to plan this sceptre, he can."
@@ -1489,7 +1483,6 @@ msgstr ""
 "grottorna."
 
 #: Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:23
-#, fuzzy
 msgid ""
 "And braver still were Rugnur and his companions, who had to spend two years "
 "in those tunnels. For mining is a lengthy business. But they could for the "
@@ -2278,7 +2271,6 @@ msgid "Kalnar"
 msgstr "Kalnar"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:107
-#, fuzzy
 msgid ""
 "Durstorn's rash action led to many problems. Not the least of which was "
 "being surrounded by elves."
@@ -2287,7 +2279,6 @@ msgstr ""
 "omringad av alver."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:110
-#, fuzzy
 msgid ""
 "The dwarves spent several years trapped in those caves, the elves besieging "
 "them. The dwarves could not leave, for there were far too many elves, and "
@@ -2300,7 +2291,6 @@ msgstr ""
 "för de magiska dvärgaportarna var stängda."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:113
-#, fuzzy
 msgid ""
 "During this time, Thursagan crafted the Sceptre of Fire, first cutting the "
 "jewel, then putting it, the gold and the cold steel into the heat of the "
@@ -2334,7 +2324,6 @@ msgstr ""
 "juveler och allt guld han behöver. Skall vi inte ta och ge oss av nu?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:185
-#, fuzzy
 msgid ""
 "All this time and he couldn't make it? Fine, we should try to leave... but "
 "it's not like we could leave if we wanted to. We're surrounded!"
@@ -2368,7 +2357,6 @@ msgstr ""
 "alverna oss leva om vi dem ritningarna till spiran."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:214
-#, fuzzy
 msgid ""
 "Yes, of course, let's just all be cowards! What happened to your honor, "
 "Durstorn?!"
@@ -2386,7 +2374,6 @@ msgstr ""
 "ta oss ut härifrån levande."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:222
-#, fuzzy
 msgid ""
 "You don't have authority over me, Durstorn. And I wouldn't give the sceptre "
 "to them even if you did. It's not yours to give, its mine, and Rugnur's, and "
@@ -2522,7 +2509,6 @@ msgid "I suppose..."
 msgstr "Ja, så kan det väl vara..."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:313
-#, fuzzy
 msgid "Come out, dwarves, and surrender! Or die in that cave, your choice."
 msgstr "Kom ut, dvärgar, och ge upp! Eller dö i er grotta, det är upp till er."
 
@@ -2717,7 +2703,6 @@ msgid "Khrakrahs"
 msgstr "Khrakrahs"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:67
-#, fuzzy
 msgid ""
 "Thus Alanin escaped from his Elvish pursuers. But the dwarves were not so "
 "lucky. I would say that, perhaps, their betrayal of Durstorn was coming back "
@@ -2761,18 +2746,16 @@ msgstr ""
 "stenen!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:195
-#, fuzzy
 msgid ""
 "If we give them the ruby, then what? They'll probably kill us anyway. And, "
 "that ruby has the power to do great things, evil things. We can't let it "
 "fall into the wrong hands."
 msgstr ""
-"Och då, efter att vi gett dem rubinen? De kommer säkert att döda oss i alla "
-"fall. Och den där rubinen har makt att göra stora saker, onda saker. Vi kan "
-"inte låta den falla i orätta händer."
+"Och sen då, efter att vi gett dem rubinen? De kommer säkert att döda oss i "
+"alla fall. Och den där rubinen har makt att göra stora saker, onda saker. Vi "
+"kan inte låta den falla i orätta händer."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:204
-#, fuzzy
 msgid ""
 "So we're running away, eh? I don't like that, but it seems it's our only "
 "option."
@@ -2847,7 +2830,6 @@ msgid "Defend Thursagan until the sceptre is complete"
 msgstr "Försvara Thursagan tills spiran är fullbordad"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:313
-#, fuzzy
 msgid ""
 "This forge will work perfectly. Give me a few days here, and I can reforge "
 "the sceptre to fulfil its purpose."
@@ -3025,7 +3007,6 @@ msgstr ""
 "på spiran. Men vad skall vi göra nu?!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:561
-#, fuzzy
 msgid "Now, we must fight the orcs until we die, it's our only option."
 msgstr "Nu är vår enda utväg att slåss mot orcherna tills vi dör."
 
@@ -3145,7 +3126,6 @@ msgstr ""
 "berätta?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:133
-#, fuzzy
 msgid ""
 "I bring tidings of the Sceptre of Fire, commissioned fifteen years ago by "
 "our king. I have been away for a long time, do not delay me even more."
@@ -3198,7 +3178,6 @@ msgid "Why were you returning without the sceptre, then?"
 msgstr "Varför tog du inte med dig spiran, då?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:187
-#, fuzzy
 msgid ""
 "We had been besieged by elves, in a dwarvish castle that was not Rugnur's. "
 "The sceptre could not be completed there, but it could in a cave that lay to "
@@ -3229,7 +3208,6 @@ msgid "Who?"
 msgstr "Vem?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:221
-#, fuzzy
 msgid ""
 "My lord, a gryphon has just flown over our walls! It may be a sign of an "
 "attack!"
@@ -3252,7 +3230,6 @@ msgid "What the devil is he saying?"
 msgstr "Vad sjutton säger han?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:238
-#, fuzzy
 msgid ""
 "He says that he has seen the Sceptre. Rugnur had it, but he lost it in the "
 "caves. He came to tell you, so that you would know that the dwarves did "
@@ -3553,8 +3530,3 @@ msgstr "klor"
 #: Sceptre_of_Fire/units/Wolf.cfg:45
 msgid "blade"
 msgstr "hugg"
-
-#~ msgid "Caravan loaded. Time to go the the dwarvish citadel."
-#~ msgstr ""
-#~ "Karavanen är fullastad. Det är dags att ge sig av till dvärgarnas "
-#~ "citadell."
