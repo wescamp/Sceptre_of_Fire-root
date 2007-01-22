@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-17 22:25+0200\n"
-"PO-Revision-Date: 2007-01-15 13:08+0100\n"
+"PO-Revision-Date: 2007-01-22 17:23+0100\n"
 "Last-Translator: Gwain <mcgwain@hotmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -2749,7 +2749,7 @@ msgid ""
 "Well, Thursagan, we've reached the caves, but the elves are hot on our "
 "trail. What do we do now?"
 msgstr ""
-"Be', Thrsagan, abbiamo raggiunto le caverne, ma abbiamo gli elfi alle "
+"Be', Thursagan, abbiamo raggiunto le caverne, ma abbiamo gli elfi alle "
 "calcagna. Cosa facciamo adesso?"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:187
@@ -2760,6 +2760,11 @@ msgid ""
 "can't run as fast in caves as we can, so we may be able to get ahead of them "
 "and perhaps lay a trap."
 msgstr ""
+"Bene, abbiamo due opzioni. Possiamo rimanere qua e certamente morire oppure "
+"correre il più veloce possibile per questa strada nelle profondità delle "
+"caverne dove potremmo trovare qualcosa di utile. Inoltre ricordate che gli "
+"elfi non possono muoversi velocemente nelle caverne come noi e dunque "
+"potremo stargli davanti e magari preparare una trappola."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:191
 msgid "Why don't we just surrender? All they want is that magic stone!"
@@ -2774,18 +2779,19 @@ msgid ""
 "fall into the wrong hands."
 msgstr ""
 "Anche se gli dessimo il rubino, poi cosa succederebbe? Probabilmente ci "
-"ucciderebbero in ogni caso. E , questo rubino ha un grande potere, un potere "
-"malvagio. Non possiamo lasciarlo cadere nelle mani sbagliate."
+"ucciderebbero in ogni caso. Inoltre questo rubino ha un grande potere, un "
+"potere malvagio. Non possiamo lasciarlo cadere nelle mani sbagliate."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:204
 msgid ""
 "So we're running away, eh? I don't like that, but it seems it's our only "
 "option."
 msgstr ""
+"Dunque corriamo, eh? Non mi piace ma sembra che non abbiamo altra scelta."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:208
 msgid "If it makes you feel any better, we'll probably die this way, too."
-msgstr ""
+msgstr "Se ti fa sentire meglio, probabilmente moriremo comunque."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:221
 msgid "Look, there's a dragon in these caves!"
@@ -2826,16 +2832,21 @@ msgid ""
 "more of them. That's bad news for us, for they'll go as fast in caves as we "
 "do."
 msgstr ""
+"Deve essere uno dei mercenari di Surghan. Scommetto che gli elfi ne hanno "
+"assoldati parecchi. È una pessima notizia, dato che essi si muovono veloci "
+"nelle caverne quanto noi."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:270
 msgid ""
 "Look, I've found something here. It looks like a forge, heated by the lava. "
 "It looks magic, and it looks hot enough to make the Sceptre."
 msgstr ""
+"Guarda, ho trovato qualcosa qua. Sembra una forgia, riscaldata dalla lava. "
+"Sembra magica e sufficientemente rovente per forgiare lo scettro."
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:274
 msgid "That pretty metal rock is mine! Get away from it!"
-msgstr ""
+msgstr "È mia, questa bella roccia metallica è mia! Andate via!"
 
 #: Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:279
 msgid "Move Thursagan to the forge"
@@ -2906,12 +2917,16 @@ msgid ""
 "the orcs, with the elves hot on their trail. And there was no exit from "
 "those caves."
 msgstr ""
+"Non c'era uscita dalle caverne di Knalga. Raggiunsero i regni degli orchi "
+"con gli elfi alle calcagna. E non c'era via di scampo da queste caverne."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:133
 msgid ""
 "So the dwarves had no way out. They could not leave the caverns that they "
 "had entered."
 msgstr ""
+"I nani dunque non potevano uscire. Non avrebbero potuto lasciare le caverne "
+"in cui erano entrati."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:152
 msgid "Explore as much of the cave as possible"
@@ -2931,6 +2946,8 @@ msgid ""
 "Well, I think we've gotten a good distance ahead of the elves. What do we do "
 "now?"
 msgstr ""
+"Be', credo che abbiamo messo abbastanza spazio tra noi e gli elfi. Cosa "
+"facciamo ora?"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:273
 msgid ""
@@ -2938,14 +2955,17 @@ msgid ""
 "volcano? I think we should try to cause it to erupt. It will kill all the "
 "elves, and we might be able to find a safe place so the lava doesn't kill us."
 msgstr ""
+"Dovremo continuare. Ricordi cosa ha detto Khrakrahs sul vulcano? Penso che "
+"dovremo cercare di provocare una eruzione. Questa potrbbe uccidere tutti gli "
+"elfi e noi potremmo trovare un posto sicuro dove la lava non ci uccida."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:277
 msgid "This sounds... attemptable."
-msgstr ""
+msgstr "Si può... tentare."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:281
 msgid "Yes, an interesting plan. How do you propose we do this?"
-msgstr ""
+msgstr "Sì, un piano interessante. Come proponi di metterlo in pratica?"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:285
 msgid ""
@@ -2953,10 +2973,13 @@ msgid ""
 "to the surface. Somewhere near there, there is probably a magic object of "
 "some kind that will cause the lava to flow."
 msgstr ""
+"Credo che ci sia un'apertura da qualche parte qua vicino che porta alla "
+"superfice. Da qualche parte qua vicino probabilmente c'è un qualche tipo di "
+"oggetto magico che potrebbe provocare l'eruzione."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:289
 msgid "Very well. We will continue to explore until we find it."
-msgstr ""
+msgstr "Benissimo. Continueremo a cercare fino a ché non l'avremmo trovato."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:294
 msgid "Krawg sme' o'cz in iz 'ave!"
@@ -2965,6 +2988,8 @@ msgstr "Krawg sme' o'cz in iz 'ave!"
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:298
 msgid "Indeed, there may be orcs lurking here. We should beware of them."
 msgstr ""
+"Certamente, ci potrebbero essere degli orchi in agguato. Dovremmo fare "
+"attenzione."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:326
 msgid "Aendan"
@@ -2972,7 +2997,7 @@ msgstr "Aendan"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:332
 msgid "We have caught up to the dwarves. Now, prepare to destroy them!"
-msgstr ""
+msgstr "Abbiamo raggiunto i nani. Adesso prepariamoci a distruggerli!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:371
 msgid "Thursagan! The elves are right on our tail; what should we do?"
@@ -2984,6 +3009,9 @@ msgid ""
 "should draw the elves further into the caves, so they can't escape when it "
 "does erupt."
 msgstr ""
+"Potremo cercare di scatenare il vulcano da un momento all'altro. Nel "
+"frattempo dovremmo spingere gli elfi dentro le caverne in modo che non "
+"abbiano via di scampo quando il vulcano erutterà."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:435
 msgid "These orcs appear to be guarding something."
@@ -2999,28 +3027,34 @@ msgstr "Portati sul glifo al centro del vulcano"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:535
 msgid "That's it! The volcano will erupt soon now that you've triggered it."
-msgstr ""
+msgstr "Ecco! Adesso che lo abbiamo scatenato il vulcano erutterà presto."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:546
 msgid ""
 "Look, it has knocked down some of the walls! Those orcs have a way out now!"
 msgstr ""
+"Guardate, alcune pareti sono crollate! Quegli orchi hanno una via di scampo!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:555
 msgid ""
 "Well, we've succeeded in stopping the elves from getting the sceptre, I "
 "would say. But what do we do now?!"
 msgstr ""
+"Bene, siamo riusciti a impedire agli elfi di prendersi lo scettro, direi. Ma "
+"cosa facciamo ora?!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:561
 msgid "Now, we must fight the orcs until we die, it's our only option."
 msgstr ""
+"Adesso dovremo combattere gli orchi all'ultimo sangue, non abbiamo scelta."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:567
 msgid ""
 "We cannot let any of the elves or their mercenaries escape; they would tell "
 "where the sceptre is. Make sure they all die!"
 msgstr ""
+"Non possiamo permettere che gli eli o i loro mercenari fuggano; "
+"racconterebbero dove si trova lo scettro. Assicuriamoci che muoiano tutti!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:573
 msgid ""
@@ -3028,12 +3062,17 @@ msgid ""
 "remember, the lava spreads quickly, suddenly, and dangerously. The only "
 "place safe from it is the area near the glyph."
 msgstr ""
+"Dobbiamo ucciderli in fretta prima che si rendano conto di quello che sta "
+"succedendo. E ricordate che la lava scorre rapida, improvvisa e pericolosa. "
+"L'unico posto sicuro è la zona vicino al glifo."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:605
 msgid ""
 "Wait, what's going on? The volcano is going to erupt! Everyone, try to get "
 "out of these caves!"
 msgstr ""
+"Un momento, ma cosa sta succedendo? Il vulcano sta per eruttare! Si salvi "
+"chi può!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:623
 msgid "I must go report to my superiors!"
@@ -3047,19 +3086,22 @@ msgstr "Uno dei nemici è riuscito a scappare; abbiamo fallito."
 msgid ""
 "Aghh!!! The volcano is erupting, and now our exit has been blocked off!!!"
 msgstr ""
+"Aghh!!! Il vulcano sta eruttando e adesso la nostra via d'uscita è stata "
+"bloccata!!!"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:710
 msgid ""
 "We have hidden the sceptre well, but now the volcano is going to erupt and "
 "kill us all."
 msgstr ""
+"Abbiamo nascosto bene lo scettro ma ora il vulcano sta per eruttare e ci "
+"ucciderà tutti."
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:845
 msgid "Kill all of the elves before one of them escapes from the caves"
 msgstr "Uccidi tutti gli elfi prima che qualcuno scappi dalle caverne"
 
 #: Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:952
-#, fuzzy
 msgid "Hm... Me le' no'w!"
 msgstr "Hm... Me le' no'w!"
 
@@ -3120,13 +3162,15 @@ msgstr "Benissimo. Passa pure."
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:129
 msgid ""
 "I hear you desire to speak to the king, Alanin. What do you have to tell him?"
-msgstr ""
+msgstr "Mi hanno detto che vuoi parlare al re, Alanin. Cosa hai da dirgli?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:133
 msgid ""
 "I bring tidings of the Sceptre of Fire, commissioned fifteen years ago by "
 "our king. I have been away for a long time, do not delay me even more."
 msgstr ""
+"Porto notizie dello scettro di fuoco, commissionato quindici anni fa dal "
+"nostro re. Sono stato lontano molto tempo, non posso ritardare ancora."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:137
 msgid "Enter, Alanin, and give the king your message."
@@ -3137,22 +3181,28 @@ msgid ""
 "My King, fifteen years ago you sent me on a mission into the northlands. I "
 "have returned. What do you wish to know of my mission?"
 msgstr ""
+"Mio re, quindici anni fa mi avete mandato in missione al nord. Sono tornato. "
+"Cosa volete sapere della mia missione?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:167
 msgid "Well, was the Sceptre completed? Do you have it? Give it to me!"
-msgstr "Bene, lo scettro è finito? Lo hai? Dammelo!"
+msgstr "Bene, lo scettro è stato completato? Ce l'hai? Dammelo!"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:171
 msgid ""
 "I believe it was completed, but, I do not have it. It is buried deep in the "
 "mountains of the Northlands."
 msgstr ""
+"Credo che sia stato completato, ma io non ce l'ho. È sepolto nelle "
+"profondità dellemontagne del nord."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:175
 msgid ""
 "Why? Why was it not returned to me? Have the dwarves reneged on their "
 "promise, and kept it?"
 msgstr ""
+"Perché? Perché non mi è stato restituito? I nani hanno rinnegato la loro "
+"promessa e se lo sono tenuto?"
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:179
 msgid ""
@@ -3231,7 +3281,6 @@ msgstr ""
 "la loro promessa."
 
 #: Sceptre_of_Fire/scenarios/Epilogue.cfg:243
-#, fuzzy
 msgid "Kreeeeya! Darat! Nomiduun. Bah."
 msgstr "Kreeeeya! Darat! Nomiduun. Bah."
 
