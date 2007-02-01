@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-01-28 21:28+0100\n"
-"PO-Revision-Date: 2006-09-29 23:29+0200\n"
+"PO-Revision-Date: 2007-02-01 01:37+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -2440,16 +2440,15 @@ msgstr ""
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:266
 msgid "Yes. So, see the area to the northeast of us?"
-msgstr ""
+msgstr "Ja. Då så, ni ser området i nordöst?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:276
-#, fuzzy
 msgid ""
 "That's where there are the least elvish guards, so we have the greatest "
 "chance of success there. I think we should try to get to it."
 msgstr ""
-"Ja. Ser ni området i nordost? Där finns det inte så många alvvakter, så vi "
-"har bäst chans att lyckas där. Jag tycker att vi skall försöka ta oss dit."
+"Där finns det inte så många alvvakter, så vi har bäst chans att lyckas där. "
+"Jag tycker att vi skall försöka ta oss dit."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:280
 msgid ""
@@ -2479,18 +2478,16 @@ msgstr ""
 "jag! Vad skall jag göra?"
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:292
-#, fuzzy
 msgid ""
 "Well, you are a member of the Wesnothian army. Why don't you rejoin it? See "
 "if you can run past those elves to our southeast,"
 msgstr ""
 "Du tillhör den wesnothiska armén. Varför går du inte tillbaka till dem? Du "
-"kan nog ta dig förbi alverna i sydöst, och sedan rida söderut tills du når "
-"en av era utposter."
+"kan nog ta dig förbi alverna i sydöst, "
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:302
 msgid "And then ride south until you reach one of your outposts."
-msgstr ""
+msgstr "Och sedan rida söderut tills du når en av era utposter."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:306
 msgid ""
@@ -2549,13 +2546,12 @@ msgstr ""
 "alverna, men att vi antagligen kommer att dö. Vi går in i grottorna."
 
 #: Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:473
-#, fuzzy
 msgid ""
 "I don't know what is in these caves, but whatever it is can't be worse than "
 "staying here to die."
 msgstr ""
 "Jag vet inte vad som finns i grottorna, men det kan inte vara värre än att "
-"bli anfallna av hundratals alver."
+"stanna kvar här och dö."
 
 #: Sceptre_of_Fire/scenarios/7_Outriding_of_Outriders.cfg:3
 msgid "Outriding the Outriders"
